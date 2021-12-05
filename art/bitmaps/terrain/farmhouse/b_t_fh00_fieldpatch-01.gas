@@ -1,7 +1,0 @@
-[t:tsd,n:b_t_fh00_fieldpatch-01]
-{
-  b dither = true;
-  b hasalpha = true;
-    layer1texture1 = b_t_fh00_fieldpatch-01;
-  i texturedetail = 0;
-}

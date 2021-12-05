@@ -1,9 +1,0 @@
-[t:tsd,n:b_t_sn02_ele-disk-front-a]
-{
-	layer1texture1 = b_t_sn02_ele-disk-front-a;
-  i texturedetail = 2;
-  f layer1rotationpersecond = 3;
-  f layer1rotationucenter = 0.0;
-  f layer1rotationvcenter = 0.0;
-  b timesyncanimation = true;
-}

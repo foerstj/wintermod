@@ -1,7 +1,0 @@
-[t:tsd,n:b_t_fh00_field-rows-corner-a]
-{
-  b dither = true;
-  b hasalpha = true;
-    layer1texture1 = b_t_fh00_field-rows-corner-a;
-  i texturedetail = 0;
-}

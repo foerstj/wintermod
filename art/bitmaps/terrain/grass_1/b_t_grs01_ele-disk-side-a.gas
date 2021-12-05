@@ -1,9 +1,0 @@
-[t:tsd,n:b_t_sn02_ele-disk-side-a]
-{
-	layer1texture1 = b_t_sn02_ele-disk-side-a;
-  i texturedetail = 2;
-  f layer1ushiftpersecond = -3;
-  b layer1uwrap = true;
-  b timesyncanimation = true;
-  i texturedetail = 2;
-}

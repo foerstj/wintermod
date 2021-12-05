@@ -1359,54 +1359,10 @@
 		model = m_i_csl_eggsacks-spider-06;
 	}
 }
-[t:template,n:fern_grs_01]
-{
-	category_name = "foliage";
-	doc = "grs_fern";
-	specializes = non_interactive_nonblocking;
-	[aspect]
-	{
-		lodfi_lower = 0.4;
-		lodfi_upper = 0.8;
-		model = m_i_grs_fern-01;
-	}
-}
-[t:template,n:fern_grs_02]
-{
-	category_name = "foliage";
-	doc = "grs_fern_clump_sm";
-	specializes = non_interactive_nonblocking;
-	[aspect]
-	{
-		lodfi_lower = 0.7;
-		lodfi_upper = 1;
-		model = m_i_grs_fern-02;
-	}
-}
-[t:template,n:fern_grs_03]
-{
-	category_name = "foliage";
-	doc = "grs_fern_clump_lg";
-	specializes = non_interactive_nonblocking;
-	[aspect]
-	{
-		lodfi_lower = 0.7;
-		lodfi_upper = 1;
-		model = m_i_grs_fern-03;
-	}
-}
-[t:template,n:fern_grs_04]
-{
-	category_name = "foliage";
-	doc = "grs_fern_clump_xlg";
-	specializes = non_interactive_nonblocking;
-	[aspect]
-	{
-		lodfi_lower = 0.8;
-		lodfi_upper = 1;
-		model = m_i_grs_fern-04;
-	}
-}
+[t:template,n:fern_grs_01] { specializes = no_obj_base; }
+[t:template,n:fern_grs_02] { specializes = no_obj_base; }
+[t:template,n:fern_grs_03] { specializes = no_obj_base; }
+[t:template,n:fern_grs_04] { specializes = no_obj_base; }
 [t:template,n:flowers_grs_04]
 {
 	category_name = "foliage";

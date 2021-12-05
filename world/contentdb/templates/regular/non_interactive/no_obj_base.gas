@@ -1,0 +1,5 @@
+[t:template,n:no_obj_base]
+{
+	specializes = trigger;
+    [gizmo] { diffuse_color=1.000000,1.000000,1.000000; texture=; }
+}

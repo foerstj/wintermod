@@ -1,0 +1,7 @@
+[t:tsd,n:b_t_fh00_field-rows-side-length-a]
+{
+  b dither = true;
+  b hasalpha = true;
+    layer1texture1 = b_t_fh00_field-rows-side-length-a;
+  i texturedetail = 0;
+}

@@ -164,7 +164,8 @@
 		}
 	}
 }
-[t:template,n:bush_grs_rhod_04]
+[t:template,n:bush_grs_rhod_04] { specializes = bush_grs_rhod_04_base; }
+[t:template,n:bush_grs_rhod_04_base]
 {
 	category_name = "foliage";
 	doc = "grs_bush_rhod_sm";

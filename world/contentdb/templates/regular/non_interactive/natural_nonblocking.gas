@@ -1515,18 +1515,7 @@
 		}
 	}
 }
-[t:template,n:foliage_grs_01]
-{
-	category_name = "foliage";
-	doc = "grs_ferns_grndcvr";
-	specializes = non_interactive_nonblocking;
-	[aspect]
-	{
-		lodfi_lower = 0.2;
-		lodfi_upper = 0.9;
-		model = m_i_grs_foliage-01;
-	}
-}
+[t:template,n:foliage_grs_01] { specializes = bush_grs_rhod_01_base; }
 [t:template,n:fungus_cav]
 {
 	category_name = "foliage";
@@ -1911,42 +1900,9 @@
 		}
 	}
 }
-[t:template,n:groundcover_grs_01]
-{
-	category_name = "foliage";
-	doc = "grs_groundcover_lg";
-	specializes = non_interactive_nonblocking;
-	[aspect]
-	{
-		lodfi_lower = 0.05;
-		lodfi_upper = 0.35;
-		model = m_i_glb_groundcover-01;
-	}
-}
-[t:template,n:groundcover_grs_02]
-{
-	category_name = "foliage";
-	doc = "grs_groundcover_med";
-	specializes = non_interactive_nonblocking;
-	[aspect]
-	{
-		lodfi_lower = 0.05;
-		lodfi_upper = 0.35;
-		model = m_i_glb_groundcover-02;
-	}
-}
-[t:template,n:groundcover_grs_03]
-{
-	category_name = "foliage";
-	doc = "grs_groundcover_sm";
-	specializes = non_interactive_nonblocking;
-	[aspect]
-	{
-		lodfi_lower = 0.05;
-		lodfi_upper = 0.3;
-		model = m_i_glb_groundcover-03;
-	}
-}
+[t:template,n:groundcover_grs_01] { specializes = bush_grs_rhod_03_base; }
+[t:template,n:groundcover_grs_02] { specializes = bush_grs_rhod_04_base; }
+[t:template,n:groundcover_grs_03] { specializes = bush_grs_rhod_04_base; }
 [t:template,n:groundcover_grs_04]
 {
 	category_name = "misc";

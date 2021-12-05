@@ -1,0 +1,5 @@
+[t:tsd,n:b_t_sn02_dungeonstair-04x08-01]
+{
+	layer1texture1 = b_t_sn02_dungeonstair-04x08-01;
+  i texturedetail = 2;
+}

@@ -1,0 +1,8 @@
+[t:tsd,n:b_t_sn02_ele-rope-a]
+{
+	layer1texture1 = b_t_sn02_ele-rope-a;
+  i texturedetail = 2;
+  f layer1vshiftpersecond = -8;
+  b layer1vwrap = true;
+  b timesyncanimation = true;
+}

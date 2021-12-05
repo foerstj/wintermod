@@ -1,0 +1,5 @@
+[t:tsd,n:b_t_sn02_rvr_bridge-stake]
+{
+	layer1texture1 = b_t_sn02_rvr_bridge-stake;
+  i texturedetail = 2;
+}

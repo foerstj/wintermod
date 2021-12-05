@@ -1,0 +1,5 @@
+[t:tsd,n:b_t_sn02_ruin_wall-02x02-detail-a]
+{
+	layer1texture1 = b_t_sn02_ruin_wall-02x02-detail-a;
+  i texturedetail = 2;
+}

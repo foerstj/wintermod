@@ -1,0 +1,5 @@
+[t:tsd,n:b_t_sn02_flr_dtl-08x08-b]
+{
+	layer1texture1 = b_t_sn02_flr_dtl-08x08-b;
+  i texturedetail = 2;
+}

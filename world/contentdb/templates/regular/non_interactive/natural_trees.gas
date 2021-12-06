@@ -908,30 +908,8 @@
 		model = m_i_glb_tree-oak-03;
 	}
 }
-[t:template,n:tree_grs_oldgrowth_01]
-{
-	category_name = "misc";
-	doc = "grs_branches_2";
-	specializes = base_tree;
-	[aspect]
-	{
-		lodfi_lower = 0.65;
-		lodfi_upper = 0.9;
-		model = m_i_glb_tree-oldgrowth-01;
-	}
-}
-[t:template,n:tree_grs_oldgrowth_02]
-{
-	category_name = "misc";
-	doc = "grs_branches_3";
-	specializes = base_tree;
-	[aspect]
-	{
-		lodfi_lower = 0.65;
-		lodfi_upper = 0.85;
-		model = m_i_glb_tree-oldgrowth-02;
-	}
-}
+[t:template,n:tree_grs_oldgrowth_01] { specializes = tree_ice_uproot_base; }
+[t:template,n:tree_grs_oldgrowth_02] { specializes = tree_ice_uproot_base; }
 [t:template,n:tree_grs_orange_01]
 {
 	category_name = "trees";
@@ -1520,7 +1498,8 @@
 		}
 	}
 }
-[t:template,n:tree_ice_uproot]
+[t:template,n:tree_ice_uproot] { specializes = tree_ice_uproot_base; }
+[t:template,n:tree_ice_uproot_base]
 {
 	category_name = "trees";
 	doc = "ice_uprooted tree";

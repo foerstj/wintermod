@@ -355,7 +355,15 @@
 		}
 	}
 }
-[t:template,n:tree_grs_apple_01] { specializes = tree_ice_pine_02_base; }
+[t:template,n:tree_grs_apple_01]
+{
+    specializes = tree_ice_pine_04_base;
+
+    [aspect]
+    {
+        scale_base = 2;
+    }
+}
 [t:template,n:tree_grs_cherry_01]
 {
 	category_name = "trees";

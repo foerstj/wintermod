@@ -363,6 +363,19 @@
     {
         scale_base = 2;
     }
+	[common]
+	{
+		[template_triggers]
+		{
+			[*]
+			{
+				condition* = receive_world_message("WE_ENTERED_WORLD");
+				single_shot = true;
+				no_trig_bits = true;
+				action* = call_sfx_script("xmas_tree_lg(sgx)");
+			}
+		}
+	}
 }
 [t:template,n:tree_grs_cherry_01]
 {
@@ -1108,7 +1121,24 @@
 		}
 	}
 }
-[t:template,n:tree_grs_poplar_01] { specializes = tree_ice_pine_04_base; }
+[t:template,n:tree_grs_poplar_01]
+{
+    specializes = tree_ice_pine_04_base;
+
+	[common]
+	{
+		[template_triggers]
+		{
+			[*]
+			{
+				condition* = receive_world_message("WE_ENTERED_WORLD");
+				single_shot = true;
+				no_trig_bits = true;
+				action* = call_sfx_script("xmas_tree(sgx)");
+			}
+		}
+	}
+}
 [t:template,n:tree_grs_sapling_01]
 {
 	category_name = "trees";

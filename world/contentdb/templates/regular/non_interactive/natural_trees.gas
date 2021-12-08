@@ -355,18 +355,7 @@
 		}
 	}
 }
-[t:template,n:tree_grs_apple_01]
-{
-	category_name = "trees";
-	doc = "grs_apple";
-	specializes = base_tree;
-	[aspect]
-	{
-		lodfi_lower = 0.25;
-		lodfi_upper = 0.6;
-		model = m_i_glb_tree-apple-01;
-	}
-}
+[t:template,n:tree_grs_apple_01] { specializes = tree_ice_pine_02_base; }
 [t:template,n:tree_grs_cherry_01]
 {
 	category_name = "trees";
@@ -1111,18 +1100,7 @@
 		}
 	}
 }
-[t:template,n:tree_grs_poplar_01]
-{
-	category_name = "trees";
-	doc = "grs_poplar";
-	specializes = base_tree;
-	[aspect]
-	{
-		lodfi_lower = 0.15;
-		lodfi_upper = 0.6;
-		model = m_i_glb_tree-poplar-01;
-	}
-}
+[t:template,n:tree_grs_poplar_01] { specializes = tree_ice_pine_04_base; }
 [t:template,n:tree_grs_sapling_01]
 {
 	category_name = "trees";
@@ -1188,7 +1166,8 @@
 		}
 	}
 }
-[t:template,n:tree_ice_pine_01]
+[t:template,n:tree_ice_pine_01] { specializes = tree_ice_pine_01_base; }
+[t:template,n:tree_ice_pine_01_base]
 {
 	category_name = "trees";
 	doc = "ice_pine_9m";
@@ -1205,7 +1184,8 @@
 		}
 	}
 }
-[t:template,n:tree_ice_pine_02]
+[t:template,n:tree_ice_pine_02] { specializes = tree_ice_pine_02_base; }
+[t:template,n:tree_ice_pine_02_base]
 {
 	category_name = "trees";
 	doc = "ice_pine_12m";
@@ -1221,7 +1201,8 @@
 		}
 	}
 }
-[t:template,n:tree_ice_pine_03]
+[t:template,n:tree_ice_pine_03] { specializes = tree_ice_pine_03_base; }
+[t:template,n:tree_ice_pine_03_base]
 {
 	category_name = "trees";
 	doc = "ice_pine_4m";
@@ -1238,7 +1219,8 @@
 		}
 	}
 }
-[t:template,n:tree_ice_pine_04]
+[t:template,n:tree_ice_pine_04] { specializes = tree_ice_pine_04_base; }
+[t:template,n:tree_ice_pine_04_base]
 {
 	category_name = "trees";
 	doc = "ice_pine_6m";

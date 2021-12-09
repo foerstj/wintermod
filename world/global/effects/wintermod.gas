@@ -3,8 +3,8 @@
 	name	=xmas_tree;
 
 	script	=[[
-			sfx create lightsource #TARGET 
-				"color0(.75,.6,0)color1(.75,.6,0)frequency(2)iradius(1)radius(3)";
+			sfx create lightsource #TARGET
+				"color0(.375,.3,0)color1(.375,.3,0)frequency(2)iradius(1)radius(4)offset(0,-1.5,0)";
 			sfx start #POP;
 
 			sfx create sparkles #TARGET
@@ -20,8 +20,8 @@
 	name	=xmas_tree_lg;
 
 	script	=[[
-			sfx create lightsource #TARGET 
-				"color0(.75,.6,0)color1(.75,.6,0)frequency(2)iradius(2)radius(6)";
+			sfx create lightsource #TARGET
+				"color0(.375,.3,0)color1(.375,.3,0)frequency(2)iradius(2)radius(8)offset(0,-3,0)";
 			sfx start #POP;
 
 			sfx create sparkles #TARGET

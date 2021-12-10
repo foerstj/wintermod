@@ -1856,9 +1856,13 @@
 		}
 	}
 }
+
+// EDITED
 [t:template,n:groundcover_grs_01] { specializes = bush_grs_rhod_03_base; }
 [t:template,n:groundcover_grs_02] { specializes = bush_grs_rhod_04_base; }
 [t:template,n:groundcover_grs_03] { specializes = bush_grs_rhod_04_base; }
+// /EDITED
+
 [t:template,n:groundcover_grs_04]
 {
 	category_name = "misc";
@@ -1919,22 +1923,9 @@
 		}
 	}
 }
-[t:template,n:groundcover_grs_08]
-{
-	category_name = "foliage";
-	doc = "grs_fern_grndcvr_lg";
-	specializes = non_interactive_nonblocking;
-	[aspect]
-	{
-		lodfi_lower = 0.25;
-		lodfi_upper = 0.8;
-		model = m_i_glb_ground-cover-04;
-		[textures]
-		{
-			0 = b_i_grs_ground-cover-01;
-		}
-	}
-}
+
+[t:template,n:groundcover_grs_08] { specializes = no_obj_base; } // EDITED
+
 [t:template,n:groundcover_swp_01]
 {
 	category_name = "foliage";

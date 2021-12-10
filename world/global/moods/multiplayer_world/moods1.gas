@@ -163,9 +163,10 @@
 		frustum_height		= 60.0f;
 	}
 
-	[rain]
+	[rain] {} // empty [rain] block for lightning manipulation
+	[snow]
 	{
-		rain_density		= 200.0f;
+		snow_density		= 200.0f;
 	}
 
 	[music]
@@ -199,9 +200,10 @@
 		frustum_height		= 60.0f;
 	}
 
-	[rain]
+	[rain] {} // empty [rain] block for lightning manipulation
+	[snow]
 	{
-		rain_density		= 225.0f;
+		snow_density		= 225.0f;
 		lightning			= true;
 	}
 	
@@ -508,9 +510,11 @@
 		standard_track		= "s_m_BesiegedTown_04";
 		room_type			= rt_generic;
 	}
-	[rain]
+
+	[rain] {} // empty [rain] block for lightning manipulation
+	[snow]
 	{
-		rain_density		= 50.0f;
+		snow_density		= 50.0f;
 		lightning			= false;
 	}
 }
@@ -832,9 +836,10 @@
 		fog_density			= 0.5f;
 	}
 
-	[rain]
+	[rain] {} // empty [rain] block for lightning manipulation
+	[snow]
 	{
-		rain_density		= 75.0f;
+		snow_density		= 75.0f;
 		lightning			= false;
 	}
 
@@ -1401,8 +1406,9 @@
 		wind_direction		= 1.57f;
 	}
 
-	[rain] {
-		rain_density		= 50.0f; // just a little bit of rain
+	[rain] {} // empty [rain] block for lightning manipulation
+	[snow] {
+		snow_density		= 50.0f; // just a little bit of rain
 	}
 
 	[music]
@@ -1444,8 +1450,9 @@
 		wind_direction		= 1.57f;
 	}
 
-	[rain] {
-		rain_density		= 50.0f; // just a little bit of rain
+	[rain] {} // empty [rain] block for lightning manipulation
+	[snow] {
+		snow_density		= 50.0f; // just a little bit of rain
 	}
 
 	[music]
@@ -2318,9 +2325,10 @@
 		fog_density			= 0.5f;
 	}
 
-	[rain]
+	[rain] {} // empty [rain] block for lightning manipulation
+	[snow]
 	{
-		rain_density		= 100.0f;
+		snow_density		= 100.0f;
 	}
 
 	[music]
@@ -4108,9 +4116,10 @@
 		fog_density			= 0.5f;
 	}
 
-	[rain]
+	[rain] {} // empty [rain] block for lightning manipulation
+	[snow]
 	{
-		rain_density		= 75.0f;
+		snow_density		= 75.0f;
 		lightning			= false;
 	}
 	[music]
@@ -4144,9 +4153,10 @@
 		fog_density			= 0.5f;
 	}
 
-	[rain]
+	[rain] {} // empty [rain] block for lightning manipulation
+	[snow]
 	{
-		rain_density		= 400.0f;
+		snow_density		= 400.0f;
 		lightning			= true;
 	}
 
@@ -4329,9 +4339,10 @@
 		wind_direction		= 0.7f;
 	}
 	
-	[rain]
+	[rain] {} // empty [rain] block for lightning manipulation
+	[snow]
 	{
-		rain_density		= 150.0f;
+		snow_density		= 150.0f;
 		lightning			= false;
 	}
 
@@ -4444,9 +4455,10 @@
 		fog_density			= 0.5f;
 	}
 
-	[rain]
+	[rain] {} // empty [rain] block for lightning manipulation
+	[snow]
 	{
-		rain_density		= 25.0f;
+		snow_density		= 25.0f;
 		lightning			= false;
 	}
 
@@ -4487,9 +4499,10 @@
 		wind_direction		= 1.2f;
 	}
 	
-	[rain]
+	[rain] {} // empty [rain] block for lightning manipulation
+	[snow]
 	{
-		rain_density		= 50.0f;
+		snow_density		= 50.0f;
 		lightning			= false;
 	}
 
@@ -4530,9 +4543,10 @@
 		wind_direction		= 0.7f;
 	}
 	
-	[rain]
+	[rain] {} // empty [rain] block for lightning manipulation
+	[snow]
 	{
-		rain_density		= 100.0f;
+		snow_density		= 100.0f;
 		lightning			= false;
 	}
 
@@ -4573,9 +4587,10 @@
 		wind_direction		= 0.7f;
 	}
 	
-	[rain]
+	[rain] {} // empty [rain] block for lightning manipulation
+	[snow]
 	{
-		rain_density		= 350.0f;
+		snow_density		= 350.0f;
 		lightning			= true;
 	}
 
@@ -5340,9 +5355,10 @@
 		fog_density			= 0.5f;
 	}
 
-	[rain]
+	[rain] {} // empty [rain] block for lightning manipulation
+	[snow]
 	{
-		rain_density		= 50.0f;
+		snow_density		= 50.0f;
 		lightning			= false;
 	}
 
@@ -5381,9 +5397,11 @@
 		fog_color			= 0xFF505552;
 		fog_density			= 0.5f;
 	}
-	[rain]
+
+	[rain] {} // empty [rain] block for lightning manipulation
+	[snow]
 	{
-		rain_density		= 75.0f;
+		snow_density		= 75.0f;
 		lightning			= false;
 	}
 	[wind]
@@ -5420,9 +5438,11 @@
 		fog_color			= 0xFF505552;
 		fog_density			= 0.5f;
 	}
-	[rain]
+
+	[rain] {} // empty [rain] block for lightning manipulation
+	[snow]
 	{
-		rain_density		= 75.0f;
+		snow_density		= 75.0f;
 		lightning			= false;
 	}
 	[wind]
@@ -5460,9 +5480,10 @@
 		fog_density			= 0.5f;
 	}
 
-	[rain]
+	[rain] {} // empty [rain] block for lightning manipulation
+	[snow]
 	{
-		rain_density		= 150.0f;
+		snow_density		= 150.0f;
 		lightning			= false;
 	}
 
@@ -5657,9 +5678,11 @@
 		fog_color			= 0xFF505552;
 		fog_density			= 0.5f;
 	}
-	[rain]
+
+	[rain] {} // empty [rain] block for lightning manipulation
+	[snow]
 	{
-		rain_density		= 75.0f;
+		snow_density		= 75.0f;
 		lightning			= false;
 	}
 	[wind]
@@ -6061,9 +6084,10 @@
 		fog_density			= 0.5f;
 	}
 
-	[rain]
+	[rain] {} // empty [rain] block for lightning manipulation
+	[snow]
 	{
-		rain_density		= 200.0f;
+		snow_density		= 200.0f;
 		lightning			= false;
 	}
 
@@ -6598,9 +6622,10 @@
 		fog_density			= 0.5f;
 	}
 
-	[rain]
+	[rain] {} // empty [rain] block for lightning manipulation
+	[snow]
 	{
-		rain_density		= 100.0f;
+		snow_density		= 100.0f;
 		lightning			= false;
 	}
 
@@ -6643,9 +6668,10 @@
 		fog_density			= 0.5f;
 	}
 
-	[rain]
+	[rain] {} // empty [rain] block for lightning manipulation
+	[snow]
 	{
-		rain_density		= 400.0f;
+		snow_density		= 400.0f;
 		lightning			= true;
 	}
 
@@ -7162,9 +7188,11 @@
 		fog_color			= 0xFF565d56;
 		fog_density			= 0.5f;
 	}
-	[rain]
+
+	[rain] {} // empty [rain] block for lightning manipulation
+	[snow]
 	{
-		rain_density		= 150.0f;
+		snow_density		= 150.0f;
 	}
 
 	[music]

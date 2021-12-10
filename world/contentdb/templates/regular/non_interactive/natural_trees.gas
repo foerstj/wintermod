@@ -175,72 +175,14 @@
 		model = m_i_glb_tree-pine-burnt-01;
 	}
 }
-[t:template,n:tree_glb_pine_sequoia_01]
-{
-	category_name = "trees";
-	doc = "seq_pine_9m";
-	specializes = base_tree;
-	[aspect]
-	{
-		lodfi_lower = 0.2;
-		lodfi_upper = 0.5;
-		model = m_i_glb_tree-01;
-		scale_multiplier = 0.75;
-		[textures]
-		{
-			0 = b_i_grs_tree-pine-sequoia;
-		}
-	}
-}
-[t:template,n:tree_glb_pine_sequoia_02]
-{
-	category_name = "trees";
-	doc = "seq_pine_12m";
-	specializes = base_tree;
-	[aspect]
-	{
-		lodfi_lower = 0.1;
-		lodfi_upper = 0.5;
-		model = m_i_glb_tree-01;
-		[textures]
-		{
-			0 = b_i_grs_tree-pine-sequoia;
-		}
-	}
-}
-[t:template,n:tree_glb_pine_sequoia_03]
-{
-	category_name = "trees";
-	doc = "seq_pine_4m";
-	specializes = base_tree;
-	[aspect]
-	{
-		lodfi_lower = 0.4;
-		lodfi_upper = 0.6;
-		model = m_i_glb_tree-02;
-		scale_multiplier = 0.66;
-		[textures]
-		{
-			0 = b_i_grs_tree-pine-sequoia;
-		}
-	}
-}
-[t:template,n:tree_glb_pine_sequoia_04]
-{
-	category_name = "trees";
-	doc = "seq_pine_6m";
-	specializes = base_tree;
-	[aspect]
-	{
-		lodfi_lower = 0.3;
-		lodfi_upper = 0.4;
-		model = m_i_glb_tree-02;
-		[textures]
-		{
-			0 = b_i_grs_tree-pine-sequoia;
-		}
-	}
-}
+
+// EDITED
+[t:template,n:tree_glb_pine_sequoia_01] { specializes = tree_ice_xmas_lg_base; }
+[t:template,n:tree_glb_pine_sequoia_02] { specializes = tree_ice_xmas_lg_base; }
+[t:template,n:tree_glb_pine_sequoia_03] { specializes = tree_ice_xmas_base; }
+[t:template,n:tree_glb_pine_sequoia_04] { specializes = tree_ice_xmas_base; }
+// /EDITED
+
 [t:template,n:tree_glb_sway_03]
 {
 	category_name = "trees";
@@ -678,18 +620,9 @@
 		}
 	}
 }
-[t:template,n:tree_grs_hemlock_01]
-{
-	category_name = "trees";
-	doc = "grs_hemlock";
-	specializes = base_tree;
-	[aspect]
-	{
-		lodfi_lower = 0.3;
-		lodfi_upper = 0.75;
-		model = m_i_glb_tree-hemlock-01;
-	}
-}
+
+[t:template,n:tree_grs_hemlock_01] { specializes = tree_ice_xmas_base; }  // EDITED
+
 [t:template,n:tree_grs_leaning]
 {
 	category_name = "trees";

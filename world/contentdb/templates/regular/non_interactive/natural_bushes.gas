@@ -98,26 +98,18 @@
 		}
 	}
 }
+
+// EDITED
 [t:template,n:bush_grs_03] { specializes = bush_grs_rhod_03_base; }
 [t:template,n:bush_grs_04] { specializes = bush_grs_rhod_03_base; }
 [t:template,n:bush_grs_05] { specializes = bush_grs_rhod_03_base; }
-[t:template,n:bush_grs_06]
-{
-	category_name = "foliage";
-	doc = "grs_bush_tall_grn";
-	specializes = base_bush;
-	[aspect]
-	{
-		lodfi_lower = 0.6;
-		lodfi_upper = 0.9;
-		model = m_i_grs_bush-06;
-	}
-}
+[t:template,n:bush_grs_06] { specializes = tree_ice_xmas_base; }
 [t:template,n:bush_grs_07] { specializes = bush_grs_rhod_01_base; }
 [t:template,n:bush_grs_08] { specializes = bush_grs_rhod_03_base; }
 [t:template,n:bush_grs_09] { specializes = bush_grs_rhod_03_base; }
 [t:template,n:bush_grs_button_01] { specializes = bush_grs_rhod_01_base; }
 [t:template,n:bush_grs_button_02] { specializes = bush_grs_rhod_02_base; }
+
 [t:template,n:bush_grs_rhod_01] { specializes = bush_grs_rhod_01_base; }
 [t:template,n:bush_grs_rhod_01_base]
 {
@@ -181,6 +173,8 @@
 		}
 	}
 }
+// /EDITED
+
 [t:template,n:bush_ice_rhod_01]
 {
 	category_name = "foliage";

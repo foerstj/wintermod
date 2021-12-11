@@ -177,10 +177,10 @@
 }
 
 // EDITED
-[t:template,n:tree_glb_pine_sequoia_01] { specializes = tree_ice_xmas_lg_base; }
-[t:template,n:tree_glb_pine_sequoia_02] { specializes = tree_ice_xmas_lg_base; }
-[t:template,n:tree_glb_pine_sequoia_03] { specializes = tree_ice_xmas_base; }
-[t:template,n:tree_glb_pine_sequoia_04] { specializes = tree_ice_xmas_base; }
+[t:template,n:tree_glb_pine_sequoia_01] { specializes = tree_ice_xmas_white_lg_base; }
+[t:template,n:tree_glb_pine_sequoia_02] { specializes = tree_ice_xmas_white_lg_base; }
+[t:template,n:tree_glb_pine_sequoia_03] { specializes = tree_ice_xmas_white_base; }
+[t:template,n:tree_glb_pine_sequoia_04] { specializes = tree_ice_xmas_white_base; }
 // /EDITED
 
 [t:template,n:tree_glb_sway_03]
@@ -622,7 +622,7 @@
 }
 
 // EDITED
-[t:template,n:tree_grs_hemlock_01] { specializes = tree_ice_xmas_base; }
+[t:template,n:tree_grs_hemlock_01] { specializes = tree_ice_xmas_white_base; }
 
 [t:template,n:tree_grs_leaning] { specializes = no_obj_base; }
 

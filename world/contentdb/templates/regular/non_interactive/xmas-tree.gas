@@ -14,3 +14,18 @@
         scale_base = 2;
     }
 }
+
+[t:template,n:tree_ice_xmas_white_base]
+{
+    specializes = tree_ice_pine_04_base;
+}
+
+[t:template,n:tree_ice_xmas_white_lg_base]
+{
+    specializes = tree_ice_pine_04_base;
+
+    [aspect]
+    {
+        scale_base = 2;
+    }
+}

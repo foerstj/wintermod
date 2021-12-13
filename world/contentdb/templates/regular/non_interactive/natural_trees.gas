@@ -959,20 +959,10 @@
 [t:template,n:tree_grs_plum_01] { specializes = tree_ice_xmas_lg_base; }
 
 [t:template,n:tree_grs_poplar_01] { specializes = tree_ice_xmas_base; }
+
+[t:template,n:tree_grs_sapling_01] { specializes = tree_ice_xmas_base; }
 // /EDITED
 
-[t:template,n:tree_grs_sapling_01]
-{
-	category_name = "trees";
-	doc = "grs_sapling";
-	specializes = base_tree;
-	[aspect]
-	{
-		lodfi_lower = 0.65;
-		lodfi_upper = 0.9;
-		model = m_i_glb_tree-sapling-01;
-	}
-}
 [t:template,n:tree_grs_sequoia_01]
 {
 	category_name = "trees";

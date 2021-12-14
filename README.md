@@ -13,3 +13,5 @@ Wintermod works by:
 This mod is build to work together with my Christmas mod. If you use both mods, Christmas trees will stand in various locations such as the Farmhouse, Stonebridge, Glacern, or around Castle Ehb.
 
 This mod is NOT compatible with SeeFar (mood definition conflict) or Hi-Res Textures (textures conflict). Other mods were not tested.
+
+Attribution: Polar Ursae texture from Eksevis / Halloween Mod.

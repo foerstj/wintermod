@@ -30,10 +30,10 @@
 	  f standard_repeat_delay = 0.000000;
 		standard_track = s_m_intro;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 100.000000;
+	  f snow_density = 100.000000;
 	}
 	[sun]
 	{
@@ -199,10 +199,10 @@
 	  f standard_repeat_delay = 0.000000;
 		standard_track = s_m_intro;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 800.000000;
+	  f snow_density = 800.000000;
 	}
 	[sun]
 	{
@@ -284,10 +284,10 @@
 	  f standard_repeat_delay = 0.000000;
 		standard_track = s_m_the_shadowjumper_theme;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 600.000000;
+	  f snow_density = 600.000000;
 	}
 	[sun]
 	{
@@ -3053,10 +3053,10 @@
 	  f standard_repeat_delay = 0.000000;
 		standard_track = s_m_tropicalbeach_01;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = false;
-	  f rain_density = 150.000000;
+	  f snow_density = 150.000000;
 	}
 }
 [mood_setting*]
@@ -3195,10 +3195,10 @@
 	  f standard_repeat_delay = 10.000000;
 		standard_track = s_m_light_jungle_theme;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = false;
-	  f rain_density = 350.000000;
+	  f snow_density = 350.000000;
 	}
 	[wind]
 	{
@@ -3793,10 +3793,10 @@
 	  f standard_repeat_delay = 0.000000;
 		standard_track = s_m_the_ultreans;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = false;
-	  f rain_density = 200.000000;
+	  f snow_density = 200.000000;
 	}
 	[wind]
 	{
@@ -3836,10 +3836,10 @@
 	  f standard_repeat_delay = 15.000000;
 		standard_track = s_m_dark_jungle_2_theme;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 400.000000;
+	  f snow_density = 400.000000;
 	}
 }
 [mood_setting*]
@@ -3874,10 +3874,10 @@
 	  f standard_repeat_delay = 0.000000;
 		standard_track = s_m_zaurask_theme;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 600.000000;
+	  f snow_density = 600.000000;
 	}
 }
 [mood_setting*]
@@ -3912,10 +3912,10 @@
 	  f standard_repeat_delay = 10.000000;
 		standard_track = s_m_dark_jungle_theme;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = false;
-	  f rain_density = 500.000000;
+	  f snow_density = 500.000000;
 	}
 	[wind]
 	{
@@ -3955,10 +3955,10 @@
 	  f standard_repeat_delay = 10.000000;
 		standard_track = s_m_dark_jungle_2_theme;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = false;
-	  f rain_density = 600.000000;
+	  f snow_density = 600.000000;
 	}
 }
 [mood_setting*]
@@ -4026,10 +4026,10 @@
 	  f standard_repeat_delay = 12.000000;
 		standard_track = s_m_light_jungle_theme;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = false;
-	  f rain_density = 100.000000;
+	  f snow_density = 100.000000;
 	}
 	[wind]
 	{
@@ -4069,10 +4069,10 @@
 	  f standard_repeat_delay = 12.000000;
 		standard_track = s_m_light_jungle_theme;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 200.000000;
+	  f snow_density = 200.000000;
 	}
 }
 [mood_setting*]
@@ -4107,10 +4107,10 @@
 	  f standard_repeat_delay = 12.000000;
 		standard_track = s_m_light_jungle_theme;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = false;
-	  f rain_density = 300.000000;
+	  f snow_density = 300.000000;
 	}
 	[wind]
 	{
@@ -4150,10 +4150,10 @@
 	  f standard_repeat_delay = 12.000000;
 		standard_track = s_m_light_jungle_theme;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = false;
-	  f rain_density = 130.000000;
+	  f snow_density = 130.000000;
 	}
 	[wind]
 	{
@@ -4226,10 +4226,10 @@
 	  f standard_repeat_delay = 10.000000;
 		standard_track = s_m_drums_03;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 500.000000;
+	  f snow_density = 500.000000;
 	}
 }
 [mood_setting*]
@@ -4297,10 +4297,10 @@
 	  f standard_repeat_delay = 10.000000;
 		standard_track = s_m_arcticcaverns_04;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 600.000000;
+	  f snow_density = 600.000000;
 	}
 }
 [mood_setting*]
@@ -4335,10 +4335,10 @@
 	  f standard_repeat_delay = 10.000000;
 		standard_track = s_m_dragonlair_01;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = false;
-	  f rain_density = 600.000000;
+	  f snow_density = 600.000000;
 	}
 }
 [mood_setting*]
@@ -4373,10 +4373,10 @@
 	  f standard_repeat_delay = 10.000000;
 		standard_track = s_m_drums_01;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 700.000000;
+	  f snow_density = 700.000000;
 	}
 }
 [mood_setting*]
@@ -4510,10 +4510,10 @@
 	  f standard_repeat_delay = 15.000000;
 		standard_track = s_m_darkswamp_03;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 35.000000;
+	  f snow_density = 35.000000;
 	}
 	[wind]
 	{
@@ -4553,10 +4553,10 @@
 	  f standard_repeat_delay = 15.000000;
 		standard_track = s_m_darkswamp_02;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 145.000000;
+	  f snow_density = 145.000000;
 	}
 	[wind]
 	{
@@ -4596,10 +4596,10 @@
 	  f standard_repeat_delay = 15.000000;
 		standard_track = s_m_darkswamp_02;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 145.000000;
+	  f snow_density = 145.000000;
 	}
 	[wind]
 	{
@@ -4639,10 +4639,10 @@
 	  f standard_repeat_delay = 15.000000;
 		standard_track = s_m_crypts_03;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 255.000000;
+	  f snow_density = 255.000000;
 	}
 }
 [mood_setting*]
@@ -4710,10 +4710,10 @@
 	  f standard_repeat_delay = 10.000000;
 		standard_track = s_m_the_mountain_theme;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 360.000000;
+	  f snow_density = 360.000000;
 	}
 }
 [mood_setting*]
@@ -4748,10 +4748,10 @@
 	  f standard_repeat_delay = 15.000000;
 		standard_track = s_m_the_mountain_theme;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 365.000000;
+	  f snow_density = 365.000000;
 	}
 	[wind]
 	{
@@ -4791,10 +4791,10 @@
 	  f standard_repeat_delay = 15.000000;
 		standard_track = s_m_the_mountain_theme;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 370.000000;
+	  f snow_density = 370.000000;
 	}
 	[wind]
 	{
@@ -4834,10 +4834,10 @@
 	  f standard_repeat_delay = 15.000000;
 		standard_track = s_m_the_dead_theme;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 470.000000;
+	  f snow_density = 470.000000;
 	}
 	[wind]
 	{
@@ -5306,10 +5306,10 @@
 	  f standard_repeat_delay = 15.000000;
 		standard_track = s_m_darkswamp_02;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = false;
-	  f rain_density = 85.000000;
+	  f snow_density = 85.000000;
 	}
 }
 [mood_setting*]
@@ -5542,10 +5542,10 @@
 	  f standard_repeat_delay = 0.000000;
 		standard_track = s_m_jungle_2_theme;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 0.000000;
+	  f snow_density = 0.000000;
 	}
 }
 [mood_setting*]
@@ -5580,10 +5580,10 @@
 	  f standard_repeat_delay = 0.000000;
 		standard_track = s_m_jungle_2_theme;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 0.000000;
+	  f snow_density = 0.000000;
 	}
 }
 [mood_setting*]
@@ -5618,10 +5618,10 @@
 	  f standard_repeat_delay = 0.000000;
 		standard_track = s_m_dark_jungle_theme;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 0.000000;
+	  f snow_density = 0.000000;
 	}
 }
 [mood_setting*]
@@ -5656,10 +5656,10 @@
 	  f standard_repeat_delay = 0.000000;
 		standard_track = s_m_dark_jungle_theme;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 0.000000;
+	  f snow_density = 0.000000;
 	}
 }
 [mood_setting*]
@@ -5694,10 +5694,10 @@
 	  f standard_repeat_delay = 0.000000;
 		standard_track = s_m_light_jungle_theme;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 160.000000;
+	  f snow_density = 160.000000;
 	}
 }
 [mood_setting*]
@@ -5732,10 +5732,10 @@
 	  f standard_repeat_delay = 0.000000;
 		standard_track = s_m_light_jungle_theme;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 165.000000;
+	  f snow_density = 165.000000;
 	}
 	[wind]
 	{
@@ -5775,10 +5775,10 @@
 	  f standard_repeat_delay = 0.000000;
 		standard_track = s_m_zaurask_theme;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 165.000000;
+	  f snow_density = 165.000000;
 	}
 	[wind]
 	{
@@ -5818,10 +5818,10 @@
 	  f standard_repeat_delay = 0.000000;
 		standard_track = s_m_light_jungle_theme;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 200.000000;
+	  f snow_density = 200.000000;
 	}
 }
 [mood_setting*]
@@ -6001,10 +6001,10 @@
 	  f standard_repeat_delay = 10.000000;
 		standard_track = s_m_farmhouse_02;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = false;
-	  f rain_density = 163.000000;
+	  f snow_density = 163.000000;
 	}
 	[wind]
 	{
@@ -6044,10 +6044,10 @@
 	  f standard_repeat_delay = 10.000000;
 		standard_track = s_m_goblininventor_08;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 168.000000;
+	  f snow_density = 168.000000;
 	}
 	[wind]
 	{
@@ -6087,10 +6087,10 @@
 	  f standard_repeat_delay = 10.000000;
 		standard_track = s_m_fortkroth_03;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = false;
-	  f rain_density = 158.000000;
+	  f snow_density = 158.000000;
 	}
 	[wind]
 	{
@@ -6130,10 +6130,10 @@
 	  f standard_repeat_delay = 10.000000;
 		standard_track = s_m_crypts_01;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 267.000000;
+	  f snow_density = 267.000000;
 	}
 	[wind]
 	{
@@ -6173,10 +6173,10 @@
 	  f standard_repeat_delay = 10.000000;
 		standard_track = s_m_credits;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 180.000000;
+	  f snow_density = 180.000000;
 	}
 }
 [mood_setting*]
@@ -6348,10 +6348,10 @@
 	  f standard_repeat_delay = 10.000000;
 		standard_track = s_m_coastaloutpost_01;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 105.000000;
+	  f snow_density = 105.000000;
 	}
 	[wind]
 	{
@@ -6543,10 +6543,10 @@
 	  f standard_repeat_delay = 10.000000;
 		standard_track = s_m_path2crypts_01;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 268.000000;
+	  f snow_density = 268.000000;
 	}
 }
 [mood_setting*]
@@ -6581,10 +6581,10 @@
 	  f standard_repeat_delay = 10.000000;
 		standard_track = s_m_gom;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 268.000000;
+	  f snow_density = 268.000000;
 	}
 	[wind]
 	{
@@ -6624,10 +6624,10 @@
 	  f standard_repeat_delay = 12.000000;
 		standard_track = s_m_dragonlair_01;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = false;
-	  f rain_density = 470.000000;
+	  f snow_density = 470.000000;
 	}
 	[wind]
 	{
@@ -6667,10 +6667,10 @@
 	  f standard_repeat_delay = 25.000000;
 		standard_track = s_m_crypts_02;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 470.000000;
+	  f snow_density = 470.000000;
 	}
 	[wind]
 	{
@@ -6710,10 +6710,10 @@
 	  f standard_repeat_delay = 25.000000;
 		standard_track = s_m_dragonlair_01;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 370.000000;
+	  f snow_density = 370.000000;
 	}
 	[wind]
 	{
@@ -6753,10 +6753,10 @@
 	  f standard_repeat_delay = 10.000000;
 		standard_track = s_m_fortkroth_03;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = false;
-	  f rain_density = 158.000000;
+	  f snow_density = 158.000000;
 	}
 	[wind]
 	{
@@ -6796,10 +6796,10 @@
 	  f standard_repeat_delay = 10.000000;
 		standard_track = s_m_farmhouse_02;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = false;
-	  f rain_density = 103.000000;
+	  f snow_density = 103.000000;
 	}
 	[wind]
 	{
@@ -7174,10 +7174,10 @@
 	  f standard_repeat_delay = 10.000000;
 		standard_track = s_m_desertcanyons_01;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 70.000000;
+	  f snow_density = 70.000000;
 	}
 	[wind]
 	{
@@ -7369,10 +7369,10 @@
 	  f standard_repeat_delay = 10.000000;
 		standard_track = s_m_dragonlair_01;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 65.000000;
+	  f snow_density = 65.000000;
 	}
 	[wind]
 	{
@@ -8777,10 +8777,10 @@
 	  f standard_repeat_delay = 0.000000;
 		standard_track = s_m_the_shadowjumper_theme;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = false;
-	  f rain_density = 257.000000;
+	  f snow_density = 257.000000;
 	}
 	[snow]
 	{
@@ -8998,10 +8998,10 @@
 	  f standard_repeat_delay = 0.000000;
 		standard_track = s_m_the_shadowjumper_theme;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 700.000000;
+	  f snow_density = 700.000000;
 	}
 	[wind]
 	{
@@ -9107,10 +9107,10 @@
 	  f standard_repeat_delay = 0.000000;
 		standard_track = s_m_the_great_clock_theme;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = false;
-	  f rain_density = 400.000000;
+	  f snow_density = 400.000000;
 	}
 }
 [mood_setting*]
@@ -9244,10 +9244,10 @@
 	  f standard_repeat_delay = 0.000000;
 		standard_track = s_m_the_shadowjumper_theme;
 	}
-	[rain]
+	[snow]
 	{
 	  b lightning = true;
-	  f rain_density = 100.000000;
+	  f snow_density = 100.000000;
 	}
 	[snow]
 	{

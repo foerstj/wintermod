@@ -11,16 +11,7 @@ set ds=.
 set tc=..\TankCreator
 
 :: Compile main resource file
-rmdir /S /Q "%tmp%\Bits"
-:: exclude .psd that might be present locally
-robocopy "%doc_dsloa%\Bits\art" "%tmp%\Bits\art" /E /xf .gitignore /xf *.psd /xf dir.lqd20
-robocopy "%doc_dsloa%\Bits\world\contentdb" "%tmp%\Bits\world\contentdb" /E
-robocopy "%doc_dsloa%\Bits\world\global" "%tmp%\Bits\world\global" /E
-%tc%\RTC.exe -source "%tmp%\Bits" -out "%ds%\Resources\%mod%.dsres" -copyright "CC-BY-SA 2021" -title "Wintermod" -author "Johannes Förstner"
-if %errorlevel% neq 0 pause
-
-:: Cleanup
-rmdir /S /Q "%tmp%\Bits"
+call "%doc_dsloa%\Bits\build.bat"
 
 ::pause
 

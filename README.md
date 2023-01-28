@@ -18,3 +18,4 @@ This mod is NOT compatible with SeeFar (mood definition conflict) or Hi-Res Text
 
 ## Attribution
 Polar Ursae texture from Eksevis / Halloween Mod.
+Snow river & ice-caves river textures from DS2.

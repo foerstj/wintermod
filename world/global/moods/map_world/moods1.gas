@@ -5419,7 +5419,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-	  x fog_color = 0xFF2E2E35;
+	  x fog_color = 0xFF2E352E;
 		fog_density = 0.5f;
 	}
 	[snow]
@@ -5450,7 +5450,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 10.0f;
 		fog_lowdetail_far_dist = 45.0f;
-	  x fog_color = 0xFF323238;
+	  x fog_color = 0xFF323832;
 		fog_density = 0.5f;
 	}
 	[snow]
@@ -5481,7 +5481,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 20.0f;
 		fog_lowdetail_far_dist = 45.0f;
-	  x fog_color = 0xFF2F2F35;
+	  x fog_color = 0xFF2F352F;
 		fog_density = 0.5f;
 	}
 	[music]
@@ -5503,7 +5503,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-	  x fog_color = 0xFF2E2E35;
+	  x fog_color = 0xFF2E352E;
 		fog_density = 0.5f;
 	}
 	[snow]
@@ -6487,7 +6487,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 20.0f;
 		fog_lowdetail_far_dist = 45.0f;
-	  x fog_color = 0xFFB49363;
+	  x fog_color = 0xFF6393B4;
 		fog_density = 0.5f;
 	}
 	[music]
@@ -6509,7 +6509,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 26.0f;
 		fog_lowdetail_far_dist = 45.0f;
-	  x fog_color = 0xFFCF9F5F;
+	  x fog_color = 0xFF5F9FCF;
 		fog_density = 0.5f;
 	}
 	[music]
@@ -6531,7 +6531,7 @@
 		fog_far_dist = 55.0f;
 		fog_lowdetail_near_dist = 35.0f;
 		fog_lowdetail_far_dist = 50.0f;
-	  x fog_color = 0xFFC19151;
+	  x fog_color = 0xFF5191C1;
 		fog_density = 0.5f;
 	}
 	[music]
@@ -6553,7 +6553,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 20.0f;
 		fog_lowdetail_far_dist = 45.0f;
-	  x fog_color = 0xFFB49363;
+	  x fog_color = 0xFF6393B4;
 		fog_density = 0.5f;
 	}
 	[music]
@@ -6575,7 +6575,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 20.0f;
 		fog_lowdetail_far_dist = 45.0f;
-	  x fog_color = 0xFFB49363;
+	  x fog_color = 0xFF6393B4;
 		fog_density = 0.5f;
 	}
 	[music]
@@ -6685,7 +6685,7 @@
 		fog_far_dist = 55.0f;
 		fog_lowdetail_near_dist = 35.0f;
 		fog_lowdetail_far_dist = 50.0f;
-	  x fog_color = 0xFFB09070;
+	  x fog_color = 0xFF7090B0;
 		fog_density = 0.5f;
 	}
 	[wind]
@@ -6712,7 +6712,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 40.0f;
-	  x fog_color = 0xFFB09070;
+	  x fog_color = 0xFF7090B0;
 		fog_density = 0.5f;
 	}
 	[wind]
@@ -6739,7 +6739,7 @@
 		fog_far_dist = 55.0f;
 		fog_lowdetail_near_dist = 35.0f;
 		fog_lowdetail_far_dist = 50.0f;
-	  x fog_color = 0xFFB09070;
+	  x fog_color = 0xFF7090B0;
 		fog_density = 0.5f;
 	}
 	[wind]
@@ -6788,7 +6788,7 @@
 		fog_far_dist = 55.0f;
 		fog_lowdetail_near_dist = 35.0f;
 		fog_lowdetail_far_dist = 50.0f;
-	  x fog_color = 0xFFB09070;
+	  x fog_color = 0xFF7090B0;
 		fog_density = 0.5f;
 	}
 	[music]
@@ -6810,7 +6810,7 @@
 		fog_far_dist = 55.0f;
 		fog_lowdetail_near_dist = 35.0f;
 		fog_lowdetail_far_dist = 50.0f;
-	  x fog_color = 0xFFB09070;
+	  x fog_color = 0xFF7090B0;
 		fog_density = 0.5f;
 	}
 	[music]
@@ -6832,7 +6832,7 @@
 		fog_far_dist = 55.0f;
 		fog_lowdetail_near_dist = 35.0f;
 		fog_lowdetail_far_dist = 50.0f;
-	  x fog_color = 0xFFB09070;
+	  x fog_color = 0xFF7090B0;
 		fog_density = 0.5f;
 	}
 	[music]
@@ -6854,7 +6854,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 40.0f;
-	  x fog_color = 0xFF806A52;
+	  x fog_color = 0xFF526A80;
 		fog_density = 0.5f;
 	}
 	[music]

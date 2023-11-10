@@ -1,0 +1,335 @@
+[mood_setting*]
+{
+	mood_name = eos_aldebaran_teleport;
+	transition_time = 20.0f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 60.0f;
+		frustum_height = 60.0f;
+	}
+	[fog]
+	{
+	  f fog_near_dist = 40.000000;
+	  f fog_far_dist = 50.000000;
+		fog_lowdetail_near_dist = 30.0f;
+		fog_lowdetail_far_dist = 45.0f;
+	  x fog_color = 0xFFD8C898;
+		fog_density = 0.5f;
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_intro_delay = 10.0f;
+		standard_repeat_delay = 20.0f;
+		standard_track = "s_m_fortkroth_02";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = eos_aldebaran_town_1;
+	transition_time = 6.0f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 60.0f;
+		frustum_height = 60.0f;
+	}
+	[fog]
+	{
+		fog_near_dist = 40.0f;
+		fog_far_dist = 50.0f;
+		fog_lowdetail_near_dist = 30.0f;
+		fog_lowdetail_far_dist = 45.0f;
+	  x fog_color = 0xFFD8C898;
+		fog_density = 0.5f;
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_intro_delay = 10.0f;
+		standard_repeat_delay = 20.0f;
+		standard_track = "s_m_fortkroth_02";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = eos_aldebaran_town_3;
+	transition_time = 4.0f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 60.0f;
+		frustum_height = 60.0f;
+	}
+	[fog]
+	{
+		fog_near_dist = 40.0f;
+		fog_far_dist = 50.0f;
+		fog_lowdetail_near_dist = 30.0f;
+		fog_lowdetail_far_dist = 45.0f;
+	  x fog_color = 0xFFA0C060;
+		fog_density = 0.5f;
+	}
+	[music]
+	{
+		ambient_track = "s_e_ambient_woods_01";
+		standard_intro_delay = 10.0f;
+		standard_repeat_delay = 20.0f;
+		standard_track = "s_m_misc_02";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = eos_aldebaran_town_tavern;
+	transition_time = 6.0f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 60.0f;
+		frustum_height = 60.0f;
+	}
+	[fog]
+	{
+		fog_near_dist = 40.0f;
+		fog_far_dist = 50.0f;
+		fog_lowdetail_near_dist = 30.0f;
+		fog_lowdetail_far_dist = 45.0f;
+	  x fog_color = 0xFFD8C898;
+		fog_density = 0.5f;
+	}
+	[music]
+	{
+		ambient_track = "s_e_env_tavern";
+		standard_intro_delay = 10.0f;
+		standard_repeat_delay = 20.0f;
+		standard_track = "s_m_fortkroth_02";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = eos_aldebaran_palace_1;
+	transition_time = 6.0f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 60.0f;
+		frustum_height = 60.0f;
+	}
+	[fog]
+	{
+		fog_near_dist = 40.0f;
+		fog_far_dist = 50.0f;
+		fog_lowdetail_near_dist = 30.0f;
+		fog_lowdetail_far_dist = 45.0f;
+	  x fog_color = 0xFFD8C898;
+		fog_density = 0.5f;
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_intro_delay = 10.0f;
+		standard_repeat_delay = 20.0f;
+		standard_track = "s_m_misc_01";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = eos_aldebaran_palace_house;
+	transition_time = 6.0f;
+  b interior = true;
+	[frustum]
+	{
+		frustum_width = 60.0f;
+		frustum_height = 60.0f;
+	}
+	[fog]
+	{
+		fog_near_dist = 40.0f;
+		fog_far_dist = 50.0f;
+		fog_lowdetail_near_dist = 30.0f;
+		fog_lowdetail_far_dist = 45.0f;
+	  x fog_color = 0xFFD8C898;
+		fog_density = 0.5f;
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_intro_delay = 10.0f;
+		standard_repeat_delay = 20.0f;
+		standard_track = "s_m_misc_01";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = eos_aldebaran_palace_2;
+	transition_time = 3.0f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 60.0f;
+		frustum_height = 60.0f;
+	}
+	[fog]
+	{
+		fog_near_dist = 40.0f;
+		fog_far_dist = 50.0f;
+		fog_lowdetail_near_dist = 30.0f;
+		fog_lowdetail_far_dist = 45.0f;
+	  x fog_color = 0xFFD8C898;
+		fog_density = 0.5f;
+	}
+	[wind]
+	{
+		wind_velocity = 0.5f;
+		wind_direction = 0.0f;
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_intro_delay = 10.0f;
+		standard_repeat_delay = 20.0f;
+		standard_track = "s_m_fortkroth_01";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = eos_aldebaran_palace_3;
+	transition_time = 1.0f;
+  b interior = true;
+	[frustum]
+	{
+		frustum_width = 60.0f;
+		frustum_height = 60.0f;
+	}
+	[fog]
+	{
+		fog_near_dist = 40.0f;
+		fog_far_dist = 50.0f;
+		fog_lowdetail_near_dist = 20.0f;
+		fog_lowdetail_far_dist = 25.0f;
+	  x fog_color = 0xFFD8C898;
+		fog_density = 0.5f;
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_intro_delay = 10.0f;
+		standard_repeat_delay = 20.0f;
+		standard_track = "s_m_chamber_02";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = eos_aldebaran_palace_roof;
+	transition_time = 1.0f;
+  b interior = true;
+	[frustum]
+	{
+		frustum_width = 60.0f;
+		frustum_height = 60.0f;
+	}
+	[fog]
+	{
+		fog_near_dist = 40.0f;
+		fog_far_dist = 50.0f;
+		fog_lowdetail_near_dist = 20.0f;
+		fog_lowdetail_far_dist = 25.0f;
+	  x fog_color = 0xFFD8C898;
+		fog_density = 0.5f;
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_intro_delay = 10.0f;
+		standard_repeat_delay = 20.0f;
+		standard_track = "s_m_chamber_03";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = eos_aldebaran_ring_teleport;
+	transition_time = 20.0f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 60.0f;
+		frustum_height = 60.0f;
+	}
+	[sun]
+	{
+		[01h00m]
+		{
+			color = 0xFFFFFF00;
+		}
+		[03h00m]
+		{
+			color = 0xFF00FFFF;
+		}
+		[05h00m]
+		{
+			color = 0xFFFF00FF;
+		}
+		[07h00m]
+		{
+			color = 0xFFFFFF00;
+		}
+		[09h00m]
+		{
+			color = 0xFF00FFFF;
+		}
+		[11h00m]
+		{
+			color = 0xFFFF00FF;
+		}
+		[13h00m]
+		{
+			color = 0xFFFFFF00;
+		}
+		[15h00m]
+		{
+			color = 0xFF00FFFF;
+		}
+		[17h00m]
+		{
+			color = 0xFFFF00FF;
+		}
+		[19h00m]
+		{
+			color = 0xFFFFFF00;
+		}
+		[21h00m]
+		{
+			color = 0xFF00FFFF;
+		}
+		[23h00m]
+		{
+			color = 0xFFFF00FF;
+		}
+	}
+	[fog]
+	{
+	  f fog_near_dist = 40.000000;
+	  f fog_far_dist = 50.000000;
+		fog_lowdetail_near_dist = 30.0f;
+		fog_lowdetail_far_dist = 45.0f;
+	  x fog_color = 0xFF000000;
+		fog_density = 0.5f;
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_intro_delay = 5.0f;
+		standard_track = "s_m_subriver_04";
+		room_type = rt_psychotic;
+	}
+}

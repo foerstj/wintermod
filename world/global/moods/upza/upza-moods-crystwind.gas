@@ -1,0 +1,120 @@
+[mood_setting*]
+{
+	mood_name = upza_mine_town_1;
+	transition_time = 4.0f;
+  b interior = true;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
+	[fog]
+	{
+		fog_near_dist = 30.0f;
+		fog_far_dist = 50.0f;
+		fog_lowdetail_near_dist = 30.0f;
+		fog_lowdetail_far_dist = 45.0f;
+	  x fog_color = 0xFF786343;
+		fog_density = 0.6f;
+	}
+	[rain]
+	{
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_repeat_delay = 10.0f;
+		standard_track = "s_m_DwarvenMines_01";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = upza_mine_town_tavern;
+	transition_time = 4.0f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
+	[fog]
+	{
+		fog_near_dist = 30.0f;
+		fog_far_dist = 50.0f;
+		fog_lowdetail_near_dist = 30.0f;
+		fog_lowdetail_far_dist = 45.0f;
+	  x fog_color = 0xFF786343;
+		fog_density = 0.6f;
+	}
+	[rain]
+	{
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_repeat_delay = 10.0f;
+		standard_track = "s_m_DwarvenMines_01";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = upza_mine_town_teleport;
+	transition_time = 22.0f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
+	[fog]
+	{
+		fog_near_dist = 30.0f;
+		fog_far_dist = 50.0f;
+		fog_lowdetail_near_dist = 30.0f;
+		fog_lowdetail_far_dist = 45.0f;
+	  x fog_color = 0xFF786343;
+		fog_density = 0.6f;
+	}
+	[rain]
+	{
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_repeat_delay = 10.0f;
+		standard_track = "s_m_DwarvenMines_01";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = upza_mine_town_teleport_2;
+	transition_time = 20.0f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
+	[fog]
+	{
+		fog_near_dist = 30.0f;
+		fog_far_dist = 50.0f;
+		fog_lowdetail_near_dist = 30.0f;
+		fog_lowdetail_far_dist = 45.0f;
+	  x fog_color = 0xFF686358;
+		fog_density = 0.6f;
+	}
+	[rain]
+	{
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_repeat_delay = 10.0f;
+		standard_track = "s_m_DwarvenMines_01";
+		room_type = rt_generic;
+	}
+}

@@ -1,0 +1,1080 @@
+[mood_setting*]
+{
+	mood_name = upza_snow_town_north;
+	transition_time = 2.0f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
+	[sun]
+	{
+		[00h00m]
+		{
+			color = 0xFF000000;
+		}
+		[05h00m]
+		{
+			color = 0xFF1A1A00;
+		}
+		[06h00m]
+		{
+			color = 0xFF66330D;
+		}
+		[07h00m]
+		{
+			color = 0xFFB39A40;
+		}
+		[08h00m]
+		{
+			color = 0xFFB3B3B3;
+		}
+		[10h00m]
+		{
+			color = 0xFFF0F0FF;
+		}
+		[12h00m]
+		{
+			color = 0xFFFFFFFF;
+		}
+		[19h00m]
+		{
+			color = 0xFFB39A9A;
+		}
+		[20h00m]
+		{
+			color = 0xFF66334D;
+		}
+		[21h00m]
+		{
+			color = 0xFF330D40;
+		}
+		[22h00m]
+		{
+			color = 0xFF000000;
+		}
+		[23h00m]
+		{
+			color = 0xFF000000;
+		}
+	}
+	[fog]
+	{
+		fog_near_dist = 3.0f;
+		fog_far_dist = 30.0f;
+		fog_lowdetail_near_dist = 3.0f;
+		fog_lowdetail_far_dist = 25.0f;
+	  x fog_color = 0xFFC0C0C8;
+		fog_density = 0.5f;
+	}
+	[rain]
+	{
+	}
+	[snow]
+	{
+	  f snow_density = 250.000000;
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_track = "s_m_Glacern_01";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = upza_snow_town_indoor;
+	transition_time = 0.0f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
+	[sun]
+	{
+		[00h00m]
+		{
+			color = 0xFF000000;
+		}
+		[05h00m]
+		{
+			color = 0xFF1A1A00;
+		}
+		[06h00m]
+		{
+			color = 0xFF66330D;
+		}
+		[07h00m]
+		{
+			color = 0xFFB39A40;
+		}
+		[08h00m]
+		{
+			color = 0xFFB3B3B3;
+		}
+		[10h00m]
+		{
+			color = 0xFFF0F0FF;
+		}
+		[12h00m]
+		{
+			color = 0xFFFFFFFF;
+		}
+		[19h00m]
+		{
+			color = 0xFFB39A9A;
+		}
+		[20h00m]
+		{
+			color = 0xFF66334D;
+		}
+		[21h00m]
+		{
+			color = 0xFF330D40;
+		}
+		[22h00m]
+		{
+			color = 0xFF000000;
+		}
+		[23h00m]
+		{
+			color = 0xFF000000;
+		}
+	}
+	[fog]
+	{
+		fog_near_dist = 25.0f;
+		fog_far_dist = 40.0f;
+		fog_lowdetail_near_dist = 25.0f;
+		fog_lowdetail_far_dist = 35.0f;
+	  x fog_color = 0xFFC0C0C8;
+		fog_density = 0.5f;
+	}
+	[rain]
+	{
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_track = "s_m_Glacern_07";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = upza_snow_town_south;
+	transition_time = 5.0f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
+	[sun]
+	{
+		[00h00m]
+		{
+			color = 0xFF000000;
+		}
+		[05h00m]
+		{
+			color = 0xFF1A1A00;
+		}
+		[06h00m]
+		{
+			color = 0xFF66330D;
+		}
+		[07h00m]
+		{
+			color = 0xFFB39A40;
+		}
+		[08h00m]
+		{
+			color = 0xFFB3B3B3;
+		}
+		[10h00m]
+		{
+			color = 0xFFF0F0FF;
+		}
+		[12h00m]
+		{
+			color = 0xFFFFFFFF;
+		}
+		[19h00m]
+		{
+			color = 0xFFB39A9A;
+		}
+		[20h00m]
+		{
+			color = 0xFF66334D;
+		}
+		[21h00m]
+		{
+			color = 0xFF330D40;
+		}
+		[22h00m]
+		{
+			color = 0xFF000000;
+		}
+		[23h00m]
+		{
+			color = 0xFF000000;
+		}
+	}
+	[fog]
+	{
+		fog_near_dist = 10.0f;
+		fog_far_dist = 40.0f;
+		fog_lowdetail_near_dist = 10.0f;
+		fog_lowdetail_far_dist = 35.0f;
+	  x fog_color = 0xFFC0C0C8;
+		fog_density = 0.5f;
+	}
+	[rain]
+	{
+	}
+	[snow]
+	{
+	  f snow_density = 100.000000;
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_track = "s_m_Glacern_06";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = upza_snow_town_south_dgn;
+	transition_time = 4.0f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
+	[sun]
+	{
+		[00h00m]
+		{
+			color = 0xFF000000;
+		}
+		[05h00m]
+		{
+			color = 0xFF1A1A00;
+		}
+		[06h00m]
+		{
+			color = 0xFF66330D;
+		}
+		[07h00m]
+		{
+			color = 0xFFB39A40;
+		}
+		[08h00m]
+		{
+			color = 0xFFB3B3B3;
+		}
+		[10h00m]
+		{
+			color = 0xFFF0F0FF;
+		}
+		[12h00m]
+		{
+			color = 0xFFFFFFFF;
+		}
+		[19h00m]
+		{
+			color = 0xFFB39A9A;
+		}
+		[20h00m]
+		{
+			color = 0xFF66334D;
+		}
+		[21h00m]
+		{
+			color = 0xFF330D40;
+		}
+		[22h00m]
+		{
+			color = 0xFF000000;
+		}
+		[23h00m]
+		{
+			color = 0xFF000000;
+		}
+	}
+	[fog]
+	{
+		fog_near_dist = 20.0f;
+		fog_far_dist = 40.0f;
+		fog_lowdetail_near_dist = 10.0f;
+		fog_lowdetail_far_dist = 35.0f;
+	  x fog_color = 0xFFC0C0C8;
+		fog_density = 0.5f;
+	}
+	[rain]
+	{
+	}
+	[snow]
+	{
+	  f snow_density = 100.000000;
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_track = "s_m_Glacern_06";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = upza_snow_town_entry;
+	transition_time = 5.0f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
+	[sun]
+	{
+		[00h00m]
+		{
+			color = 0xFF000000;
+		}
+		[05h00m]
+		{
+			color = 0xFF1A1A00;
+		}
+		[06h00m]
+		{
+			color = 0xFF66330D;
+		}
+		[07h00m]
+		{
+			color = 0xFFB39A40;
+		}
+		[08h00m]
+		{
+			color = 0xFFB3B3B3;
+		}
+		[10h00m]
+		{
+			color = 0xFFF0F0FF;
+		}
+		[12h00m]
+		{
+			color = 0xFFFFFFFF;
+		}
+		[19h00m]
+		{
+			color = 0xFFB39A9A;
+		}
+		[20h00m]
+		{
+			color = 0xFF66334D;
+		}
+		[21h00m]
+		{
+			color = 0xFF330D40;
+		}
+		[22h00m]
+		{
+			color = 0xFF000000;
+		}
+		[23h00m]
+		{
+			color = 0xFF000000;
+		}
+	}
+	[fog]
+	{
+		fog_near_dist = 10.0f;
+		fog_far_dist = 40.0f;
+		fog_lowdetail_near_dist = 10.0f;
+		fog_lowdetail_far_dist = 35.0f;
+	  x fog_color = 0xFFC0C0C8;
+		fog_density = 0.5f;
+	}
+	[rain]
+	{
+	}
+	[snow]
+	{
+	  f snow_density = 100.000000;
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_track = "s_m_Glacern_07";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = upza_snow_town_tavern;
+	transition_time = 0.0f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
+	[sun]
+	{
+		[00h00m]
+		{
+			color = 0xFF000000;
+		}
+		[05h00m]
+		{
+			color = 0xFF1A1A00;
+		}
+		[06h00m]
+		{
+			color = 0xFF66330D;
+		}
+		[07h00m]
+		{
+			color = 0xFFB39A40;
+		}
+		[08h00m]
+		{
+			color = 0xFFB3B3B3;
+		}
+		[10h00m]
+		{
+			color = 0xFFF0F0FF;
+		}
+		[12h00m]
+		{
+			color = 0xFFFFFFFF;
+		}
+		[19h00m]
+		{
+			color = 0xFFB39A9A;
+		}
+		[20h00m]
+		{
+			color = 0xFF66334D;
+		}
+		[21h00m]
+		{
+			color = 0xFF330D40;
+		}
+		[22h00m]
+		{
+			color = 0xFF000000;
+		}
+		[23h00m]
+		{
+			color = 0xFF000000;
+		}
+	}
+	[fog]
+	{
+		fog_near_dist = 25.0f;
+		fog_far_dist = 40.0f;
+		fog_lowdetail_near_dist = 25.0f;
+		fog_lowdetail_far_dist = 35.0f;
+	  x fog_color = 0xFFC0C0C8;
+		fog_density = 0.5f;
+	}
+	[rain]
+	{
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_track = "s_m_Glacern_07";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = upza_snow_town_exit_tx;
+	transition_time = 15.0f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
+	[sun]
+	{
+		[00h00m]
+		{
+			color = 0xFF000000;
+		}
+		[05h00m]
+		{
+			color = 0xFF1A1A00;
+		}
+		[06h00m]
+		{
+			color = 0xFF66330D;
+		}
+		[07h00m]
+		{
+			color = 0xFFB39A40;
+		}
+		[08h00m]
+		{
+			color = 0xFFB3B3B3;
+		}
+		[10h00m]
+		{
+			color = 0xFFF0F0FF;
+		}
+		[12h00m]
+		{
+			color = 0xFFFFFFFF;
+		}
+		[19h00m]
+		{
+			color = 0xFFB39A9A;
+		}
+		[20h00m]
+		{
+			color = 0xFF66334D;
+		}
+		[21h00m]
+		{
+			color = 0xFF330D40;
+		}
+		[22h00m]
+		{
+			color = 0xFF000000;
+		}
+		[23h00m]
+		{
+			color = 0xFF000000;
+		}
+	}
+	[fog]
+	{
+		fog_near_dist = 3.0f;
+		fog_far_dist = 30.0f;
+		fog_lowdetail_near_dist = 3.0f;
+		fog_lowdetail_far_dist = 25.0f;
+	  x fog_color = 0xFFC0C0C8;
+		fog_density = 0.5f;
+	}
+	[rain]
+	{
+	}
+	[snow]
+	{
+	  f snow_density = 250.000000;
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_track = "s_m_Glacern_01";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = upza_snow_town_5;
+	transition_time = 15.0f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
+	[sun]
+	{
+		[00h00m]
+		{
+			color = 0xFF000000;
+		}
+		[05h00m]
+		{
+			color = 0xFF1A1A00;
+		}
+		[06h00m]
+		{
+			color = 0xFF66330D;
+		}
+		[07h00m]
+		{
+			color = 0xFFB39A40;
+		}
+		[08h00m]
+		{
+			color = 0xFFB3B3B3;
+		}
+		[10h00m]
+		{
+			color = 0xFFF0F0FF;
+		}
+		[12h00m]
+		{
+			color = 0xFFFFFFFF;
+		}
+		[19h00m]
+		{
+			color = 0xFFB39A9A;
+		}
+		[20h00m]
+		{
+			color = 0xFF66334D;
+		}
+		[21h00m]
+		{
+			color = 0xFF330D40;
+		}
+		[22h00m]
+		{
+			color = 0xFF000000;
+		}
+		[23h00m]
+		{
+			color = 0xFF000000;
+		}
+	}
+	[fog]
+	{
+		fog_near_dist = 10.0f;
+		fog_far_dist = 35.0f;
+		fog_lowdetail_near_dist = 10.0f;
+		fog_lowdetail_far_dist = 30.0f;
+	  x fog_color = 0xFFC0C0C8;
+		fog_density = 0.5f;
+	}
+	[rain]
+	{
+	}
+	[snow]
+	{
+	  f snow_density = 150.000000;
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_track = "s_m_Glacern_07";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = upza_snow_town_6;
+	transition_time = 2.0f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
+	[sun]
+	{
+		[00h00m]
+		{
+			color = 0xFF000000;
+		}
+		[05h00m]
+		{
+			color = 0xFF1A1A00;
+		}
+		[06h00m]
+		{
+			color = 0xFF66330D;
+		}
+		[07h00m]
+		{
+			color = 0xFFB39A40;
+		}
+		[08h00m]
+		{
+			color = 0xFFB3B3B3;
+		}
+		[10h00m]
+		{
+			color = 0xFFF0F0FF;
+		}
+		[12h00m]
+		{
+			color = 0xFFFFFFFF;
+		}
+		[19h00m]
+		{
+			color = 0xFFB39A9A;
+		}
+		[20h00m]
+		{
+			color = 0xFF66334D;
+		}
+		[21h00m]
+		{
+			color = 0xFF330D40;
+		}
+		[22h00m]
+		{
+			color = 0xFF000000;
+		}
+		[23h00m]
+		{
+			color = 0xFF000000;
+		}
+	}
+	[fog]
+	{
+		fog_near_dist = 10.0f;
+		fog_far_dist = 35.0f;
+		fog_lowdetail_near_dist = 10.0f;
+		fog_lowdetail_far_dist = 30.0f;
+	  x fog_color = 0xFFC0C0C8;
+		fog_density = 0.5f;
+	}
+	[rain]
+	{
+	}
+	[snow]
+	{
+	  f snow_density = 150.000000;
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_track = "s_m_Glacern_01";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = upza_snow_town_7;
+	transition_time = 1.0f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
+	[sun]
+	{
+		[00h00m]
+		{
+			color = 0xFF000000;
+		}
+		[05h00m]
+		{
+			color = 0xFF1A1A00;
+		}
+		[06h00m]
+		{
+			color = 0xFF66330D;
+		}
+		[07h00m]
+		{
+			color = 0xFFB39A40;
+		}
+		[08h00m]
+		{
+			color = 0xFFB3B3B3;
+		}
+		[10h00m]
+		{
+			color = 0xFFF0F0FF;
+		}
+		[12h00m]
+		{
+			color = 0xFFFFFFFF;
+		}
+		[19h00m]
+		{
+			color = 0xFFB39A9A;
+		}
+		[20h00m]
+		{
+			color = 0xFF66334D;
+		}
+		[21h00m]
+		{
+			color = 0xFF330D40;
+		}
+		[22h00m]
+		{
+			color = 0xFF000000;
+		}
+		[23h00m]
+		{
+			color = 0xFF000000;
+		}
+	}
+	[fog]
+	{
+		fog_near_dist = 10.0f;
+		fog_far_dist = 35.0f;
+		fog_lowdetail_near_dist = 10.0f;
+		fog_lowdetail_far_dist = 30.0f;
+	  x fog_color = 0xFFC0C0C8;
+		fog_density = 0.5f;
+	}
+	[rain]
+	{
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_track = "s_m_Glacern_01";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = upza_snow_town_8;
+	transition_time = 1.0f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
+	[sun]
+	{
+		[00h00m]
+		{
+			color = 0xFF000000;
+		}
+		[05h00m]
+		{
+			color = 0xFF1A1A00;
+		}
+		[06h00m]
+		{
+			color = 0xFF66330D;
+		}
+		[07h00m]
+		{
+			color = 0xFFB39A40;
+		}
+		[08h00m]
+		{
+			color = 0xFFB3B3B3;
+		}
+		[10h00m]
+		{
+			color = 0xFFF0F0FF;
+		}
+		[12h00m]
+		{
+			color = 0xFFFFFFFF;
+		}
+		[19h00m]
+		{
+			color = 0xFFB39A9A;
+		}
+		[20h00m]
+		{
+			color = 0xFF66334D;
+		}
+		[21h00m]
+		{
+			color = 0xFF330D40;
+		}
+		[22h00m]
+		{
+			color = 0xFF000000;
+		}
+		[23h00m]
+		{
+			color = 0xFF000000;
+		}
+	}
+	[fog]
+	{
+		fog_near_dist = 10.0f;
+		fog_far_dist = 35.0f;
+		fog_lowdetail_near_dist = 10.0f;
+		fog_lowdetail_far_dist = 30.0f;
+	  x fog_color = 0xFFC0C0C8;
+		fog_density = 0.5f;
+	}
+	[rain]
+	{
+	}
+	[snow]
+	{
+	  f snow_density = 150.000000;
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_track = "s_m_Glacern_01";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = upza_snow_town_teleport;
+	transition_time = 22.0f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
+	[sun]
+	{
+		[00h00m]
+		{
+			color = 0xFF000000;
+		}
+		[05h00m]
+		{
+			color = 0xFF1A1A00;
+		}
+		[06h00m]
+		{
+			color = 0xFF66330D;
+		}
+		[07h00m]
+		{
+			color = 0xFFB39A40;
+		}
+		[08h00m]
+		{
+			color = 0xFFB3B3B3;
+		}
+		[10h00m]
+		{
+			color = 0xFFF0F0FF;
+		}
+		[12h00m]
+		{
+			color = 0xFFFFFFFF;
+		}
+		[19h00m]
+		{
+			color = 0xFFB39A9A;
+		}
+		[20h00m]
+		{
+			color = 0xFF66334D;
+		}
+		[21h00m]
+		{
+			color = 0xFF330D40;
+		}
+		[22h00m]
+		{
+			color = 0xFF000000;
+		}
+		[23h00m]
+		{
+			color = 0xFF000000;
+		}
+	}
+	[fog]
+	{
+		fog_near_dist = 10.0f;
+		fog_far_dist = 40.0f;
+		fog_lowdetail_near_dist = 10.0f;
+		fog_lowdetail_far_dist = 35.0f;
+	  x fog_color = 0xFFC0C0C8;
+		fog_density = 0.5f;
+	}
+	[rain]
+	{
+	}
+	[snow]
+	{
+	  f snow_density = 100.000000;
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_track = "s_m_Glacern_07";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = upza_snow_town_teleport_2;
+	transition_time = 20.0f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
+	[sun]
+	{
+		[00h00m]
+		{
+			color = 0xFF000000;
+		}
+		[05h00m]
+		{
+			color = 0xFF1A1A00;
+		}
+		[06h00m]
+		{
+			color = 0xFF66330D;
+		}
+		[07h00m]
+		{
+			color = 0xFFB39A40;
+		}
+		[08h00m]
+		{
+			color = 0xFFB3B3B3;
+		}
+		[10h00m]
+		{
+			color = 0xFFF0F0FF;
+		}
+		[12h00m]
+		{
+			color = 0xFFFFFFFF;
+		}
+		[19h00m]
+		{
+			color = 0xFFB39A9A;
+		}
+		[20h00m]
+		{
+			color = 0xFF66334D;
+		}
+		[21h00m]
+		{
+			color = 0xFF330D40;
+		}
+		[22h00m]
+		{
+			color = 0xFF000000;
+		}
+		[23h00m]
+		{
+			color = 0xFF000000;
+		}
+	}
+	[fog]
+	{
+		fog_near_dist = 3.0f;
+		fog_far_dist = 30.0f;
+		fog_lowdetail_near_dist = 3.0f;
+		fog_lowdetail_far_dist = 25.0f;
+	  x fog_color = 0xFFC0C0C8;
+		fog_density = 0.5f;
+	}
+	[rain]
+	{
+	}
+	[snow]
+	{
+	  f snow_density = 250.000000;
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_track = "s_m_Glacern_01";
+		room_type = rt_generic;
+	}
+}

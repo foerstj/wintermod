@@ -1,0 +1,428 @@
+[mood_setting*]
+{
+	mood_name = upza_ocean_1;
+	transition_time = 6.0f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
+	[fog]
+	{
+		fog_near_dist = 5.0f;
+		fog_far_dist = 35.0f;
+		fog_lowdetail_near_dist = 5.0f;
+		fog_lowdetail_far_dist = 30.0f;
+	  x fog_color = 0xFF646484;
+		fog_density = 0.5f;
+	}
+	[rain]
+	{
+	}
+	[wind]
+	{
+		wind_velocity = 1.5f;
+		wind_direction = 0.0f;
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_repeat_delay = 5.0f;
+		standard_track = "s_m_swanny";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = upza_ocean_2;
+	transition_time = 6.0f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
+	[fog]
+	{
+		fog_near_dist = 20.0f;
+		fog_far_dist = 40.0f;
+		fog_lowdetail_near_dist = 20.0f;
+		fog_lowdetail_far_dist = 35.0f;
+	  x fog_color = 0xFF747484;
+		fog_density = 0.5f;
+	}
+	[rain]
+	{
+	  f rain_density = 50.000000;
+	  b lightning = false;
+	}
+	[wind]
+	{
+		wind_velocity = 1.0f;
+		wind_direction = 0.0f;
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_repeat_delay = 10.0f;
+		standard_track = "s_m_BesiegedTown_03";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = upza_ocean_3;
+	transition_time = 6.0f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
+	[fog]
+	{
+		fog_near_dist = 20.0f;
+		fog_far_dist = 40.0f;
+		fog_lowdetail_near_dist = 20.0f;
+		fog_lowdetail_far_dist = 35.0f;
+	  x fog_color = 0xFF505552;
+		fog_density = 0.5f;
+	}
+	[rain]
+	{
+	  f rain_density = 75.000000;
+	  b lightning = false;
+	}
+	[wind]
+	{
+		wind_velocity = 1.5f;
+		wind_direction = 0.0f;
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_repeat_delay = 10.0f;
+		standard_track = "s_m_BesiegedTown_03";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = upza_ocean_3_2;
+	transition_time = 1.0f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
+	[fog]
+	{
+		fog_near_dist = 20.0f;
+		fog_far_dist = 40.0f;
+		fog_lowdetail_near_dist = 20.0f;
+		fog_lowdetail_far_dist = 35.0f;
+	  x fog_color = 0xFF505552;
+		fog_density = 0.5f;
+	}
+	[rain]
+	{
+	  f rain_density = 75.000000;
+	  b lightning = false;
+	}
+	[wind]
+	{
+		wind_velocity = 1.5f;
+		wind_direction = 0.0f;
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_repeat_delay = 10.0f;
+		standard_track = "s_m_BesiegedTown_03";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = upza_ocean_4;
+	transition_time = 6.0f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
+	[fog]
+	{
+		fog_near_dist = 15.0f;
+		fog_far_dist = 40.0f;
+		fog_lowdetail_near_dist = 15.0f;
+		fog_lowdetail_far_dist = 35.0f;
+	  x fog_color = 0xFF303830;
+		fog_density = 0.5f;
+	}
+	[rain]
+	{
+	  f rain_density = 150.000000;
+	  b lightning = false;
+	}
+	[wind]
+	{
+		wind_velocity = 2.0f;
+		wind_direction = 0.0f;
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_repeat_delay = 10.0f;
+		standard_track = "s_m_TempleRuins_03";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = upza_ocean_tavern;
+	transition_time = 1.5f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
+	[fog]
+	{
+		fog_near_dist = 15.0f;
+		fog_far_dist = 35.0f;
+		fog_lowdetail_near_dist = 15.0f;
+		fog_lowdetail_far_dist = 30.0f;
+	  x fog_color = 0xFF646484;
+		fog_density = 0.5f;
+	}
+	[rain]
+	{
+	}
+	[wind]
+	{
+		wind_velocity = 1.5f;
+		wind_direction = 0.0f;
+	}
+	[music]
+	{
+		standard_repeat_delay = 5.0f;
+		standard_track = "s_m_swanny";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = upza_ocean_tavern_2;
+	transition_time = 1.0f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
+	[fog]
+	{
+		fog_near_dist = 5.0f;
+		fog_far_dist = 35.0f;
+		fog_lowdetail_near_dist = 5.0f;
+		fog_lowdetail_far_dist = 30.0f;
+	  x fog_color = 0xFF646484;
+		fog_density = 0.5f;
+	}
+	[rain]
+	{
+	}
+	[wind]
+	{
+		wind_velocity = 1.5f;
+		wind_direction = 0.0f;
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_repeat_delay = 5.0f;
+		standard_track = "s_m_swanny";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = upza_ocean_5;
+	transition_time = 1.0f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
+	[fog]
+	{
+		fog_near_dist = 15.0f;
+		fog_far_dist = 35.0f;
+		fog_lowdetail_near_dist = 15.0f;
+		fog_lowdetail_far_dist = 30.0f;
+	  x fog_color = 0xFF646484;
+		fog_density = 0.5f;
+	}
+	[rain]
+	{
+	}
+	[wind]
+	{
+		wind_velocity = 1.5f;
+		wind_direction = 0.0f;
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_repeat_delay = 5.0f;
+		standard_track = "s_m_swanny";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = upza_ocean_teleport;
+	transition_time = 22.0f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
+	[fog]
+	{
+		fog_near_dist = 5.0f;
+		fog_far_dist = 35.0f;
+		fog_lowdetail_near_dist = 5.0f;
+		fog_lowdetail_far_dist = 30.0f;
+	  x fog_color = 0xFF646484;
+		fog_density = 0.5f;
+	}
+	[rain]
+	{
+	}
+	[wind]
+	{
+		wind_velocity = 1.5f;
+		wind_direction = 0.0f;
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_repeat_delay = 10.0f;
+		standard_track = "s_m_swanny";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = upza_ocean_teleport_2;
+	transition_time = 20.0f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
+	[fog]
+	{
+		fog_near_dist = 20.0f;
+		fog_far_dist = 40.0f;
+		fog_lowdetail_near_dist = 20.0f;
+		fog_lowdetail_far_dist = 35.0f;
+	  x fog_color = 0xFF505552;
+		fog_density = 0.5f;
+	}
+	[rain]
+	{
+	  f rain_density = 75.000000;
+	  b lightning = false;
+	}
+	[wind]
+	{
+		wind_velocity = 1.5f;
+		wind_direction = 0.0f;
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_repeat_delay = 10.0f;
+		standard_track = "s_m_BesiegedTown_03";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = upza_ocean_captain;
+	transition_time = 2.0f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
+	[fog]
+	{
+		fog_near_dist = 5.0f;
+		fog_far_dist = 35.0f;
+		fog_lowdetail_near_dist = 5.0f;
+		fog_lowdetail_far_dist = 30.0f;
+	  x fog_color = 0xFF404040;
+		fog_density = 0.5f;
+	}
+	[rain]
+	{
+	}
+	[wind]
+	{
+		wind_velocity = 1.5f;
+		wind_direction = 0.0f;
+	}
+	[music]
+	{
+		ambient_track = "s_e_ambient_crypt";
+		standard_track = "s_m_battle";
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = upza_ocean_captain_defeated;
+	transition_time = 4.0f;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
+	[fog]
+	{
+		fog_near_dist = 5.0f;
+		fog_far_dist = 35.0f;
+		fog_lowdetail_near_dist = 5.0f;
+		fog_lowdetail_far_dist = 30.0f;
+	  x fog_color = 0xFF646484;
+		fog_density = 0.5f;
+	}
+	[rain]
+	{
+	}
+	[wind]
+	{
+		wind_velocity = 1.5f;
+		wind_direction = 0.0f;
+	}
+	[music]
+	{
+		ambient_track = "";
+		standard_repeat_delay = 5.0f;
+		standard_track = "s_m_dragonlair_03";
+		room_type = rt_generic;
+	}
+}

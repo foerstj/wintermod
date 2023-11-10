@@ -2,7 +2,12 @@
 {
 	mood_name = multiplayer_world_abc_r1_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
 	[fog]
 	{
 		fog_near_dist = 20.0f;
@@ -11,11 +16,6 @@
 		fog_lowdetail_far_dist = 25.0f;
 		fog_color = 0xFF000000;
 		fog_density = 0.5f;
-	}
-	[frustum]
-	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
 	}
 	[rain]
 	{
@@ -31,7 +31,12 @@
 {
 	mood_name = multiplayer_world_abc_r1_2;
 	transition_time = 2.0f;
-	interior = true;
+  b interior = true;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
 	[fog]
 	{
 		fog_near_dist = 20.0f;
@@ -40,11 +45,6 @@
 		fog_lowdetail_far_dist = 25.0f;
 		fog_color = 0xFF000000;
 		fog_density = 0.5f;
-	}
-	[frustum]
-	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
 	}
 	[rain]
 	{
@@ -60,7 +60,12 @@
 {
 	mood_name = multiplayer_world_abc_r1_3;
 	transition_time = 2.0f;
-	interior = true;
+  b interior = true;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
 	[fog]
 	{
 		fog_near_dist = 20.0f;
@@ -69,11 +74,6 @@
 		fog_lowdetail_far_dist = 25.0f;
 		fog_color = 0xFF000000;
 		fog_density = 0.5f;
-	}
-	[frustum]
-	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
 	}
 	[rain]
 	{
@@ -90,7 +90,12 @@
 {
 	mood_name = multiplayer_world_abc_r1_4;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
 	[fog]
 	{
 		fog_near_dist = 20.0f;
@@ -99,11 +104,6 @@
 		fog_lowdetail_far_dist = 25.0f;
 		fog_color = 0xFF000000;
 		fog_density = 0.5f;
-	}
-	[frustum]
-	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
 	}
 	[rain]
 	{
@@ -120,7 +120,12 @@
 {
 	mood_name = multiplayer_world_castle_1;
 	transition_time = 6.0f;
-	interior = false;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -130,17 +135,12 @@
 		fog_color = 0xFF505050;
 		fog_density = 0.5f;
 	}
-	[frustum]
-	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
-	}
 	[rain]
 	{
 	}
 	[snow]
 	{
-		snow_density = 200.0f;
+	  f snow_density = 200.000000;
 	}
 	[music]
 	{
@@ -154,7 +154,12 @@
 {
 	mood_name = multiplayer_world_castle_2;
 	transition_time = 3.0f;
-	interior = false;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -164,18 +169,12 @@
 		fog_color = 0xFF404040;
 		fog_density = 0.5f;
 	}
-	[frustum]
-	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
-	}
 	[rain]
 	{
 	}
 	[snow]
 	{
-		snow_density = 225.0f;
-		lightning = true;
+	  f snow_density = 225.000000;
 	}
 	[wind]
 	{
@@ -193,7 +192,12 @@
 {
 	mood_name = multiplayer_world_castle_3;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
 	[fog]
 	{
 		fog_near_dist = 20.0f;
@@ -202,11 +206,6 @@
 		fog_lowdetail_far_dist = 25.0f;
 		fog_color = 0xFF000000;
 		fog_density = 0.5f;
-	}
-	[frustum]
-	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
 	}
 	[rain]
 	{
@@ -223,7 +222,12 @@
 {
 	mood_name = multiplayer_world_castle_4;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
 	[fog]
 	{
 		fog_near_dist = 20.0f;
@@ -232,11 +236,6 @@
 		fog_lowdetail_far_dist = 25.0f;
 		fog_color = 0xFF000000;
 		fog_density = 0.5f;
-	}
-	[frustum]
-	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
 	}
 	[rain]
 	{
@@ -253,7 +252,12 @@
 {
 	mood_name = multiplayer_world_castle_dun_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -262,11 +266,6 @@
 		fog_lowdetail_far_dist = 35.0f;
 		fog_color = 0xFF000000;
 		fog_density = 0.5f;
-	}
-	[frustum]
-	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
 	}
 	[rain]
 	{
@@ -283,7 +282,12 @@
 {
 	mood_name = multiplayer_world_castle_dun_2;
 	transition_time = 5.0f;
-	interior = true;
+  b interior = true;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -292,11 +296,6 @@
 		fog_lowdetail_far_dist = 35.0f;
 		fog_color = 0xFF000000;
 		fog_density = 0.5f;
-	}
-	[frustum]
-	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
 	}
 	[rain]
 	{
@@ -313,7 +312,12 @@
 {
 	mood_name = multiplayer_world_castle_dun_3;
 	transition_time = 5.0f;
-	interior = true;
+  b interior = true;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -322,11 +326,6 @@
 		fog_lowdetail_far_dist = 35.0f;
 		fog_color = 0xFF000000;
 		fog_density = 0.5f;
-	}
-	[frustum]
-	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
 	}
 	[rain]
 	{
@@ -343,7 +342,12 @@
 {
 	mood_name = multiplayer_world_castle_dun_4;
 	transition_time = 5.0f;
-	interior = true;
+  b interior = true;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -352,11 +356,6 @@
 		fog_lowdetail_far_dist = 35.0f;
 		fog_color = 0xFF000000;
 		fog_density = 0.5f;
-	}
-	[frustum]
-	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
 	}
 	[rain]
 	{
@@ -373,7 +372,12 @@
 {
 	mood_name = multiplayer_world_castle_town_1;
 	transition_time = 6.0f;
-	interior = false;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -382,11 +386,6 @@
 		fog_lowdetail_far_dist = 45.0f;
 		fog_color = 0xFF646464;
 		fog_density = 0.5f;
-	}
-	[frustum]
-	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
 	}
 	[rain]
 	{
@@ -402,7 +401,12 @@
 {
 	mood_name = multiplayer_world_castle_town_1_1;
 	transition_time = 6.0f;
-	interior = false;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
 	[fog]
 	{
 		fog_near_dist = 20.0f;
@@ -411,11 +415,6 @@
 		fog_lowdetail_far_dist = 45.0f;
 		fog_color = 0xFF646464;
 		fog_density = 0.5f;
-	}
-	[frustum]
-	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
 	}
 	[rain]
 	{
@@ -431,7 +430,12 @@
 {
 	mood_name = multiplayer_world_castle_town_2;
 	transition_time = 10.0f;
-	interior = false;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -441,10 +445,12 @@
 		fog_color = 0xFF545464;
 		fog_density = 0.5f;
 	}
-	[frustum]
+	[rain]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	}
+	[snow]
+	{
+	  f snow_density = 50.000000;
 	}
 	[music]
 	{
@@ -452,20 +458,17 @@
 		standard_track = "s_m_BesiegedTown_04";
 		room_type = rt_generic;
 	}
-	[rain]
-	{
-	}
-	[snow]
-	{
-		snow_density = 50.0f;
-		lightning = false;
-	}
 }
 [mood_setting*]
 {
 	mood_name = multiplayer_world_castle_town_3;
 	transition_time = 4.0f;
-	interior = false;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -474,11 +477,6 @@
 		fog_lowdetail_far_dist = 45.0f;
 		fog_color = 0xFF1e1e28;
 		fog_density = 0.5f;
-	}
-	[frustum]
-	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
 	}
 	[rain]
 	{
@@ -494,7 +492,12 @@
 {
 	mood_name = multiplayer_world_castle_town_tavern;
 	transition_time = 6.0f;
-	interior = false;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -503,11 +506,6 @@
 		fog_lowdetail_far_dist = 45.0f;
 		fog_color = 0xFF646464;
 		fog_density = 0.5f;
-	}
-	[frustum]
-	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
 	}
 	[rain]
 	{
@@ -523,7 +521,7 @@
 {
 	mood_name = multiplayer_world_castle_town_teleport;
 	transition_time = 22.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -552,7 +550,7 @@
 {
 	mood_name = multiplayer_world_crypts2sd_1;
 	transition_time = 7.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 21.0f;
@@ -577,7 +575,7 @@
 {
 	mood_name = multiplayer_world_crypts2sd_2;
 	transition_time = 7.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -602,7 +600,7 @@
 {
 	mood_name = multiplayer_world_crypts2sd_3;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -627,7 +625,7 @@
 {
 	mood_name = multiplayer_world_crypts2sd_4;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -652,7 +650,12 @@
 {
 	mood_name = multiplayer_world_dark_forest_1;
 	transition_time = 4.0f;
-	interior = false;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -661,11 +664,6 @@
 		fog_lowdetail_far_dist = 45.0f;
 		fog_color = 0xFF65656d;
 		fog_density = 0.5f;
-	}
-	[frustum]
-	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
 	}
 	[rain]
 	{
@@ -682,7 +680,12 @@
 {
 	mood_name = multiplayer_world_dark_forest_2;
 	transition_time = 4.0f;
-	interior = false;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -691,11 +694,6 @@
 		fog_lowdetail_far_dist = 40.0f;
 		fog_color = 0xFF191921;
 		fog_density = 0.5f;
-	}
-	[frustum]
-	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
 	}
 	[rain]
 	{
@@ -712,7 +710,12 @@
 {
 	mood_name = multiplayer_world_dark_forest_2_2;
 	transition_time = 7.0f;
-	interior = false;
+  b interior = false;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -721,11 +724,6 @@
 		fog_lowdetail_far_dist = 40.0f;
 		fog_color = 0xFF191921;
 		fog_density = 0.5f;
-	}
-	[frustum]
-	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
 	}
 	[rain]
 	{
@@ -742,7 +740,7 @@
 {
 	mood_name = multiplayer_world_dark_forest_3;
 	transition_time = 6.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -762,8 +760,7 @@
 	}
 	[snow]
 	{
-		snow_density = 75.0f;
-		lightning = false;
+	  f snow_density = 75.000000;
 	}
 	[wind]
 	{
@@ -782,7 +779,7 @@
 {
 	mood_name = multiplayer_world_dark_forest_4;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -810,7 +807,7 @@
 {
 	mood_name = multiplayer_world_dark_forest_5;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -840,7 +837,7 @@
 {
 	mood_name = multiplayer_world_dark_forest_teleport;
 	transition_time = 20.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -870,7 +867,7 @@
 {
 	mood_name = multiplayer_world_des_r1_1;
 	transition_time = 4.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -900,7 +897,7 @@
 {
 	mood_name = multiplayer_world_des_r1_2;
 	transition_time = 10.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -930,7 +927,7 @@
 {
 	mood_name = multiplayer_world_des_r1_3;
 	transition_time = 15.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -960,7 +957,7 @@
 {
 	mood_name = multiplayer_world_des_r1_4;
 	transition_time = 2.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -990,7 +987,7 @@
 {
 	mood_name = multiplayer_world_des_r1_5;
 	transition_time = 2.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -1020,7 +1017,7 @@
 {
 	mood_name = multiplayer_world_des_r1_6;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -1050,7 +1047,7 @@
 {
 	mood_name = multiplayer_world_des_r1_7;
 	transition_time = 10.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -1080,7 +1077,7 @@
 {
 	mood_name = multiplayer_world_des_r1_teleport;
 	transition_time = 22.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -1110,7 +1107,7 @@
 {
 	mood_name = multiplayer_world_desert_1;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -1140,7 +1137,7 @@
 {
 	mood_name = multiplayer_world_desert_2;
 	transition_time = 10.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -1170,7 +1167,7 @@
 {
 	mood_name = multiplayer_world_desert_3;
 	transition_time = 10.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -1200,7 +1197,7 @@
 {
 	mood_name = multiplayer_world_desert_4;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -1230,7 +1227,7 @@
 {
 	mood_name = multiplayer_world_desert_teleport;
 	transition_time = 22.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -1260,7 +1257,7 @@
 {
 	mood_name = multiplayer_world_df2ds_1;
 	transition_time = 15.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -1275,17 +1272,17 @@
 		fog_color = 0xFF32323b;
 		fog_density = 0.6f;
 	}
-	[wind]
-	{
-		wind_velocity = 1.25f;
-		wind_direction = 1.57f;
-	}
 	[rain]
 	{
 	}
 	[snow]
 	{
-		snow_density = 50.0f;
+	  f snow_density = 50.000000;
+	}
+	[wind]
+	{
+		wind_velocity = 1.25f;
+		wind_direction = 1.57f;
 	}
 	[music]
 	{
@@ -1299,7 +1296,7 @@
 {
 	mood_name = multiplayer_world_df2ds_2;
 	transition_time = 15.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -1314,17 +1311,17 @@
 		fog_color = 0xFF32323b;
 		fog_density = 0.6f;
 	}
-	[wind]
-	{
-		wind_velocity = 1.25f;
-		wind_direction = 1.57f;
-	}
 	[rain]
 	{
 	}
 	[snow]
 	{
-		snow_density = 50.0f;
+	  f snow_density = 50.000000;
+	}
+	[wind]
+	{
+		wind_velocity = 1.25f;
+		wind_direction = 1.57f;
 	}
 	[music]
 	{
@@ -1338,7 +1335,7 @@
 {
 	mood_name = multiplayer_world_df2ds_3;
 	transition_time = 10.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -1353,13 +1350,13 @@
 		fog_color = 0xFF32323b;
 		fog_density = 0.6f;
 	}
+	[rain]
+	{
+	}
 	[wind]
 	{
 		wind_velocity = 1.25f;
 		wind_direction = 1.57f;
-	}
-	[rain]
-	{
 	}
 	[music]
 	{
@@ -1373,7 +1370,7 @@
 {
 	mood_name = multiplayer_world_df2ds_4;
 	transition_time = 3.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -1388,17 +1385,17 @@
 		fog_color = 0xFF363636;
 		fog_density = 0.6f;
 	}
+	[rain]
+	{
+	}
+	[snow]
+	{
+	  f snow_density = 30.000000;
+	}
 	[wind]
 	{
 		wind_velocity = 1.25f;
 		wind_direction = 1.57f;
-	}
-	[snow]
-	{
-		snow_density = 30;
-	}
-	[rain]
-	{
 	}
 	[music]
 	{
@@ -1412,7 +1409,7 @@
 {
 	mood_name = multiplayer_world_df2ds_5;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -1434,7 +1431,7 @@
 {
 	mood_name = multiplayer_world_df2ds_6;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -1456,7 +1453,7 @@
 {
 	mood_name = multiplayer_world_df2ds_7;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -1522,17 +1519,17 @@
 		fog_color = 0xFFc0c0c8;
 		fog_density = 0.6f;
 	}
+	[rain]
+	{
+	}
+	[snow]
+	{
+	  f snow_density = 200.000000;
+	}
 	[wind]
 	{
 		wind_velocity = 2.5f;
 		wind_direction = 3.14f;
-	}
-	[snow]
-	{
-		snow_density = 200;
-	}
-	[rain]
-	{
 	}
 	[music]
 	{
@@ -1546,7 +1543,7 @@
 {
 	mood_name = multiplayer_world_df2ds_8;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -1612,17 +1609,17 @@
 		fog_color = 0xFFc0c0c8;
 		fog_density = 0.6f;
 	}
+	[rain]
+	{
+	}
+	[snow]
+	{
+	  f snow_density = 200.000000;
+	}
 	[wind]
 	{
 		wind_velocity = 2.5f;
 		wind_direction = 3.14f;
-	}
-	[snow]
-	{
-		snow_density = 200;
-	}
-	[rain]
-	{
 	}
 	[music]
 	{
@@ -1636,7 +1633,7 @@
 {
 	mood_name = multiplayer_world_df2ds_9;
 	transition_time = 15.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -1702,17 +1699,17 @@
 		fog_color = 0xFFc0c0c8;
 		fog_density = 0.5f;
 	}
+	[rain]
+	{
+	}
+	[snow]
+	{
+	  f snow_density = 400.000000;
+	}
 	[wind]
 	{
 		wind_velocity = 2.5f;
 		wind_direction = 5f;
-	}
-	[snow]
-	{
-		snow_density = 400;
-	}
-	[rain]
-	{
 	}
 	[music]
 	{
@@ -1726,7 +1723,7 @@
 {
 	mood_name = multiplayer_world_dragon_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -1756,7 +1753,7 @@
 {
 	mood_name = multiplayer_world_dragon_2;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -1786,7 +1783,7 @@
 {
 	mood_name = multiplayer_world_dragon_3;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -1816,7 +1813,7 @@
 {
 	mood_name = multiplayer_world_dragon_4;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -1846,7 +1843,7 @@
 {
 	mood_name = multiplayer_world_dragon_5;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -1876,7 +1873,7 @@
 {
 	mood_name = multiplayer_world_ds_r2_1;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -1906,7 +1903,7 @@
 {
 	mood_name = multiplayer_world_ds_r2_2;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -1936,7 +1933,7 @@
 {
 	mood_name = multiplayer_world_dunes_1;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -1962,7 +1959,7 @@
 {
 	mood_name = multiplayer_world_dunes_2;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -1994,7 +1991,7 @@
 {
 	mood_name = multiplayer_world_dunes_3;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -2026,7 +2023,7 @@
 {
 	mood_name = multiplayer_world_dunes_4;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -2057,7 +2054,7 @@
 {
 	mood_name = multiplayer_world_dunes2hades_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -2083,7 +2080,7 @@
 {
 	mood_name = multiplayer_world_dunes2island_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -2109,7 +2106,7 @@
 {
 	mood_name = multiplayer_world_eg_seck_dungeon_1;
 	transition_time = 4.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -2139,7 +2136,7 @@
 {
 	mood_name = multiplayer_world_eg_seck_dungeon_2;
 	transition_time = 4.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -2169,7 +2166,7 @@
 {
 	mood_name = multiplayer_world_farmland_and_chapel_1;
 	transition_time = 2.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -2204,7 +2201,7 @@
 {
 	mood_name = multiplayer_world_farmland_and_chapel_2;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -2224,7 +2221,7 @@
 	}
 	[snow]
 	{
-		snow_density = 100.0f;
+	  f snow_density = 100.000000;
 	}
 	[music]
 	{
@@ -2238,7 +2235,7 @@
 {
 	mood_name = multiplayer_world_farmland_and_chapel_3;
 	transition_time = 4.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -2268,7 +2265,7 @@
 {
 	mood_name = multiplayer_world_farmland_and_chapel_4;
 	transition_time = 4.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -2298,7 +2295,7 @@
 {
 	mood_name = multiplayer_world_fd_r4_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -2328,7 +2325,7 @@
 {
 	mood_name = multiplayer_world_fd_r4_2;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -2358,7 +2355,7 @@
 {
 	mood_name = multiplayer_world_gd_r1_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -2388,7 +2385,7 @@
 {
 	mood_name = multiplayer_world_gd_r1_2;
 	transition_time = 2.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -2418,7 +2415,7 @@
 {
 	mood_name = multiplayer_world_gd_r1_3;
 	transition_time = 2.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -2448,7 +2445,7 @@
 {
 	mood_name = multiplayer_world_gd_r1_4;
 	transition_time = 2.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -2478,7 +2475,7 @@
 {
 	mood_name = multiplayer_world_gi_a_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -2508,7 +2505,7 @@
 {
 	mood_name = multiplayer_world_gi_a_1_sun;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -2589,7 +2586,7 @@
 {
 	mood_name = multiplayer_world_gi_a_2;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -2619,7 +2616,7 @@
 {
 	mood_name = multiplayer_world_gi_a_3;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -2649,7 +2646,7 @@
 {
 	mood_name = multiplayer_world_gi_a_r2_1;
 	transition_time = 3.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -2679,7 +2676,7 @@
 {
 	mood_name = multiplayer_world_gi_a_r2_2;
 	transition_time = 3.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -2709,7 +2706,7 @@
 {
 	mood_name = multiplayer_world_gi_a_r2_3;
 	transition_time = 3.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -2739,7 +2736,7 @@
 {
 	mood_name = multiplayer_world_gi_a_r2_teleport;
 	transition_time = 20.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -2769,7 +2766,12 @@
 {
 	mood_name = multiplayer_world_gp_r1_1;
 	transition_time = 6.0f;
-	interior = true;
+  b interior = true;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 120.0f;
+	}
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -2778,11 +2780,6 @@
 		fog_lowdetail_far_dist = 35.0f;
 		fog_color = 0xff454545;
 		fog_density = 0.5f;
-	}
-	[frustum]
-	{
-		frustum_width = 45.0f;
-		frustum_height = 120.0f;
 	}
 	[rain]
 	{
@@ -2798,7 +2795,12 @@
 {
 	mood_name = multiplayer_world_gp_r1_1b;
 	transition_time = 2.5f;
-	interior = true;
+  b interior = true;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 120.0f;
+	}
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -2807,11 +2809,6 @@
 		fog_lowdetail_far_dist = 35.0f;
 		fog_color = 0xff454545;
 		fog_density = 0.5f;
-	}
-	[frustum]
-	{
-		frustum_width = 45.0f;
-		frustum_height = 120.0f;
 	}
 	[rain]
 	{
@@ -2827,7 +2824,12 @@
 {
 	mood_name = multiplayer_world_gp_r1_2;
 	transition_time = 3.0f;
-	interior = true;
+  b interior = true;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -2836,11 +2838,6 @@
 		fog_lowdetail_far_dist = 30.0f;
 		fog_color = 0xFF454545;
 		fog_density = 0.5f;
-	}
-	[frustum]
-	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
 	}
 	[rain]
 	{
@@ -2856,7 +2853,12 @@
 {
 	mood_name = multiplayer_world_gp_r1_3;
 	transition_time = 0.3f;
-	interior = true;
+  b interior = true;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 120.0f;
+	}
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -2865,11 +2867,6 @@
 		fog_lowdetail_far_dist = 30.0f;
 		fog_color = 0xFF3f3f3f;
 		fog_density = 0.5f;
-	}
-	[frustum]
-	{
-		frustum_width = 45.0f;
-		frustum_height = 120.0f;
 	}
 	[rain]
 	{
@@ -2885,7 +2882,12 @@
 {
 	mood_name = multiplayer_world_gp_r2_1;
 	transition_time = 0.3f;
-	interior = true;
+  b interior = true;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 120.0f;
+	}
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -2894,11 +2896,6 @@
 		fog_lowdetail_far_dist = 30.0f;
 		fog_color = 0xFF000000;
 		fog_density = 0.5f;
-	}
-	[frustum]
-	{
-		frustum_width = 45.0f;
-		frustum_height = 120.0f;
 	}
 	[rain]
 	{
@@ -2914,7 +2911,7 @@
 {
 	mood_name = multiplayer_world_grs_dry_hard_r1_1;
 	transition_time = 4.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -2931,25 +2928,25 @@
 	}
 	[rain]
 	{
-	}
-	[music]
-	{
-		ambient_track = "";
-		standard_repeat_delay = 10.0f;
-		standard_track = "s_m_DesertCanyons_01";
-		room_type = rt_generic;
 	}
 	[wind]
 	{
 		wind_velocity = 2.0f;
 		wind_direction = 1.57f;
 	}
+	[music]
+	{
+		ambient_track = "";
+		standard_repeat_delay = 10.0f;
+		standard_track = "s_m_DesertCanyons_01";
+		room_type = rt_generic;
+	}
 }
 [mood_setting*]
 {
 	mood_name = multiplayer_world_grs_dry_hard_r1_1_2;
 	transition_time = 4.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -2967,6 +2964,11 @@
 	[rain]
 	{
 	}
+	[wind]
+	{
+		wind_velocity = 2.7f;
+		wind_direction = 1.57f;
+	}
 	[music]
 	{
 		ambient_track = "";
@@ -2974,17 +2976,12 @@
 		standard_track = "s_m_DesertCanyons_01";
 		room_type = rt_generic;
 	}
-	[wind]
-	{
-		wind_velocity = 2.7f;
-		wind_direction = 1.57f;
-	}
 }
 [mood_setting*]
 {
 	mood_name = multiplayer_world_grs_dry_hard_r1_2;
 	transition_time = 4.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -3002,6 +2999,11 @@
 	[rain]
 	{
 	}
+	[wind]
+	{
+		wind_velocity = 2.0f;
+		wind_direction = 1.57f;
+	}
 	[music]
 	{
 		ambient_track = "";
@@ -3009,17 +3011,12 @@
 		standard_track = "s_m_DesertCanyons_02";
 		room_type = rt_generic;
 	}
-	[wind]
-	{
-		wind_velocity = 2.0f;
-		wind_direction = 1.57f;
-	}
 }
 [mood_setting*]
 {
 	mood_name = multiplayer_world_grs_dry_hard_r1_3;
 	transition_time = 10.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -3037,6 +3034,11 @@
 	[rain]
 	{
 	}
+	[wind]
+	{
+		wind_velocity = 3.0f;
+		wind_direction = 1.57f;
+	}
 	[music]
 	{
 		ambient_track = "";
@@ -3044,17 +3046,12 @@
 		standard_track = "s_m_DesertCanyons_01";
 		room_type = rt_generic;
 	}
-	[wind]
-	{
-		wind_velocity = 3.0f;
-		wind_direction = 1.57f;
-	}
 }
 [mood_setting*]
 {
 	mood_name = multiplayer_world_grs_dry_hard_r1_3_2;
 	transition_time = 10.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -3072,6 +3069,11 @@
 	[rain]
 	{
 	}
+	[wind]
+	{
+		wind_velocity = 2.0f;
+		wind_direction = 1.57f;
+	}
 	[music]
 	{
 		ambient_track = "";
@@ -3079,17 +3081,12 @@
 		standard_track = "s_m_DesertCanyons_02";
 		room_type = rt_generic;
 	}
-	[wind]
-	{
-		wind_velocity = 2.0f;
-		wind_direction = 1.57f;
-	}
 }
 [mood_setting*]
 {
 	mood_name = multiplayer_world_grs_dry_hard_r1_4;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -3106,6 +3103,11 @@
 	}
 	[rain]
 	{
+	}
+	[wind]
+	{
+		wind_velocity = 1.2f;
+		wind_direction = 1.57f;
 	}
 	[music]
 	{
@@ -3114,17 +3116,12 @@
 		standard_track = "s_m_DesertCanyons_01";
 		room_type = rt_generic;
 	}
-	[wind]
-	{
-		wind_velocity = 1.2f;
-		wind_direction = 1.57f;
-	}
 }
 [mood_setting*]
 {
 	mood_name = multiplayer_world_grs2des_1;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -3141,6 +3138,11 @@
 	}
 	[rain]
 	{
+	}
+	[wind]
+	{
+		wind_velocity = 1.2f;
+		wind_direction = 1.57f;
 	}
 	[music]
 	{
@@ -3149,17 +3151,12 @@
 		standard_track = "s_m_DesertCanyons_05";
 		room_type = rt_generic;
 	}
-	[wind]
-	{
-		wind_velocity = 1.2f;
-		wind_direction = 1.57f;
-	}
 }
 [mood_setting*]
 {
 	mood_name = multiplayer_world_grs2des_2;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -3177,24 +3174,24 @@
 	[rain]
 	{
 	}
+	[wind]
+	{
+		wind_velocity = 1.2f;
+		wind_direction = 4.77f;
+	}
 	[music]
 	{
 		ambient_track = "";
 		standard_repeat_delay = 10.0f;
 		standard_track = "s_m_DesertCanyons_02";
 		room_type = rt_generic;
-	}
-	[wind]
-	{
-		wind_velocity = 1.2f;
-		wind_direction = 4.77f;
 	}
 }
 [mood_setting*]
 {
 	mood_name = multiplayer_world_grs2des_3;
 	transition_time = 15.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -3212,6 +3209,11 @@
 	[rain]
 	{
 	}
+	[wind]
+	{
+		wind_velocity = 1.2f;
+		wind_direction = 4.77f;
+	}
 	[music]
 	{
 		ambient_track = "";
@@ -3219,17 +3221,12 @@
 		standard_track = "s_m_DesertCanyons_02";
 		room_type = rt_generic;
 	}
-	[wind]
-	{
-		wind_velocity = 1.2f;
-		wind_direction = 4.77f;
-	}
 }
 [mood_setting*]
 {
 	mood_name = multiplayer_world_hades_1;
 	transition_time = 10.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -3259,7 +3256,7 @@
 {
 	mood_name = multiplayer_world_hades_2;
 	transition_time = 10.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -3289,7 +3286,7 @@
 {
 	mood_name = multiplayer_world_hades_3;
 	transition_time = 10.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -3319,7 +3316,7 @@
 {
 	mood_name = multiplayer_world_hades_4;
 	transition_time = 5.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -3349,7 +3346,7 @@
 {
 	mood_name = multiplayer_world_hades_4_small;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 25.0f;
@@ -3379,7 +3376,7 @@
 {
 	mood_name = multiplayer_world_hades_5;
 	transition_time = 5.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -3409,7 +3406,7 @@
 {
 	mood_name = multiplayer_world_hades_6;
 	transition_time = 5.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -3439,7 +3436,7 @@
 {
 	mood_name = multiplayer_world_hub_quest_dun_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -3461,7 +3458,7 @@
 {
 	mood_name = multiplayer_world_hub_quest_dun_2;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -3483,7 +3480,7 @@
 {
 	mood_name = multiplayer_world_hub_quest_dun_3;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -3504,7 +3501,7 @@
 {
 	mood_name = multiplayer_world_hub_quest_dun_4;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -3525,7 +3522,7 @@
 {
 	mood_name = multiplayer_world_ice_cave_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -3606,7 +3603,7 @@
 {
 	mood_name = multiplayer_world_ice_cave_2;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -3687,7 +3684,7 @@
 {
 	mood_name = multiplayer_world_ice_cave2_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -3768,7 +3765,7 @@
 {
 	mood_name = multiplayer_world_ice_cave2_2;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -3849,16 +3846,7 @@
 {
 	mood_name = multiplayer_world_id_r2_1;
 	transition_time = 1.0f;
-	interior = true;
-	[fog]
-	{
-		fog_near_dist = 25.0f;
-		fog_far_dist = 35.0f;
-		fog_lowdetail_near_dist = 25.0f;
-		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF000000;
-		fog_density = 0.5f;
-	}
+  b interior = true;
 	[sun]
 	{
 		[00h00m]
@@ -3909,6 +3897,15 @@
 		{
 			color = 0xFF000000;
 		}
+	}
+	[fog]
+	{
+		fog_near_dist = 25.0f;
+		fog_far_dist = 35.0f;
+		fog_lowdetail_near_dist = 25.0f;
+		fog_lowdetail_far_dist = 30.0f;
+		fog_color = 0xFF000000;
+		fog_density = 0.5f;
 	}
 	[rain]
 	{
@@ -3924,16 +3921,7 @@
 {
 	mood_name = multiplayer_world_id_r2_2;
 	transition_time = 1.0f;
-	interior = true;
-	[fog]
-	{
-		fog_near_dist = 25.0f;
-		fog_far_dist = 35.0f;
-		fog_lowdetail_near_dist = 25.0f;
-		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF000000;
-		fog_density = 0.5f;
-	}
+  b interior = true;
 	[sun]
 	{
 		[00h00m]
@@ -3984,6 +3972,15 @@
 		{
 			color = 0xFF000000;
 		}
+	}
+	[fog]
+	{
+		fog_near_dist = 25.0f;
+		fog_far_dist = 35.0f;
+		fog_lowdetail_near_dist = 25.0f;
+		fog_lowdetail_far_dist = 30.0f;
+		fog_color = 0xFF000000;
+		fog_density = 0.5f;
 	}
 	[rain]
 	{
@@ -4000,7 +3997,7 @@
 {
 	mood_name = multiplayer_world_island_1;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -4030,7 +4027,7 @@
 {
 	mood_name = multiplayer_world_island_1_small;
 	transition_time = 2.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 25.0f;
@@ -4060,7 +4057,7 @@
 {
 	mood_name = multiplayer_world_island_1_long;
 	transition_time = 15.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -4090,7 +4087,7 @@
 {
 	mood_name = multiplayer_world_island_2_1;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -4110,8 +4107,7 @@
 	}
 	[snow]
 	{
-		snow_density = 75.0f;
-		lightning = false;
+	  f snow_density = 75.000000;
 	}
 	[music]
 	{
@@ -4125,7 +4121,7 @@
 {
 	mood_name = multiplayer_world_island_2_2;
 	transition_time = 11.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -4145,8 +4141,7 @@
 	}
 	[snow]
 	{
-		snow_density = 400.0f;
-		lightning = true;
+	  f snow_density = 400.000000;
 	}
 	[wind]
 	{
@@ -4165,7 +4160,7 @@
 {
 	mood_name = multiplayer_world_island_3;
 	transition_time = 7.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -4180,13 +4175,13 @@
 		fog_color = 0xFF757584;
 		fog_density = 0.5f;
 	}
+	[rain]
+	{
+	}
 	[wind]
 	{
 		wind_velocity = 1.0f;
 		wind_direction = 2.0f;
-	}
-	[rain]
-	{
 	}
 	[music]
 	{
@@ -4200,7 +4195,7 @@
 {
 	mood_name = multiplayer_world_island_4;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -4230,7 +4225,7 @@
 {
 	mood_name = multiplayer_world_island_5;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -4260,7 +4255,12 @@
 {
 	mood_name = multiplayer_world_md_r1_1;
 	transition_time = 5.0f;
-	interior = true;
+  b interior = true;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 90.0f;
+	}
 	[fog]
 	{
 		fog_near_dist = 45.0f;
@@ -4269,11 +4269,6 @@
 		fog_lowdetail_far_dist = 45.0f;
 		fog_color = 0xFF000000;
 		fog_density = 0.5f;
-	}
-	[frustum]
-	{
-		frustum_width = 45.0f;
-		frustum_height = 90.0f;
 	}
 	[rain]
 	{
@@ -4290,7 +4285,7 @@
 {
 	mood_name = multiplayer_world_mega_forest_1;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -4305,18 +4300,17 @@
 		fog_color = 0xff32323f;
 		fog_density = 0.5f;
 	}
-	[wind]
-	{
-		wind_velocity = 0.5f;
-		wind_direction = 0.7f;
-	}
 	[rain]
 	{
 	}
 	[snow]
 	{
-		snow_density = 150.0f;
-		lightning = false;
+	  f snow_density = 150.000000;
+	}
+	[wind]
+	{
+		wind_velocity = 0.5f;
+		wind_direction = 0.7f;
 	}
 	[music]
 	{
@@ -4330,7 +4324,7 @@
 {
 	mood_name = multiplayer_world_mega_forest_2;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -4345,13 +4339,13 @@
 		fog_color = 0xff32323f;
 		fog_density = 0.5f;
 	}
+	[rain]
+	{
+	}
 	[wind]
 	{
 		wind_velocity = 0.5f;
 		wind_direction = 3.8f;
-	}
-	[rain]
-	{
 	}
 	[music]
 	{
@@ -4365,7 +4359,7 @@
 {
 	mood_name = multiplayer_world_mega_forest_2_1;
 	transition_time = 15.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -4380,13 +4374,13 @@
 		fog_color = 0xff393939;
 		fog_density = 0.5f;
 	}
+	[rain]
+	{
+	}
 	[wind]
 	{
 		wind_velocity = 0.5f;
 		wind_direction = 3.8f;
-	}
-	[rain]
-	{
 	}
 	[music]
 	{
@@ -4400,7 +4394,7 @@
 {
 	mood_name = multiplayer_world_mega_forest_3;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -4420,8 +4414,7 @@
 	}
 	[snow]
 	{
-		snow_density = 25.0f;
-		lightning = false;
+	  f snow_density = 25.000000;
 	}
 	[music]
 	{
@@ -4435,7 +4428,7 @@
 {
 	mood_name = multiplayer_world_mega_forest_4;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -4450,18 +4443,17 @@
 		fog_color = 0xff3b3b3f;
 		fog_density = 0.5f;
 	}
-	[wind]
-	{
-		wind_velocity = 1.0f;
-		wind_direction = 1.2f;
-	}
 	[rain]
 	{
 	}
 	[snow]
 	{
-		snow_density = 50.0f;
-		lightning = false;
+	  f snow_density = 50.000000;
+	}
+	[wind]
+	{
+		wind_velocity = 1.0f;
+		wind_direction = 1.2f;
 	}
 	[music]
 	{
@@ -4475,7 +4467,7 @@
 {
 	mood_name = multiplayer_world_mega_forest_5;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -4490,18 +4482,17 @@
 		fog_color = 0xff32323f;
 		fog_density = 0.5f;
 	}
-	[wind]
-	{
-		wind_velocity = 0.5f;
-		wind_direction = 0.7f;
-	}
 	[rain]
 	{
 	}
 	[snow]
 	{
-		snow_density = 100.0f;
-		lightning = false;
+	  f snow_density = 100.000000;
+	}
+	[wind]
+	{
+		wind_velocity = 0.5f;
+		wind_direction = 0.7f;
 	}
 	[music]
 	{
@@ -4515,7 +4506,7 @@
 {
 	mood_name = multiplayer_world_mega_forest_6;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -4530,18 +4521,17 @@
 		fog_color = 0xff24242b;
 		fog_density = 0.5f;
 	}
-	[wind]
-	{
-		wind_velocity = 0.5f;
-		wind_direction = 0.7f;
-	}
 	[rain]
 	{
 	}
 	[snow]
 	{
-		snow_density = 350.0f;
-		lightning = true;
+	  f snow_density = 350.000000;
+	}
+	[wind]
+	{
+		wind_velocity = 0.5f;
+		wind_direction = 0.7f;
 	}
 	[music]
 	{
@@ -4555,7 +4545,7 @@
 {
 	mood_name = multiplayer_world_mega_forest_7;
 	transition_time = 3.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -4570,13 +4560,13 @@
 		fog_color = 0xff32323f;
 		fog_density = 0.5f;
 	}
+	[rain]
+	{
+	}
 	[wind]
 	{
 		wind_velocity = 0.5f;
 		wind_direction = 0.7f;
-	}
-	[rain]
-	{
 	}
 	[music]
 	{
@@ -4590,7 +4580,7 @@
 {
 	mood_name = multiplayer_world_mines_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -4620,7 +4610,7 @@
 {
 	mood_name = multiplayer_world_mines_2;
 	transition_time = 2.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -4650,7 +4640,7 @@
 {
 	mood_name = multiplayer_world_mines2_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -4680,7 +4670,7 @@
 {
 	mood_name = multiplayer_world_mines2_2;
 	transition_time = 2.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -4710,7 +4700,7 @@
 {
 	mood_name = multiplayer_world_mines2_3;
 	transition_time = 0.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -4740,7 +4730,7 @@
 {
 	mood_name = multiplayer_world_mines2_4;
 	transition_time = 0.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -4770,7 +4760,7 @@
 {
 	mood_name = multiplayer_world_mines2_teleport;
 	transition_time = 20.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -4800,7 +4790,7 @@
 {
 	mood_name = multiplayer_world_mines3_1;
 	transition_time = 2.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -4830,7 +4820,7 @@
 {
 	mood_name = multiplayer_world_mines3_2;
 	transition_time = 2.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -4860,7 +4850,7 @@
 {
 	mood_name = multiplayer_world_mine_town_1;
 	transition_time = 4.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -4890,7 +4880,7 @@
 {
 	mood_name = multiplayer_world_mine_town_2;
 	transition_time = 4.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -4920,7 +4910,7 @@
 {
 	mood_name = multiplayer_world_mine_town_tavern;
 	transition_time = 4.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -4950,7 +4940,7 @@
 {
 	mood_name = multiplayer_world_mine_town_teleport;
 	transition_time = 22.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -4980,7 +4970,7 @@
 {
 	mood_name = multiplayer_world_mine_town_teleport_2;
 	transition_time = 20.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -5010,7 +5000,7 @@
 {
 	mood_name = multiplayer_world_new_hub_teleport;
 	transition_time = 40.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -5039,7 +5029,7 @@
 {
 	mood_name = multiplayer_world_newbie_dun_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -5068,7 +5058,7 @@
 {
 	mood_name = multiplayer_world_newbie_dun_2;
 	transition_time = 5.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -5097,7 +5087,7 @@
 {
 	mood_name = multiplayer_world_oasis_1;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -5127,7 +5117,7 @@
 {
 	mood_name = multiplayer_world_oasis_teleport;
 	transition_time = 22.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -5157,7 +5147,7 @@
 {
 	mood_name = multiplayer_world_oasis_cave_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -5187,7 +5177,7 @@
 {
 	mood_name = multiplayer_world_ocean_1;
 	transition_time = 6.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -5202,13 +5192,13 @@
 		fog_color = 0xFF646484;
 		fog_density = 0.5f;
 	}
+	[rain]
+	{
+	}
 	[wind]
 	{
 		wind_velocity = 1.5f;
 		wind_direction = 0.0f;
-	}
-	[rain]
-	{
 	}
 	[music]
 	{
@@ -5222,7 +5212,7 @@
 {
 	mood_name = multiplayer_world_ocean_2;
 	transition_time = 6.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -5242,8 +5232,7 @@
 	}
 	[snow]
 	{
-		snow_density = 50.0f;
-		lightning = false;
+	  f snow_density = 50.000000;
 	}
 	[wind]
 	{
@@ -5262,7 +5251,7 @@
 {
 	mood_name = multiplayer_world_ocean_3;
 	transition_time = 6.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -5282,8 +5271,7 @@
 	}
 	[snow]
 	{
-		snow_density = 75.0f;
-		lightning = false;
+	  f snow_density = 75.000000;
 	}
 	[wind]
 	{
@@ -5302,7 +5290,7 @@
 {
 	mood_name = multiplayer_world_ocean_3_2;
 	transition_time = 1.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -5322,8 +5310,7 @@
 	}
 	[snow]
 	{
-		snow_density = 75.0f;
-		lightning = false;
+	  f snow_density = 75.000000;
 	}
 	[wind]
 	{
@@ -5342,7 +5329,7 @@
 {
 	mood_name = multiplayer_world_ocean_4;
 	transition_time = 6.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -5362,8 +5349,7 @@
 	}
 	[snow]
 	{
-		snow_density = 150.0f;
-		lightning = false;
+	  f snow_density = 150.000000;
 	}
 	[wind]
 	{
@@ -5382,7 +5368,7 @@
 {
 	mood_name = multiplayer_world_ocean_tavern;
 	transition_time = 1.5f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -5397,13 +5383,13 @@
 		fog_color = 0xFF646484;
 		fog_density = 0.5f;
 	}
+	[rain]
+	{
+	}
 	[wind]
 	{
 		wind_velocity = 1.5f;
 		wind_direction = 0.0f;
-	}
-	[rain]
-	{
 	}
 	[music]
 	{
@@ -5417,7 +5403,7 @@
 {
 	mood_name = multiplayer_world_ocean_tavern_2;
 	transition_time = 1.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -5432,13 +5418,13 @@
 		fog_color = 0xFF646484;
 		fog_density = 0.5f;
 	}
+	[rain]
+	{
+	}
 	[wind]
 	{
 		wind_velocity = 1.5f;
 		wind_direction = 0.0f;
-	}
-	[rain]
-	{
 	}
 	[music]
 	{
@@ -5452,7 +5438,7 @@
 {
 	mood_name = multiplayer_world_ocean_5;
 	transition_time = 1.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -5467,13 +5453,13 @@
 		fog_color = 0xFF646484;
 		fog_density = 0.5f;
 	}
+	[rain]
+	{
+	}
 	[wind]
 	{
 		wind_velocity = 1.5f;
 		wind_direction = 0.0f;
-	}
-	[rain]
-	{
 	}
 	[music]
 	{
@@ -5487,7 +5473,7 @@
 {
 	mood_name = multiplayer_world_ocean_teleport;
 	transition_time = 22.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -5502,13 +5488,13 @@
 		fog_color = 0xFF646484;
 		fog_density = 0.5f;
 	}
+	[rain]
+	{
+	}
 	[wind]
 	{
 		wind_velocity = 1.5f;
 		wind_direction = 0.0f;
-	}
-	[rain]
-	{
 	}
 	[music]
 	{
@@ -5522,7 +5508,7 @@
 {
 	mood_name = multiplayer_world_ocean_teleport_2;
 	transition_time = 20.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -5542,8 +5528,7 @@
 	}
 	[snow]
 	{
-		snow_density = 75.0f;
-		lightning = false;
+	  f snow_density = 75.000000;
 	}
 	[wind]
 	{
@@ -5562,7 +5547,7 @@
 {
 	mood_name = multiplayer_world_of_r1_1;
 	transition_time = 4.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -5577,13 +5562,13 @@
 		fog_color = 0xff262632;
 		fog_density = 0.5f;
 	}
+	[rain]
+	{
+	}
 	[wind]
 	{
 		wind_velocity = 1.5f;
 		wind_direction = 0.0f;
-	}
-	[rain]
-	{
 	}
 	[music]
 	{
@@ -5597,7 +5582,7 @@
 {
 	mood_name = multiplayer_world_of_r1_2;
 	transition_time = 6.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -5612,13 +5597,13 @@
 		fog_color = 0xFF242432;
 		fog_density = 0.5f;
 	}
+	[rain]
+	{
+	}
 	[wind]
 	{
 		wind_velocity = 0.5f;
 		wind_direction = 0.0f;
-	}
-	[rain]
-	{
 	}
 	[music]
 	{
@@ -5632,7 +5617,7 @@
 {
 	mood_name = multiplayer_world_of_r1_3;
 	transition_time = 6.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -5662,7 +5647,7 @@
 {
 	mood_name = multiplayer_world_of_r1_4;
 	transition_time = 4.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -5692,7 +5677,7 @@
 {
 	mood_name = multiplayer_world_of_r1_5;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -5722,7 +5707,7 @@
 {
 	mood_name = multiplayer_world_of_r1_6;
 	transition_time = 1.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -5752,7 +5737,12 @@
 {
 	mood_name = multiplayer_world_of_r1_7;
 	transition_time = 10.0f;
-	interior = true;
+  b interior = true;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -5761,11 +5751,6 @@
 		fog_lowdetail_far_dist = 35.0f;
 		fog_color = 0xFF202026;
 		fog_density = 0.5f;
-	}
-	[frustum]
-	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
 	}
 	[rain]
 	{
@@ -5782,7 +5767,12 @@
 {
 	mood_name = multiplayer_world_of_r1_8;
 	transition_time = 5.0f;
-	interior = true;
+  b interior = true;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 90.0f;
+	}
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -5791,11 +5781,6 @@
 		fog_lowdetail_far_dist = 35.0f;
 		fog_color = 0xFF000000;
 		fog_density = 0.5f;
-	}
-	[frustum]
-	{
-		frustum_width = 45.0f;
-		frustum_height = 90.0f;
 	}
 	[rain]
 	{
@@ -5812,7 +5797,7 @@
 {
 	mood_name = multiplayer_world_of_r1_teleport;
 	transition_time = 20.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -5842,7 +5827,7 @@
 {
 	mood_name = multiplayer_world_orchard_cellar_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -5872,7 +5857,7 @@
 {
 	mood_name = multiplayer_world_path2crypts_1;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -5901,7 +5886,7 @@
 {
 	mood_name = multiplayer_world_path2crypts_2;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -5921,8 +5906,12 @@
 	}
 	[snow]
 	{
-		snow_density = 200.0f;
-		lightning = false;
+	  f snow_density = 200.000000;
+	}
+	[wind]
+	{
+		wind_velocity = 2.0f;
+		wind_direction = 3.14f;
 	}
 	[music]
 	{
@@ -5931,17 +5920,12 @@
 		standard_track = "s_m_Path2Stonebridge_02";
 		room_type = rt_generic;
 	}
-	[wind]
-	{
-		wind_velocity = 2.0f;
-		wind_direction = 3.14f;
-	}
 }
 [mood_setting*]
 {
 	mood_name = multiplayer_world_path2crypts_teleport;
 	transition_time = 20.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -5970,7 +5954,7 @@
 {
 	mood_name = multiplayer_world_path2ice_1;
 	transition_time = 3.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -6036,17 +6020,17 @@
 		fog_color = 0xFFc0c0c8;
 		fog_density = 0.6f;
 	}
+	[rain]
+	{
+	}
+	[snow]
+	{
+	  f snow_density = 100.000000;
+	}
 	[wind]
 	{
 		wind_velocity = 1.0f;
 		wind_direction = 0.0f;
-	}
-	[snow]
-	{
-		snow_density = 100;
-	}
-	[rain]
-	{
 	}
 	[music]
 	{
@@ -6060,7 +6044,7 @@
 {
 	mood_name = multiplayer_world_path2ice_2;
 	transition_time = 0.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -6126,13 +6110,13 @@
 		fog_color = 0xFFc0c0c8;
 		fog_density = 0.6f;
 	}
+	[rain]
+	{
+	}
 	[wind]
 	{
 		wind_velocity = 1.0f;
 		wind_direction = 0.0f;
-	}
-	[rain]
-	{
 	}
 	[music]
 	{
@@ -6146,7 +6130,7 @@
 {
 	mood_name = multiplayer_world_path2ice_3;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -6212,17 +6196,17 @@
 		fog_color = 0xFFc0c0c8;
 		fog_density = 0.6f;
 	}
+	[rain]
+	{
+	}
+	[snow]
+	{
+	  f snow_density = 200.000000;
+	}
 	[wind]
 	{
 		wind_velocity = 0.5f;
 		wind_direction = 0.0f;
-	}
-	[snow]
-	{
-		snow_density = 200;
-	}
-	[rain]
-	{
 	}
 	[music]
 	{
@@ -6236,7 +6220,7 @@
 {
 	mood_name = multiplayer_world_path2ice_4;
 	transition_time = 15.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -6302,17 +6286,17 @@
 		fog_color = 0xFFc0c0c8;
 		fog_density = 0.6f;
 	}
+	[rain]
+	{
+	}
+	[snow]
+	{
+	  f snow_density = 100.000000;
+	}
 	[wind]
 	{
 		wind_velocity = 1.0f;
 		wind_direction = 0.0f;
-	}
-	[snow]
-	{
-		snow_density = 100;
-	}
-	[rain]
-	{
 	}
 	[music]
 	{
@@ -6326,7 +6310,7 @@
 {
 	mood_name = multiplayer_world_path2ice_5;
 	transition_time = 3.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -6392,17 +6376,17 @@
 		fog_color = 0xFFc0c0c8;
 		fog_density = 0.6f;
 	}
+	[rain]
+	{
+	}
+	[snow]
+	{
+	  f snow_density = 100.000000;
+	}
 	[wind]
 	{
 		wind_velocity = 1.0f;
 		wind_direction = 0.0f;
-	}
-	[snow]
-	{
-		snow_density = 100;
-	}
-	[rain]
-	{
 	}
 	[music]
 	{
@@ -6416,7 +6400,7 @@
 {
 	mood_name = multiplayer_world_path2ice_r2_1;
 	transition_time = 3.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -6482,17 +6466,17 @@
 		fog_color = 0xFFc0c0c8;
 		fog_density = 0.6f;
 	}
+	[rain]
+	{
+	}
+	[snow]
+	{
+	  f snow_density = 400.000000;
+	}
 	[wind]
 	{
 		wind_velocity = 1.25f;
 		wind_direction = 1.57f;
-	}
-	[snow]
-	{
-		snow_density = 400;
-	}
-	[rain]
-	{
 	}
 	[music]
 	{
@@ -6506,7 +6490,7 @@
 {
 	mood_name = multiplayer_world_path2ice_r2_2;
 	transition_time = 15.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -6572,17 +6556,17 @@
 		fog_color = 0xFFc0c0c8;
 		fog_density = 0.6f;
 	}
+	[rain]
+	{
+	}
+	[snow]
+	{
+	  f snow_density = 400.000000;
+	}
 	[wind]
 	{
 		wind_velocity = 1.25f;
 		wind_direction = 1.57f;
-	}
-	[snow]
-	{
-		snow_density = 400;
-	}
-	[rain]
-	{
 	}
 	[music]
 	{
@@ -6596,7 +6580,7 @@
 {
 	mood_name = multiplayer_world_path2mines_1;
 	transition_time = 4.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -6614,23 +6598,23 @@
 	[rain]
 	{
 	}
+	[wind]
+	{
+		wind_velocity = 0.5f;
+		wind_direction = 3.14f;
+	}
 	[music]
 	{
 		ambient_track = "";
 		standard_track = "s_m_maintheme";
 		room_type = rt_generic;
 	}
-	[wind]
-	{
-		wind_velocity = 0.5f;
-		wind_direction = 3.14f;
-	}
 }
 [mood_setting*]
 {
 	mood_name = multiplayer_world_path2mines_2;
 	transition_time = 5.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -6650,8 +6634,12 @@
 	}
 	[snow]
 	{
-		snow_density = 100.0f;
-		lightning = false;
+	  f snow_density = 100.000000;
+	}
+	[wind]
+	{
+		wind_velocity = 2.0f;
+		wind_direction = 3.14f;
 	}
 	[music]
 	{
@@ -6660,17 +6648,12 @@
 		standard_track = "s_m_DwarvenMines_01";
 		room_type = rt_generic;
 	}
-	[wind]
-	{
-		wind_velocity = 2.0f;
-		wind_direction = 3.14f;
-	}
 }
 [mood_setting*]
 {
 	mood_name = multiplayer_world_path2mines_3;
 	transition_time = 4.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -6690,8 +6673,12 @@
 	}
 	[snow]
 	{
-		snow_density = 400.0f;
-		lightning = true;
+	  f snow_density = 400.000000;
+	}
+	[wind]
+	{
+		wind_velocity = 4.0f;
+		wind_direction = 3.14f;
 	}
 	[music]
 	{
@@ -6700,17 +6687,12 @@
 		standard_track = "s_m_Path2Crypts_01";
 		room_type = rt_generic;
 	}
-	[wind]
-	{
-		wind_velocity = 4.0f;
-		wind_direction = 3.14f;
-	}
 }
 [mood_setting*]
 {
 	mood_name = multiplayer_world_path2mines_4;
 	transition_time = 4.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -6740,7 +6722,7 @@
 {
 	mood_name = multiplayer_world_path2mines_teleport;
 	transition_time = 20.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -6758,23 +6740,23 @@
 	[rain]
 	{
 	}
+	[wind]
+	{
+		wind_velocity = 0.5f;
+		wind_direction = 3.14f;
+	}
 	[music]
 	{
 		ambient_track = "";
 		standard_track = "s_m_maintheme";
 		room_type = rt_generic;
 	}
-	[wind]
-	{
-		wind_velocity = 0.5f;
-		wind_direction = 3.14f;
-	}
 }
 [mood_setting*]
 {
 	mood_name = multiplayer_world_quarry_1;
 	transition_time = 2.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -6840,13 +6822,13 @@
 		fog_color = 0xFFa8a8b8;
 		fog_density = 0.6f;
 	}
+	[rain]
+	{
+	}
 	[wind]
 	{
 		wind_velocity = 1.25f;
 		wind_direction = 1.57f;
-	}
-	[rain]
-	{
 	}
 	[music]
 	{
@@ -6860,7 +6842,7 @@
 {
 	mood_name = multiplayer_world_quarry_2;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -6926,17 +6908,17 @@
 		fog_color = 0xFFa8a8b8;
 		fog_density = 0.6f;
 	}
+	[rain]
+	{
+	}
+	[snow]
+	{
+	  f snow_density = 100.000000;
+	}
 	[wind]
 	{
 		wind_velocity = 1.25f;
 		wind_direction = 1.57f;
-	}
-	[snow]
-	{
-		snow_density = 100.0f;
-	}
-	[rain]
-	{
 	}
 	[music]
 	{
@@ -6950,7 +6932,7 @@
 {
 	mood_name = multiplayer_world_quarry_3;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -7016,17 +6998,17 @@
 		fog_color = 0xFFa8a8b8;
 		fog_density = 0.6f;
 	}
+	[rain]
+	{
+	}
+	[snow]
+	{
+	  f snow_density = 200.000000;
+	}
 	[wind]
 	{
 		wind_velocity = 1.25f;
 		wind_direction = 1.57f;
-	}
-	[snow]
-	{
-		snow_density = 200.0f;
-	}
-	[rain]
-	{
 	}
 	[music]
 	{
@@ -7040,7 +7022,7 @@
 {
 	mood_name = multiplayer_world_quarry_4;
 	transition_time = 2.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -7106,17 +7088,17 @@
 		fog_color = 0xFFa8a8b8;
 		fog_density = 0.6f;
 	}
+	[rain]
+	{
+	}
+	[snow]
+	{
+	  f snow_density = 100.000000;
+	}
 	[wind]
 	{
 		wind_velocity = 1.25f;
 		wind_direction = 1.57f;
-	}
-	[snow]
-	{
-		snow_density = 100.0f;
-	}
-	[rain]
-	{
 	}
 	[music]
 	{
@@ -7130,7 +7112,7 @@
 {
 	mood_name = multiplayer_world_river_canyon_1;
 	transition_time = 4.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -7148,6 +7130,11 @@
 	[rain]
 	{
 	}
+	[wind]
+	{
+		wind_velocity = 2.0f;
+		wind_direction = 1.57f;
+	}
 	[music]
 	{
 		ambient_track = "s_e_ambient_wind_01b";
@@ -7155,17 +7142,12 @@
 		standard_track = "s_m_FortKroth_01";
 		room_type = rt_generic;
 	}
-	[wind]
-	{
-		wind_velocity = 2.0f;
-		wind_direction = 1.57f;
-	}
 }
 [mood_setting*]
 {
 	mood_name = multiplayer_world_river_canyon_2;
 	transition_time = 10.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -7194,7 +7176,7 @@
 {
 	mood_name = multiplayer_world_river_forest_1;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -7224,7 +7206,7 @@
 {
 	mood_name = multiplayer_world_river_forest_2;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -7254,7 +7236,7 @@
 {
 	mood_name = multiplayer_world_river_forest_3;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -7284,7 +7266,7 @@
 {
 	mood_name = multiplayer_world_river_forest_4;
 	transition_time = 9.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -7304,7 +7286,7 @@
 	}
 	[snow]
 	{
-		snow_density = 150.0f;
+	  f snow_density = 150.000000;
 	}
 	[music]
 	{
@@ -7318,7 +7300,7 @@
 {
 	mood_name = multiplayer_world_river_forest_5;
 	transition_time = 8.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -7348,7 +7330,7 @@
 {
 	mood_name = multiplayer_world_river_forest_teleport;
 	transition_time = 20.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -7378,7 +7360,7 @@
 {
 	mood_name = multiplayer_world_sd_r1_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -7408,7 +7390,7 @@
 {
 	mood_name = multiplayer_world_sd_r1_2;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -7437,7 +7419,7 @@
 {
 	mood_name = multiplayer_world_sd_r1_3;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -7466,7 +7448,7 @@
 {
 	mood_name = multiplayer_world_sf_r1_1;
 	transition_time = 10.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -7532,12 +7514,12 @@
 		fog_color = 0xFFc0c0c8;
 		fog_density = 0.5f;
 	}
-	[snow]
-	{
-		snow_density = 350;
-	}
 	[rain]
 	{
+	}
+	[snow]
+	{
+	  f snow_density = 350.000000;
 	}
 	[music]
 	{
@@ -7551,7 +7533,7 @@
 {
 	mood_name = multiplayer_world_sf_r1_2;
 	transition_time = 4.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -7617,17 +7599,17 @@
 		fog_color = 0xFFa8a8b0;
 		fog_density = 0.5f;
 	}
+	[rain]
+	{
+	}
 	[snow]
 	{
-		snow_density = 250;
+	  f snow_density = 250.000000;
 	}
 	[wind]
 	{
 		wind_velocity = 0.75f;
 		wind_direction = 0.0f;
-	}
-	[rain]
-	{
 	}
 	[music]
 	{
@@ -7641,7 +7623,7 @@
 {
 	mood_name = multiplayer_world_sf_r1_3;
 	transition_time = 4.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -7707,12 +7689,12 @@
 		fog_color = 0xFFa8a8b0;
 		fog_density = 0.5f;
 	}
-	[snow]
-	{
-		snow_density = 150;
-	}
 	[rain]
 	{
+	}
+	[snow]
+	{
+	  f snow_density = 150.000000;
 	}
 	[music]
 	{
@@ -7726,7 +7708,7 @@
 {
 	mood_name = multiplayer_world_sf_r2_1;
 	transition_time = 3.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -7792,12 +7774,12 @@
 		fog_color = 0xFFc0c0c8;
 		fog_density = 0.5f;
 	}
-	[snow]
-	{
-		snow_density = 150;
-	}
 	[rain]
 	{
+	}
+	[snow]
+	{
+	  f snow_density = 150.000000;
 	}
 	[music]
 	{
@@ -7811,7 +7793,7 @@
 {
 	mood_name = multiplayer_world_sf_r2_2;
 	transition_time = 3.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -7877,12 +7859,12 @@
 		fog_color = 0xFFc0c0c8;
 		fog_density = 0.5f;
 	}
-	[snow]
-	{
-		snow_density = 150;
-	}
 	[rain]
 	{
+	}
+	[snow]
+	{
+	  f snow_density = 150.000000;
 	}
 	[music]
 	{
@@ -7896,7 +7878,7 @@
 {
 	mood_name = multiplayer_world_sf_r2_teleport;
 	transition_time = 30.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -7962,12 +7944,12 @@
 		fog_color = 0xFFc0c0c8;
 		fog_density = 0.5f;
 	}
-	[snow]
-	{
-		snow_density = 150;
-	}
 	[rain]
 	{
+	}
+	[snow]
+	{
+	  f snow_density = 150.000000;
 	}
 	[music]
 	{
@@ -7981,7 +7963,12 @@
 {
 	mood_name = multiplayer_world_sno_r1_1;
 	transition_time = 2.0f;
-	interior = true;
+  b interior = true;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
 	[fog]
 	{
 		fog_near_dist = 10.0f;
@@ -7990,11 +7977,6 @@
 		fog_lowdetail_far_dist = 35.0f;
 		fog_color = 0xff121926;
 		fog_density = 0.5f;
-	}
-	[frustum]
-	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
 	}
 	[rain]
 	{
@@ -8011,7 +7993,12 @@
 {
 	mood_name = multiplayer_world_sno_r1_2;
 	transition_time = 2.0f;
-	interior = true;
+  b interior = true;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
 	[fog]
 	{
 		fog_near_dist = 10.0f;
@@ -8020,11 +8007,6 @@
 		fog_lowdetail_far_dist = 35.0f;
 		fog_color = 0xff122619;
 		fog_density = 0.5f;
-	}
-	[frustum]
-	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
 	}
 	[rain]
 	{
@@ -8041,7 +8023,12 @@
 {
 	mood_name = multiplayer_world_sno_r1_3;
 	transition_time = 2.0f;
-	interior = true;
+  b interior = true;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
 	[fog]
 	{
 		fog_near_dist = 10.0f;
@@ -8050,11 +8037,6 @@
 		fog_lowdetail_far_dist = 35.0f;
 		fog_color = 0xff122619;
 		fog_density = 0.5f;
-	}
-	[frustum]
-	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
 	}
 	[rain]
 	{
@@ -8071,7 +8053,12 @@
 {
 	mood_name = multiplayer_world_sno_r1_teleport;
 	transition_time = 20.0f;
-	interior = true;
+  b interior = true;
+	[frustum]
+	{
+		frustum_width = 45.0f;
+		frustum_height = 60.0f;
+	}
 	[fog]
 	{
 		fog_near_dist = 10.0f;
@@ -8080,11 +8067,6 @@
 		fog_lowdetail_far_dist = 35.0f;
 		fog_color = 0xff122619;
 		fog_density = 0.5f;
-	}
-	[frustum]
-	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
 	}
 	[rain]
 	{
@@ -8101,7 +8083,7 @@
 {
 	mood_name = multiplayer_world_snow_town_1;
 	transition_time = 2.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -8167,12 +8149,12 @@
 		fog_color = 0xFFc0c0c8;
 		fog_density = 0.5f;
 	}
-	[snow]
-	{
-		snow_density = 250;
-	}
 	[rain]
 	{
+	}
+	[snow]
+	{
+	  f snow_density = 250.000000;
 	}
 	[music]
 	{
@@ -8185,7 +8167,7 @@
 {
 	mood_name = multiplayer_world_snow_town_2;
 	transition_time = 0.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -8265,7 +8247,7 @@
 {
 	mood_name = multiplayer_world_snow_town_3;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -8331,12 +8313,12 @@
 		fog_color = 0xFFc0c0c8;
 		fog_density = 0.5f;
 	}
-	[snow]
-	{
-		snow_density = 100;
-	}
 	[rain]
 	{
+	}
+	[snow]
+	{
+	  f snow_density = 100.000000;
 	}
 	[music]
 	{
@@ -8349,7 +8331,7 @@
 {
 	mood_name = multiplayer_world_snow_town_3b;
 	transition_time = 0.5f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -8415,12 +8397,12 @@
 		fog_color = 0xFFc0c0c8;
 		fog_density = 0.5f;
 	}
-	[snow]
-	{
-		snow_density = 100;
-	}
 	[rain]
 	{
+	}
+	[snow]
+	{
+	  f snow_density = 100.000000;
 	}
 	[music]
 	{
@@ -8433,7 +8415,7 @@
 {
 	mood_name = multiplayer_world_snow_town_3c;
 	transition_time = 4.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -8499,12 +8481,12 @@
 		fog_color = 0xFFc0c0c8;
 		fog_density = 0.5f;
 	}
-	[snow]
-	{
-		snow_density = 100;
-	}
 	[rain]
 	{
+	}
+	[snow]
+	{
+	  f snow_density = 100.000000;
 	}
 	[music]
 	{
@@ -8517,7 +8499,7 @@
 {
 	mood_name = multiplayer_world_snow_town_tavern;
 	transition_time = 0.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -8597,7 +8579,7 @@
 {
 	mood_name = multiplayer_world_snow_town_4;
 	transition_time = 15.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -8663,12 +8645,12 @@
 		fog_color = 0xFFc0c0c8;
 		fog_density = 0.5f;
 	}
-	[snow]
-	{
-		snow_density = 250;
-	}
 	[rain]
 	{
+	}
+	[snow]
+	{
+	  f snow_density = 250.000000;
 	}
 	[music]
 	{
@@ -8681,7 +8663,7 @@
 {
 	mood_name = multiplayer_world_snow_town_5;
 	transition_time = 15.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -8747,12 +8729,12 @@
 		fog_color = 0xFFc0c0c8;
 		fog_density = 0.5f;
 	}
-	[snow]
-	{
-		snow_density = 150;
-	}
 	[rain]
 	{
+	}
+	[snow]
+	{
+	  f snow_density = 150.000000;
 	}
 	[music]
 	{
@@ -8765,7 +8747,7 @@
 {
 	mood_name = multiplayer_world_snow_town_6;
 	transition_time = 2.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -8831,12 +8813,12 @@
 		fog_color = 0xFFc0c0c8;
 		fog_density = 0.5f;
 	}
-	[snow]
-	{
-		snow_density = 150;
-	}
 	[rain]
 	{
+	}
+	[snow]
+	{
+	  f snow_density = 150.000000;
 	}
 	[music]
 	{
@@ -8849,7 +8831,7 @@
 {
 	mood_name = multiplayer_world_snow_town_7;
 	transition_time = 1.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -8929,7 +8911,7 @@
 {
 	mood_name = multiplayer_world_snow_town_8;
 	transition_time = 1.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -8995,12 +8977,12 @@
 		fog_color = 0xFFc0c0c8;
 		fog_density = 0.5f;
 	}
-	[snow]
-	{
-		snow_density = 150;
-	}
 	[rain]
 	{
+	}
+	[snow]
+	{
+	  f snow_density = 150.000000;
 	}
 	[music]
 	{
@@ -9013,7 +8995,7 @@
 {
 	mood_name = multiplayer_world_snow_town_teleport;
 	transition_time = 22.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -9079,12 +9061,12 @@
 		fog_color = 0xFFc0c0c8;
 		fog_density = 0.5f;
 	}
-	[snow]
-	{
-		snow_density = 100;
-	}
 	[rain]
 	{
+	}
+	[snow]
+	{
+	  f snow_density = 100.000000;
 	}
 	[music]
 	{
@@ -9097,7 +9079,7 @@
 {
 	mood_name = multiplayer_world_snow_town_teleport_2;
 	transition_time = 20.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -9163,12 +9145,12 @@
 		fog_color = 0xFFc0c0c8;
 		fog_density = 0.5f;
 	}
-	[snow]
-	{
-		snow_density = 250;
-	}
 	[rain]
 	{
+	}
+	[snow]
+	{
+	  f snow_density = 250.000000;
 	}
 	[music]
 	{
@@ -9181,7 +9163,7 @@
 {
 	mood_name = multiplayer_world_sr2_1;
 	transition_time = 2.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -9211,7 +9193,7 @@
 {
 	mood_name = multiplayer_world_sr2_2;
 	transition_time = 5.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -9241,7 +9223,7 @@
 {
 	mood_name = multiplayer_world_sr2_3;
 	transition_time = 5.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -9271,7 +9253,7 @@
 {
 	mood_name = multiplayer_world_sr2_4;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -9301,7 +9283,7 @@
 {
 	mood_name = multiplayer_world_sr2_5;
 	transition_time = 5.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -9331,7 +9313,7 @@
 {
 	mood_name = multiplayer_world_sr_r5_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -9361,7 +9343,7 @@
 {
 	mood_name = multiplayer_world_sr_r5_2;
 	transition_time = 5.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -9391,7 +9373,7 @@
 {
 	mood_name = multiplayer_world_sr_r5_3;
 	transition_time = 5.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -9421,7 +9403,7 @@
 {
 	mood_name = multiplayer_world_sr_r5_4;
 	transition_time = 3.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -9451,7 +9433,7 @@
 {
 	mood_name = multiplayer_world_swamp2gi_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -9481,7 +9463,7 @@
 {
 	mood_name = multiplayer_world_swamp2gi_2;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -9511,7 +9493,7 @@
 {
 	mood_name = multiplayer_world_swamp_town_1;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -9541,7 +9523,7 @@
 {
 	mood_name = multiplayer_world_swamp_town_teleport;
 	transition_time = 22.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -9571,7 +9553,7 @@
 {
 	mood_name = multiplayer_world_swamp_town_teleport_2;
 	transition_time = 20.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -9601,7 +9583,7 @@
 {
 	mood_name = multiplayer_world_teleport;
 	transition_time = 2.0f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 5.0f;
@@ -9629,7 +9611,7 @@
 {
 	mood_name = multiplayer_world_teleport_fast;
 	transition_time = 0.5f;
-	interior = true;
+  b interior = true;
 	[frustum]
 	{
 		frustum_width = 5.0f;
@@ -9657,7 +9639,7 @@
 {
 	mood_name = multiplayer_world_town_center_1;
 	transition_time = 2.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -9687,7 +9669,7 @@
 {
 	mood_name = multiplayer_world_town_center_2;
 	transition_time = 2.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -9702,13 +9684,13 @@
 		fog_color = 0xFF646464;
 		fog_density = 0.5f;
 	}
+	[rain]
+	{
+	}
 	[wind]
 	{
 		wind_velocity = 1.0f;
 		wind_direction = 0.0f;
-	}
-	[rain]
-	{
 	}
 	[music]
 	{
@@ -9721,7 +9703,7 @@
 {
 	mood_name = multiplayer_world_town_center_tavern;
 	transition_time = 2.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -9751,7 +9733,7 @@
 {
 	mood_name = multiplayer_world_town_center_teleport;
 	transition_time = 22.0f;
-	interior = false;
+  b interior = false;
 	[frustum]
 	{
 		frustum_width = 45.0f;
@@ -9766,13 +9748,13 @@
 		fog_color = 0xFF646464;
 		fog_density = 0.5f;
 	}
+	[rain]
+	{
+	}
 	[wind]
 	{
 		wind_velocity = 1.0f;
 		wind_direction = 0.0f;
-	}
-	[rain]
-	{
 	}
 	[music]
 	{
@@ -9786,7 +9768,7 @@
 {
 	mood_name = multiplayer_world_wd_r1_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -9808,7 +9790,7 @@
 {
 	mood_name = multiplayer_world_wd_r1_2;
 	transition_time = 4.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -9830,7 +9812,7 @@
 {
 	mood_name = multiplayer_world_wd_r1_3;
 	transition_time = 4.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -9852,7 +9834,7 @@
 {
 	mood_name = multiplayer_world_wd_r1_4;
 	transition_time = 0.5f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -9874,7 +9856,7 @@
 {
 	mood_name = multiplayer_world_wd_r1_5;
 	transition_time = 0.5f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 25.0f;

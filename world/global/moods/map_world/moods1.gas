@@ -2,7 +2,7 @@
 {
 	mood_name = map_world_fh_r1_intro_1;
 	transition_time = 0.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -24,7 +24,7 @@
 {
 	mood_name = map_world_fh_r1_intro_1_2;
 	transition_time = 1.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -46,7 +46,7 @@
 {
 	mood_name = map_world_fh_r1_intro_1_3;
 	transition_time = 6.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 0.1f;
@@ -66,7 +66,7 @@
 {
 	mood_name = map_world_fh_r1_intro_1_4;
 	transition_time = 0.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 50.0f;
@@ -88,7 +88,7 @@
 {
 	mood_name = map_world_fh_r1_intro_2;
 	transition_time = 0.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 50.0f;
@@ -110,7 +110,7 @@
 {
 	mood_name = map_world_fh_r1_intro_2_1;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -132,7 +132,7 @@
 {
 	mood_name = map_world_fh_r1_1;
 	transition_time = 2.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -159,7 +159,7 @@
 {
 	mood_name = map_world_fh_r1_2;
 	transition_time = 2.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -169,14 +169,14 @@
 		fog_color = 0xFF646464;
 		fog_density = 0.5f;
 	}
+	[snow]
+	{
+	  f snow_density = 200.000000;
+	}
 	[wind]
 	{
 		wind_velocity = 0.5f;
 		wind_direction = 0.0f;
-	}
-	[snow]
-	{
-		snow_density = 200.0f;
 	}
 	[music]
 	{
@@ -190,7 +190,7 @@
 {
 	mood_name = map_world_fh_r1_3;
 	transition_time = 2.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -202,8 +202,7 @@
 	}
 	[snow]
 	{
-		snow_density = 225.0f;
-		lightning = true;
+	  f snow_density = 225.000000;
 	}
 	[wind]
 	{
@@ -222,7 +221,7 @@
 {
 	mood_name = map_world_fh_r1_4;
 	transition_time = 0.2f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -249,7 +248,7 @@
 {
 	mood_name = map_world_hc_r1_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -271,7 +270,7 @@
 {
 	mood_name = map_world_bc_r1_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 40.0f;
@@ -293,7 +292,7 @@
 {
 	mood_name = map_world_path2crypts_1;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -305,7 +304,7 @@
 	}
 	[snow]
 	{
-		snow_density = 100.0f;
+	  f snow_density = 100.000000;
 	}
 	[wind]
 	{
@@ -324,7 +323,7 @@
 {
 	mood_name = map_world_path2crypts_1_1;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -351,7 +350,7 @@
 {
 	mood_name = map_world_path2crypts_2;
 	transition_time = 4.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -363,7 +362,7 @@
 	}
 	[snow]
 	{
-		snow_density = 50.0f;
+	  f snow_density = 50.000000;
 	}
 	[wind]
 	{
@@ -382,7 +381,7 @@
 {
 	mood_name = map_world_path2crypts_3;
 	transition_time = 4.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -409,7 +408,7 @@
 {
 	mood_name = map_world_path2crypts_3_1;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -436,7 +435,7 @@
 {
 	mood_name = map_world_path2crypts_4;
 	transition_time = 2.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -463,7 +462,7 @@
 {
 	mood_name = map_world_path2crypts_5;
 	transition_time = 1.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -485,7 +484,7 @@
 {
 	mood_name = map_world_path2crypts_6;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -507,7 +506,7 @@
 {
 	mood_name = map_world_gd_b_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -529,7 +528,7 @@
 {
 	mood_name = map_world_cr_r1_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 20.0f;
@@ -551,7 +550,7 @@
 {
 	mood_name = map_world_cr_r1_2;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 20.0f;
@@ -573,7 +572,7 @@
 {
 	mood_name = map_world_cr_r1_3;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 20.0f;
@@ -595,7 +594,7 @@
 {
 	mood_name = map_world_cr_r1_4;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 20.0f;
@@ -617,7 +616,7 @@
 {
 	mood_name = map_world_fh_r3_1;
 	transition_time = 2.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -639,7 +638,7 @@
 {
 	mood_name = map_world_fh_r3_tower_1;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -666,7 +665,7 @@
 {
 	mood_name = map_world_fh_r3_tower_2;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -688,7 +687,7 @@
 {
 	mood_name = map_world_fh_r3_tower_3;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 20.0f;
@@ -710,7 +709,7 @@
 {
 	mood_name = map_world_fh_r3_tower_4;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 20.0f;
@@ -732,7 +731,7 @@
 {
 	mood_name = map_world_fh_r3_tower_5;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 20.0f;
@@ -759,7 +758,7 @@
 {
 	mood_name = map_world_fh_r3_2;
 	transition_time = 4.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -786,7 +785,7 @@
 {
 	mood_name = map_world_fh_r3_3;
 	transition_time = 4.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -813,7 +812,7 @@
 {
 	mood_name = map_world_bt_r1_1;
 	transition_time = 6.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -835,7 +834,7 @@
 {
 	mood_name = map_world_bt_r1_tavern;
 	transition_time = 6.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -857,7 +856,7 @@
 {
 	mood_name = map_world_bt_r1_2;
 	transition_time = 10.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -884,7 +883,7 @@
 {
 	mood_name = map_world_path2sd_1;
 	transition_time = 2.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -911,7 +910,7 @@
 {
 	mood_name = map_world_path2sd_2;
 	transition_time = 2.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -933,7 +932,7 @@
 {
 	mood_name = map_world_path2sd_a_1;
 	transition_time = 0.5f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 20.0f;
@@ -955,7 +954,7 @@
 {
 	mood_name = map_world_sd_r1_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -977,7 +976,7 @@
 {
 	mood_name = map_world_sd_r1_2;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -999,7 +998,7 @@
 {
 	mood_name = map_world_sd_r1_3;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -1021,7 +1020,7 @@
 {
 	mood_name = map_world_sd_r1_4;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -1043,7 +1042,7 @@
 {
 	mood_name = map_world_sd_r2_1;
 	transition_time = 0.3f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -1065,7 +1064,7 @@
 {
 	mood_name = map_world_sd_r2_2;
 	transition_time = 0.2f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -1087,7 +1086,7 @@
 {
 	mood_name = map_world_sd_r2_3;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -1109,7 +1108,7 @@
 {
 	mood_name = map_world_sd_r2_4;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -1131,7 +1130,7 @@
 {
 	mood_name = map_world_sd_r2_5;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -1153,7 +1152,7 @@
 {
 	mood_name = map_world_sd_r2_6;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -1175,7 +1174,7 @@
 {
 	mood_name = map_world_sd_r2_7;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -1197,7 +1196,7 @@
 {
 	mood_name = map_world_sd_r2_8;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -1219,7 +1218,7 @@
 {
 	mood_name = map_world_path2dm_1;
 	transition_time = 2.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -1241,7 +1240,7 @@
 {
 	mood_name = map_world_path2dm_1_1;
 	transition_time = 0.5f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -1263,7 +1262,7 @@
 {
 	mood_name = map_world_path2dm_2;
 	transition_time = 4.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -1284,7 +1283,7 @@
 {
 	mood_name = map_world_path2dm_3;
 	transition_time = 2.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -1306,7 +1305,7 @@
 {
 	mood_name = map_world_dm_r10_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -1328,7 +1327,7 @@
 {
 	mood_name = map_world_dm_r2_1;
 	transition_time = 2.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -1350,7 +1349,7 @@
 {
 	mood_name = map_world_dm_r8_1;
 	transition_time = 2.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -1372,7 +1371,7 @@
 {
 	mood_name = map_world_dm_r8a_1;
 	transition_time = 2.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -1394,7 +1393,7 @@
 {
 	mood_name = map_world_dm_r8_2;
 	transition_time = 2.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -1416,7 +1415,7 @@
 {
 	mood_name = map_world_dm_r11_1;
 	transition_time = 2.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -1438,7 +1437,7 @@
 {
 	mood_name = map_world_dm_r11_1_1;
 	transition_time = 2.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -1460,7 +1459,7 @@
 {
 	mood_name = map_world_dm_r11_2;
 	transition_time = 2.0f;
-	interior = true;
+  b interior = true;
 	[sun]
 	{
 		[00h00m]
@@ -1533,7 +1532,7 @@
 {
 	mood_name = map_world_dm_r11_3;
 	transition_time = 0.0f;
-	interior = true;
+  b interior = true;
 	[sun]
 	{
 		[00h00m]
@@ -1606,7 +1605,7 @@
 {
 	mood_name = map_world_path2nt_1;
 	transition_time = 0.5f;
-	interior = false;
+  b interior = false;
 	[sun]
 	{
 		[00h00m]
@@ -1679,7 +1678,7 @@
 {
 	mood_name = map_world_path2nt_2;
 	transition_time = 1.0f;
-	interior = false;
+  b interior = false;
 	[sun]
 	{
 		[00h00m]
@@ -1740,14 +1739,14 @@
 		fog_color = 0xFFc0c0c8;
 		fog_density = 0.5f;
 	}
+	[snow]
+	{
+	  f snow_density = 250.000000;
+	}
 	[wind]
 	{
 		wind_velocity = 2.0f;
 		wind_direction = 3.14f;
-	}
-	[snow]
-	{
-		snow_density = 250;
 	}
 	[music]
 	{
@@ -1761,7 +1760,7 @@
 {
 	mood_name = map_world_path2nt_3;
 	transition_time = 2.0f;
-	interior = false;
+  b interior = false;
 	[sun]
 	{
 		[00h00m]
@@ -1824,7 +1823,7 @@
 	}
 	[snow]
 	{
-		snow_density = 250;
+	  f snow_density = 250.000000;
 	}
 	[music]
 	{
@@ -1838,7 +1837,7 @@
 {
 	mood_name = map_world_fc_r1_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -1860,7 +1859,7 @@
 {
 	mood_name = map_world_fc_r1_2;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -1882,7 +1881,7 @@
 {
 	mood_name = map_world_nt_r1_1;
 	transition_time = 0.0f;
-	interior = false;
+  b interior = false;
 	[sun]
 	{
 		[00h00m]
@@ -1955,7 +1954,7 @@
 {
 	mood_name = map_world_nt_r1_2;
 	transition_time = 0.0f;
-	interior = false;
+  b interior = false;
 	[sun]
 	{
 		[00h00m]
@@ -2018,7 +2017,7 @@
 	}
 	[snow]
 	{
-		snow_density = 250;
+	  f snow_density = 250.000000;
 	}
 	[music]
 	{
@@ -2032,7 +2031,7 @@
 {
 	mood_name = map_world_nt_r1_tavern;
 	transition_time = 0.0f;
-	interior = false;
+  b interior = false;
 	[sun]
 	{
 		[00h00m]
@@ -2105,7 +2104,7 @@
 {
 	mood_name = map_world_nt_r1_3;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[sun]
 	{
 		[00h00m]
@@ -2166,14 +2165,14 @@
 		fog_color = 0xFFc0c0c8;
 		fog_density = 0.5f;
 	}
+	[snow]
+	{
+	  f snow_density = 250.000000;
+	}
 	[wind]
 	{
 		wind_velocity = 1.5f;
 		wind_direction = 3.14f;
-	}
-	[snow]
-	{
-		snow_density = 250;
 	}
 	[music]
 	{
@@ -2187,7 +2186,7 @@
 {
 	mood_name = map_world_nt_r1_4;
 	transition_time = 0.5f;
-	interior = false;
+  b interior = false;
 	[sun]
 	{
 		[00h00m]
@@ -2248,14 +2247,14 @@
 		fog_color = 0xFFc0c0c8;
 		fog_density = 0.5f;
 	}
+	[snow]
+	{
+	  f snow_density = 250.000000;
+	}
 	[wind]
 	{
 		wind_velocity = 1.5f;
 		wind_direction = 3.14f;
-	}
-	[snow]
-	{
-		snow_density = 250;
 	}
 	[music]
 	{
@@ -2269,7 +2268,7 @@
 {
 	mood_name = map_world_nt_r1a_1;
 	transition_time = 1.0f;
-	interior = false;
+  b interior = false;
 	[sun]
 	{
 		[00h00m]
@@ -2330,14 +2329,14 @@
 		fog_color = 0xFFb7b7c8;
 		fog_density = 0.5f;
 	}
+	[snow]
+	{
+	  f snow_density = 250.000000;
+	}
 	[wind]
 	{
 		wind_velocity = 1.5f;
 		wind_direction = 3.14f;
-	}
-	[snow]
-	{
-		snow_density = 250;
 	}
 	[music]
 	{
@@ -2349,7 +2348,7 @@
 {
 	mood_name = map_world_nt_r1a_1a;
 	transition_time = 3.0f;
-	interior = false;
+  b interior = false;
 	[sun]
 	{
 		[00h00m]
@@ -2410,14 +2409,14 @@
 		fog_color = 0xFFb7b7c8;
 		fog_density = 0.5f;
 	}
+	[snow]
+	{
+	  f snow_density = 250.000000;
+	}
 	[wind]
 	{
 		wind_velocity = 1.5f;
 		wind_direction = 3.14f;
-	}
-	[snow]
-	{
-		snow_density = 250;
 	}
 	[music]
 	{
@@ -2431,7 +2430,7 @@
 {
 	mood_name = map_world_nt_r1a_2;
 	transition_time = 0.5f;
-	interior = true;
+  b interior = true;
 	[sun]
 	{
 		[00h00m]
@@ -2507,7 +2506,7 @@
 {
 	mood_name = map_world_nt_r1a_2a;
 	transition_time = 3.0f;
-	interior = true;
+  b interior = true;
 	[sun]
 	{
 		[00h00m]
@@ -2585,7 +2584,7 @@
 {
 	mood_name = map_world_nt_r1a_2b;
 	transition_time = 3.0f;
-	interior = true;
+  b interior = true;
 	[sun]
 	{
 		[00h00m]
@@ -2663,16 +2662,7 @@
 {
 	mood_name = map_world_nt_r1a_3;
 	transition_time = 0.25f;
-	interior = true;
-	[fog]
-	{
-		fog_near_dist = 20.0f;
-		fog_far_dist = 30.0f;
-		fog_lowdetail_near_dist = 20.0f;
-		fog_lowdetail_far_dist = 25.0f;
-		fog_color = 0xFF000000;
-		fog_density = 0.5f;
-	}
+  b interior = true;
 	[sun]
 	{
 		[00h00m]
@@ -2723,6 +2713,15 @@
 		{
 			color = 0xFF000000;
 		}
+	}
+	[fog]
+	{
+		fog_near_dist = 20.0f;
+		fog_far_dist = 30.0f;
+		fog_lowdetail_near_dist = 20.0f;
+		fog_lowdetail_far_dist = 25.0f;
+		fog_color = 0xFF000000;
+		fog_density = 0.5f;
 	}
 	[music]
 	{
@@ -2736,16 +2735,7 @@
 {
 	mood_name = map_world_nt_r1a_3a;
 	transition_time = 3.25f;
-	interior = true;
-	[fog]
-	{
-		fog_near_dist = 21.0f;
-		fog_far_dist = 31.0f;
-		fog_lowdetail_near_dist = 20.0f;
-		fog_lowdetail_far_dist = 25.0f;
-		fog_color = 0xFF000000;
-		fog_density = 0.5f;
-	}
+  b interior = true;
 	[sun]
 	{
 		[00h00m]
@@ -2796,6 +2786,15 @@
 		{
 			color = 0xFF000000;
 		}
+	}
+	[fog]
+	{
+		fog_near_dist = 21.0f;
+		fog_far_dist = 31.0f;
+		fog_lowdetail_near_dist = 20.0f;
+		fog_lowdetail_far_dist = 25.0f;
+		fog_color = 0xFF000000;
+		fog_density = 0.5f;
 	}
 	[music]
 	{
@@ -2809,16 +2808,7 @@
 {
 	mood_name = map_world_nt_r1a_3b;
 	transition_time = 3.25f;
-	interior = true;
-	[fog]
-	{
-		fog_near_dist = 20.0f;
-		fog_far_dist = 30.0f;
-		fog_lowdetail_near_dist = 20.0f;
-		fog_lowdetail_far_dist = 25.0f;
-		fog_color = 0xFF000000;
-		fog_density = 0.5f;
-	}
+  b interior = true;
 	[sun]
 	{
 		[00h00m]
@@ -2870,6 +2860,15 @@
 			color = 0xFF000000;
 		}
 	}
+	[fog]
+	{
+		fog_near_dist = 20.0f;
+		fog_far_dist = 30.0f;
+		fog_lowdetail_near_dist = 20.0f;
+		fog_lowdetail_far_dist = 25.0f;
+		fog_color = 0xFF000000;
+		fog_density = 0.5f;
+	}
 	[music]
 	{
 		ambient_track = "";
@@ -2882,7 +2881,7 @@
 {
 	mood_name = map_world_path2ac_1;
 	transition_time = 2.0f;
-	interior = false;
+  b interior = false;
 	[sun]
 	{
 		[00h00m]
@@ -2945,7 +2944,7 @@
 	}
 	[snow]
 	{
-		snow_density = 200;
+	  f snow_density = 200.000000;
 	}
 	[music]
 	{
@@ -2959,7 +2958,7 @@
 {
 	mood_name = map_world_path2ac_2;
 	transition_time = .25f;
-	interior = false;
+  b interior = false;
 	[sun]
 	{
 		[00h00m]
@@ -3032,7 +3031,7 @@
 {
 	mood_name = map_world_path2ac_3;
 	transition_time = 10.0f;
-	interior = false;
+  b interior = false;
 	[sun]
 	{
 		[00h00m]
@@ -3095,7 +3094,7 @@
 	}
 	[snow]
 	{
-		snow_density = 200;
+	  f snow_density = 200.000000;
 	}
 	[music]
 	{
@@ -3109,7 +3108,7 @@
 {
 	mood_name = map_world_path2ac_4;
 	transition_time = .0f;
-	interior = false;
+  b interior = false;
 	[sun]
 	{
 		[00h00m]
@@ -3172,7 +3171,7 @@
 	}
 	[snow]
 	{
-		snow_density = 200;
+	  f snow_density = 200.000000;
 	}
 	[music]
 	{
@@ -3186,16 +3185,7 @@
 {
 	mood_name = map_world_id_r1_1;
 	transition_time = 1.0f;
-	interior = true;
-	[fog]
-	{
-		fog_near_dist = 20.0f;
-		fog_far_dist = 30.0f;
-		fog_lowdetail_near_dist = 20.0f;
-		fog_lowdetail_far_dist = 25.0f;
-		fog_color = 0xFF000000;
-		fog_density = 0.5f;
-	}
+  b interior = true;
 	[sun]
 	{
 		[00h00m]
@@ -3247,6 +3237,15 @@
 			color = 0xFF000000;
 		}
 	}
+	[fog]
+	{
+		fog_near_dist = 20.0f;
+		fog_far_dist = 30.0f;
+		fog_lowdetail_near_dist = 20.0f;
+		fog_lowdetail_far_dist = 25.0f;
+		fog_color = 0xFF000000;
+		fog_density = 0.5f;
+	}
 	[music]
 	{
 		ambient_track = "";
@@ -3259,7 +3258,7 @@
 {
 	mood_name = map_world_ac_r1_1;
 	transition_time = 15.0f;
-	interior = false;
+  b interior = false;
 	[sun]
 	{
 		[00h00m]
@@ -3320,14 +3319,14 @@
 		fog_color = 0xFFc0c0c8;
 		fog_density = 0.6f;
 	}
+	[snow]
+	{
+	  f snow_density = 500.000000;
+	}
 	[wind]
 	{
 		wind_velocity = 1.25f;
 		wind_direction = 1.57f;
-	}
-	[snow]
-	{
-		snow_density = 500;
 	}
 	[music]
 	{
@@ -3341,7 +3340,7 @@
 {
 	mood_name = map_world_ac_r1_2;
 	transition_time = 3.0f;
-	interior = false;
+  b interior = false;
 	[sun]
 	{
 		[00h00m]
@@ -3402,14 +3401,14 @@
 		fog_color = 0xFFc0c0c8;
 		fog_density = 0.6f;
 	}
+	[snow]
+	{
+	  f snow_density = 500.000000;
+	}
 	[wind]
 	{
 		wind_velocity = 2.0f;
 		wind_direction = 1.57f;
-	}
-	[snow]
-	{
-		snow_density = 500;
 	}
 	[music]
 	{
@@ -3423,7 +3422,7 @@
 {
 	mood_name = map_world_ac_r1_3;
 	transition_time = 9.0f;
-	interior = false;
+  b interior = false;
 	[sun]
 	{
 		[00h00m]
@@ -3484,14 +3483,14 @@
 		fog_color = 0xFFc0c0c8;
 		fog_density = 0.6f;
 	}
+	[snow]
+	{
+	  f snow_density = 250.000000;
+	}
 	[wind]
 	{
 		wind_velocity = 1.0f;
 		wind_direction = 1.57f;
-	}
-	[snow]
-	{
-		snow_density = 250;
 	}
 	[music]
 	{
@@ -3505,7 +3504,7 @@
 {
 	mood_name = map_world_ac_r1a;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[sun]
 	{
 		[00h00m]
@@ -3568,7 +3567,7 @@
 	}
 	[snow]
 	{
-		snow_density = 75;
+	  f snow_density = 75.000000;
 	}
 	[music]
 	{
@@ -3582,7 +3581,7 @@
 {
 	mood_name = map_world_ac_r1a_3;
 	transition_time = 1.0f;
-	interior = false;
+  b interior = false;
 	[sun]
 	{
 		[00h00m]
@@ -3645,7 +3644,7 @@
 	}
 	[snow]
 	{
-		snow_density = 75;
+	  f snow_density = 75.000000;
 	}
 	[music]
 	{
@@ -3659,7 +3658,7 @@
 {
 	mood_name = map_world_ac_r1a_2;
 	transition_time = 1.0f;
-	interior = false;
+  b interior = false;
 	[sun]
 	{
 		[00h00m]
@@ -3732,16 +3731,7 @@
 {
 	mood_name = map_world_ac_r2_1;
 	transition_time = 2.0f;
-	interior = true;
-	[fog]
-	{
-		fog_near_dist = 25.0f;
-		fog_far_dist = 50.0f;
-		fog_lowdetail_near_dist = 25.0f;
-		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF202028;
-		fog_density = 0.5f;
-	}
+  b interior = true;
 	[sun]
 	{
 		[00h00m]
@@ -3792,6 +3782,15 @@
 		{
 			color = 0xFF000000;
 		}
+	}
+	[fog]
+	{
+		fog_near_dist = 25.0f;
+		fog_far_dist = 50.0f;
+		fog_lowdetail_near_dist = 25.0f;
+		fog_lowdetail_far_dist = 45.0f;
+		fog_color = 0xFF202028;
+		fog_density = 0.5f;
 	}
 	[music]
 	{
@@ -3805,16 +3804,7 @@
 {
 	mood_name = map_world_ac_r2_2;
 	transition_time = 4.0f;
-	interior = true;
-	[fog]
-	{
-		fog_near_dist = 10.0f;
-		fog_far_dist = 45.0f;
-		fog_lowdetail_near_dist = 10.0f;
-		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF1b1b23;
-		fog_density = 0.5f;
-	}
+  b interior = true;
 	[sun]
 	{
 		[00h00m]
@@ -3865,6 +3855,15 @@
 		{
 			color = 0xFF000000;
 		}
+	}
+	[fog]
+	{
+		fog_near_dist = 10.0f;
+		fog_far_dist = 45.0f;
+		fog_lowdetail_near_dist = 10.0f;
+		fog_lowdetail_far_dist = 40.0f;
+		fog_color = 0xFF1b1b23;
+		fog_density = 0.5f;
 	}
 	[music]
 	{
@@ -3878,16 +3877,7 @@
 {
 	mood_name = map_world_ac_r2_3;
 	transition_time = 1.0f;
-	interior = true;
-	[fog]
-	{
-		fog_near_dist = 10.0f;
-		fog_far_dist = 45.0f;
-		fog_lowdetail_near_dist = 10.0f;
-		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF1b1b23;
-		fog_density = 0.5f;
-	}
+  b interior = true;
 	[sun]
 	{
 		[00h00m]
@@ -3939,6 +3929,15 @@
 			color = 0xFF000000;
 		}
 	}
+	[fog]
+	{
+		fog_near_dist = 10.0f;
+		fog_far_dist = 45.0f;
+		fog_lowdetail_near_dist = 10.0f;
+		fog_lowdetail_far_dist = 40.0f;
+		fog_color = 0xFF1b1b23;
+		fog_density = 0.5f;
+	}
 	[music]
 	{
 		ambient_track = "s_e_ambient_wind_ice_cavern";
@@ -3951,7 +3950,7 @@
 {
 	mood_name = map_world_ac_r2a_1;
 	transition_time = 1.0f;
-	interior = false;
+  b interior = false;
 	[sun]
 	{
 		[00h00m]
@@ -4012,14 +4011,14 @@
 		fog_color = 0xFFc0c0c8;
 		fog_density = 0.6f;
 	}
+	[snow]
+	{
+	  f snow_density = 250.000000;
+	}
 	[wind]
 	{
 		wind_velocity = 1.0f;
 		wind_direction = 1.57f;
-	}
-	[snow]
-	{
-		snow_density = 250;
 	}
 	[music]
 	{
@@ -4033,16 +4032,7 @@
 {
 	mood_name = map_world_ac_r5_1;
 	transition_time = 2.0f;
-	interior = true;
-	[fog]
-	{
-		fog_near_dist = 25.0f;
-		fog_far_dist = 50.0f;
-		fog_lowdetail_near_dist = 25.0f;
-		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF202028;
-		fog_density = 0.5f;
-	}
+  b interior = true;
 	[sun]
 	{
 		[00h00m]
@@ -4093,6 +4083,15 @@
 		{
 			color = 0xFF000000;
 		}
+	}
+	[fog]
+	{
+		fog_near_dist = 25.0f;
+		fog_far_dist = 50.0f;
+		fog_lowdetail_near_dist = 25.0f;
+		fog_lowdetail_far_dist = 45.0f;
+		fog_color = 0xFF202028;
+		fog_density = 0.5f;
 	}
 	[music]
 	{
@@ -4106,16 +4105,7 @@
 {
 	mood_name = map_world_ac_r3_1;
 	transition_time = 2.0f;
-	interior = true;
-	[fog]
-	{
-		fog_near_dist = 25.0f;
-		fog_far_dist = 50.0f;
-		fog_lowdetail_near_dist = 25.0f;
-		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF202028;
-		fog_density = 0.5f;
-	}
+  b interior = true;
 	[sun]
 	{
 		[00h00m]
@@ -4166,6 +4156,15 @@
 		{
 			color = 0xFF000000;
 		}
+	}
+	[fog]
+	{
+		fog_near_dist = 25.0f;
+		fog_far_dist = 50.0f;
+		fog_lowdetail_near_dist = 25.0f;
+		fog_lowdetail_far_dist = 45.0f;
+		fog_color = 0xFF202028;
+		fog_density = 0.5f;
 	}
 	[music]
 	{
@@ -4179,16 +4178,7 @@
 {
 	mood_name = map_world_ac_r3_1_2;
 	transition_time = 1.0f;
-	interior = true;
-	[fog]
-	{
-		fog_near_dist = 25.0f;
-		fog_far_dist = 50.0f;
-		fog_lowdetail_near_dist = 25.0f;
-		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF202028;
-		fog_density = 0.5f;
-	}
+  b interior = true;
 	[sun]
 	{
 		[00h00m]
@@ -4239,6 +4229,15 @@
 		{
 			color = 0xFF000000;
 		}
+	}
+	[fog]
+	{
+		fog_near_dist = 25.0f;
+		fog_far_dist = 50.0f;
+		fog_lowdetail_near_dist = 25.0f;
+		fog_lowdetail_far_dist = 45.0f;
+		fog_color = 0xFF202028;
+		fog_density = 0.5f;
 	}
 	[music]
 	{
@@ -4252,16 +4251,7 @@
 {
 	mood_name = map_world_ac_r3_2;
 	transition_time = 4.0f;
-	interior = true;
-	[fog]
-	{
-		fog_near_dist = 25.0f;
-		fog_far_dist = 50.0f;
-		fog_lowdetail_near_dist = 25.0f;
-		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF282830;
-		fog_density = 0.5f;
-	}
+  b interior = true;
 	[sun]
 	{
 		[00h00m]
@@ -4312,6 +4302,15 @@
 		{
 			color = 0xFF000000;
 		}
+	}
+	[fog]
+	{
+		fog_near_dist = 25.0f;
+		fog_far_dist = 50.0f;
+		fog_lowdetail_near_dist = 25.0f;
+		fog_lowdetail_far_dist = 45.0f;
+		fog_color = 0xFF282830;
+		fog_density = 0.5f;
 	}
 	[music]
 	{
@@ -4325,16 +4324,7 @@
 {
 	mood_name = map_world_ac_r3_3;
 	transition_time = 4.0f;
-	interior = true;
-	[fog]
-	{
-		fog_near_dist = 25.0f;
-		fog_far_dist = 50.0f;
-		fog_lowdetail_near_dist = 25.0f;
-		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF202028;
-		fog_density = 0.5f;
-	}
+  b interior = true;
 	[sun]
 	{
 		[00h00m]
@@ -4385,6 +4375,15 @@
 		{
 			color = 0xFF000000;
 		}
+	}
+	[fog]
+	{
+		fog_near_dist = 25.0f;
+		fog_far_dist = 50.0f;
+		fog_lowdetail_near_dist = 25.0f;
+		fog_lowdetail_far_dist = 45.0f;
+		fog_color = 0xFF202028;
+		fog_density = 0.5f;
 	}
 	[music]
 	{
@@ -4398,16 +4397,7 @@
 {
 	mood_name = map_world_lc_r5_1;
 	transition_time = 2.0f;
-	interior = true;
-	[fog]
-	{
-		fog_near_dist = 40.0f;
-		fog_far_dist = 50.0f;
-		fog_lowdetail_near_dist = 40.0f;
-		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF000000;
-		fog_density = 0.5f;
-	}
+  b interior = true;
 	[sun]
 	{
 		[00h00m]
@@ -4458,6 +4448,15 @@
 		{
 			color = 0xFF000000;
 		}
+	}
+	[fog]
+	{
+		fog_near_dist = 40.0f;
+		fog_far_dist = 50.0f;
+		fog_lowdetail_near_dist = 40.0f;
+		fog_lowdetail_far_dist = 45.0f;
+		fog_color = 0xFF000000;
+		fog_density = 0.5f;
 	}
 	[music]
 	{
@@ -4471,16 +4470,7 @@
 {
 	mood_name = map_world_lc_r5_2;
 	transition_time = 0.5f;
-	interior = true;
-	[fog]
-	{
-		fog_near_dist = 40.0f;
-		fog_far_dist = 50.0f;
-		fog_lowdetail_near_dist = 40.0f;
-		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF000000;
-		fog_density = 0.5f;
-	}
+  b interior = true;
 	[sun]
 	{
 		[00h00m]
@@ -4531,6 +4521,15 @@
 		{
 			color = 0xFF000000;
 		}
+	}
+	[fog]
+	{
+		fog_near_dist = 40.0f;
+		fog_far_dist = 50.0f;
+		fog_lowdetail_near_dist = 40.0f;
+		fog_lowdetail_far_dist = 45.0f;
+		fog_color = 0xFF000000;
+		fog_density = 0.5f;
 	}
 	[music]
 	{
@@ -4544,16 +4543,7 @@
 {
 	mood_name = map_world_lc_r5a_1;
 	transition_time = 2.0f;
-	interior = true;
-	[fog]
-	{
-		fog_near_dist = 45.0f;
-		fog_far_dist = 55.0f;
-		fog_lowdetail_near_dist = 45.0f;
-		fog_lowdetail_far_dist = 50.0f;
-		fog_color = 0xFF202028;
-		fog_density = 0.5f;
-	}
+  b interior = true;
 	[sun]
 	{
 		[00h00m]
@@ -4605,6 +4595,15 @@
 			color = 0xFF000000;
 		}
 	}
+	[fog]
+	{
+		fog_near_dist = 45.0f;
+		fog_far_dist = 55.0f;
+		fog_lowdetail_near_dist = 45.0f;
+		fog_lowdetail_far_dist = 50.0f;
+		fog_color = 0xFF202028;
+		fog_density = 0.5f;
+	}
 	[music]
 	{
 		ambient_track = "";
@@ -4617,7 +4616,7 @@
 {
 	mood_name = map_world_mm_r1_1;
 	transition_time = 2.0f;
-	interior = false;
+  b interior = false;
 	[sun]
 	{
 		[00h00m]
@@ -4678,14 +4677,14 @@
 		fog_color = 0xFFc0c0c8;
 		fog_density = 0.5f;
 	}
+	[snow]
+	{
+	  f snow_density = 150.000000;
+	}
 	[wind]
 	{
 		wind_velocity = 0.5f;
 		wind_direction = 0.0f;
-	}
-	[snow]
-	{
-		snow_density = 150;
 	}
 	[music]
 	{
@@ -4699,7 +4698,7 @@
 {
 	mood_name = map_world_mm_r1_2;
 	transition_time = 0.0f;
-	interior = false;
+  b interior = false;
 	[sun]
 	{
 		[00h00m]
@@ -4772,7 +4771,7 @@
 {
 	mood_name = map_world_mm_r1_3;
 	transition_time = 1.0f;
-	interior = false;
+  b interior = false;
 	[sun]
 	{
 		[00h00m]
@@ -4835,7 +4834,7 @@
 	}
 	[snow]
 	{
-		snow_density = 75;
+	  f snow_density = 75.000000;
 	}
 	[music]
 	{
@@ -4849,7 +4848,7 @@
 {
 	mood_name = map_world_mm_r1_4;
 	transition_time = 0.0f;
-	interior = false;
+  b interior = false;
 	[sun]
 	{
 		[00h00m]
@@ -4922,7 +4921,7 @@
 {
 	mood_name = map_world_mm_r1a_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 20.0f;
@@ -4944,16 +4943,7 @@
 {
 	mood_name = map_world_sr_r1_1;
 	transition_time = 1.0f;
-	interior = true;
-	[fog]
-	{
-		fog_near_dist = 25.0f;
-		fog_far_dist = 35.0f;
-		fog_lowdetail_near_dist = 25.0f;
-		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xff000000;
-		fog_density = 0.5f;
-	}
+  b interior = true;
 	[sun]
 	{
 		[00h00m]
@@ -5005,6 +4995,15 @@
 			color = 0xFF000000;
 		}
 	}
+	[fog]
+	{
+		fog_near_dist = 25.0f;
+		fog_far_dist = 35.0f;
+		fog_lowdetail_near_dist = 25.0f;
+		fog_lowdetail_far_dist = 30.0f;
+		fog_color = 0xff000000;
+		fog_density = 0.5f;
+	}
 	[music]
 	{
 		ambient_track = "";
@@ -5017,7 +5016,7 @@
 {
 	mood_name = map_world_sr_r1_2;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 10.0f;
@@ -5038,7 +5037,7 @@
 {
 	mood_name = map_world_sr_r1_3;
 	transition_time = 5.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -5060,7 +5059,7 @@
 {
 	mood_name = map_world_sr_r1a_1;
 	transition_time = 5.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 10.0f;
@@ -5082,7 +5081,7 @@
 {
 	mood_name = map_world_sr_r2_1;
 	transition_time = 4.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 10.0f;
@@ -5104,7 +5103,7 @@
 {
 	mood_name = map_world_sr_r2_2;
 	transition_time = 4.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 10.0f;
@@ -5126,7 +5125,7 @@
 {
 	mood_name = map_world_mg_side_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -5148,7 +5147,7 @@
 {
 	mood_name = map_world_sr_r3_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 10.0f;
@@ -5170,7 +5169,7 @@
 {
 	mood_name = map_world_sr_r3a_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -5192,7 +5191,7 @@
 {
 	mood_name = map_world_sr_r4_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 10.0f;
@@ -5214,7 +5213,7 @@
 {
 	mood_name = map_world_sr_r4_2;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -5236,7 +5235,7 @@
 {
 	mood_name = map_world_sr_r4_3;
 	transition_time = 4.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -5258,7 +5257,7 @@
 {
 	mood_name = map_world_sr_side_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -5280,7 +5279,7 @@
 {
 	mood_name = map_world_df_r0_1;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -5307,7 +5306,7 @@
 {
 	mood_name = map_world_df_r0_2;
 	transition_time = 10.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -5333,7 +5332,7 @@
 {
 	mood_name = map_world_df_bandits_1;
 	transition_time = 6.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -5345,8 +5344,7 @@
 	}
 	[snow]
 	{
-		snow_density = 150.0f;
-		lightning = false;
+	  f snow_density = 150.000000;
 	}
 	[wind]
 	{
@@ -5365,7 +5363,7 @@
 {
 	mood_name = map_world_df_bandits_2;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -5392,7 +5390,7 @@
 {
 	mood_name = map_world_df_bandits_3;
 	transition_time = 1.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 20.0f;
@@ -5414,7 +5412,7 @@
 {
 	mood_name = map_world_df_bandits_4;
 	transition_time = 4.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -5426,8 +5424,7 @@
 	}
 	[snow]
 	{
-		snow_density = 30.0f;
-		lightning = false;
+	  f snow_density = 30.000000;
 	}
 	[wind]
 	{
@@ -5446,7 +5443,7 @@
 {
 	mood_name = map_world_df_bandits_5;
 	transition_time = 4.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 10.0f;
@@ -5458,8 +5455,7 @@
 	}
 	[snow]
 	{
-		snow_density = 150.0f;
-		lightning = false;
+	  f snow_density = 150.000000;
 	}
 	[wind]
 	{
@@ -5478,7 +5474,7 @@
 {
 	mood_name = map_world_df_bandits_6;
 	transition_time = 0.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 20.0f;
@@ -5500,7 +5496,7 @@
 {
 	mood_name = map_world_df_bandits_7;
 	transition_time = 0.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -5512,8 +5508,7 @@
 	}
 	[snow]
 	{
-		snow_density = 30.0f;
-		lightning = false;
+	  f snow_density = 30.000000;
 	}
 	[wind]
 	{
@@ -5532,7 +5527,7 @@
 {
 	mood_name = map_world_df_r1_1;
 	transition_time = 2.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -5544,8 +5539,7 @@
 	}
 	[snow]
 	{
-		snow_density = 50.0f;
-		lightning = false;
+	  f snow_density = 50.000000;
 	}
 	[wind]
 	{
@@ -5564,7 +5558,7 @@
 {
 	mood_name = map_world_df_r1_2;
 	transition_time = 4.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -5586,7 +5580,7 @@
 {
 	mood_name = map_world_ds_r1_1;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 10.0f;
@@ -5608,7 +5602,7 @@
 {
 	mood_name = map_world_ds_r1_2;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 10.0f;
@@ -5630,7 +5624,7 @@
 {
 	mood_name = map_world_ds_r1_3;
 	transition_time = 10.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 10.0f;
@@ -5652,7 +5646,7 @@
 {
 	mood_name = map_world_ds_r1_4;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 15.0f;
@@ -5674,7 +5668,7 @@
 {
 	mood_name = map_world_ds_r2_1;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 10.0f;
@@ -5696,7 +5690,7 @@
 {
 	mood_name = map_world_ds_r2_1_1;
 	transition_time = 0.5f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 10.0f;
@@ -5716,7 +5710,7 @@
 {
 	mood_name = map_world_ds_r2_2;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 10.0f;
@@ -5738,7 +5732,7 @@
 {
 	mood_name = map_world_ds_r2a_1;
 	transition_time = 2.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -5760,7 +5754,7 @@
 {
 	mood_name = map_world_ds_r2a_2;
 	transition_time = .5f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -5782,7 +5776,7 @@
 {
 	mood_name = map_world_gi_r1_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -5804,7 +5798,7 @@
 {
 	mood_name = map_world_gi_r1_2;
 	transition_time = 5.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -5826,7 +5820,7 @@
 {
 	mood_name = map_world_gi_r4_1;
 	transition_time = 5.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -5848,7 +5842,7 @@
 {
 	mood_name = map_world_gi_r5_1;
 	transition_time = 5.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -5870,7 +5864,7 @@
 {
 	mood_name = map_world_gi_r5_2;
 	transition_time = 5.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -5892,7 +5886,7 @@
 {
 	mood_name = map_world_gi_r5a_1;
 	transition_time = 3.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -5914,7 +5908,7 @@
 {
 	mood_name = map_world_gi_r11_1;
 	transition_time = 5.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -5936,7 +5930,7 @@
 {
 	mood_name = map_world_gi_r10_1;
 	transition_time = 5.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -5958,7 +5952,7 @@
 {
 	mood_name = map_world_gi_r10a_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 20.0f;
@@ -5980,7 +5974,7 @@
 {
 	mood_name = map_world_gi_r3_1;
 	transition_time = 5.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -6002,7 +5996,7 @@
 {
 	mood_name = map_world_gi_r3_1_1;
 	transition_time = 0.5f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 45.0f;
@@ -6024,7 +6018,7 @@
 {
 	mood_name = map_world_gi_r3_1_2;
 	transition_time = 0.5f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 45.0f;
@@ -6039,7 +6033,7 @@
 {
 	mood_name = map_world_gi_r3_2;
 	transition_time = 0.5f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 45.0f;
@@ -6061,7 +6055,7 @@
 {
 	mood_name = map_world_gi_r3_4;
 	transition_time = 0.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 45.0f;
@@ -6083,7 +6077,7 @@
 {
 	mood_name = map_world_gi_r3_5;
 	transition_time = 2.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -6105,7 +6099,7 @@
 {
 	mood_name = map_world_gi_r3_6;
 	transition_time = 3.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -6127,7 +6121,7 @@
 {
 	mood_name = map_world_gi_r3_b_1;
 	transition_time = 0.5f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -6149,7 +6143,7 @@
 {
 	mood_name = map_world_tr_r1_1;
 	transition_time = 6.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -6176,7 +6170,7 @@
 {
 	mood_name = map_world_tr_r1_2;
 	transition_time = 6.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -6203,7 +6197,7 @@
 {
 	mood_name = map_world_tr_r1_3;
 	transition_time = 6.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -6225,7 +6219,7 @@
 {
 	mood_name = map_world_tr_r1_4;
 	transition_time = 6.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -6247,7 +6241,7 @@
 {
 	mood_name = map_world_tr_r2_1;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 15.0f;
@@ -6268,7 +6262,7 @@
 {
 	mood_name = map_world_tr_r3_1;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 15.0f;
@@ -6289,7 +6283,7 @@
 {
 	mood_name = map_world_tr_r3_2;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 15.0f;
@@ -6310,7 +6304,7 @@
 {
 	mood_name = map_world_tr_r3a_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -6332,7 +6326,7 @@
 {
 	mood_name = map_world_wd_r1_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -6354,7 +6348,7 @@
 {
 	mood_name = map_world_wd_r1_2;
 	transition_time = 4.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -6376,7 +6370,7 @@
 {
 	mood_name = map_world_wd_r1_3;
 	transition_time = 4.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -6398,7 +6392,7 @@
 {
 	mood_name = map_world_wd_r1_4;
 	transition_time = 0.5f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -6420,7 +6414,7 @@
 {
 	mood_name = map_world_wd_r1_5;
 	transition_time = 0.5f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -6442,7 +6436,7 @@
 {
 	mood_name = map_world_fd_r1_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -6464,7 +6458,7 @@
 {
 	mood_name = map_world_fd_r1_2;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -6486,7 +6480,7 @@
 {
 	mood_name = map_world_cf_r1_1;
 	transition_time = 2.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 20.0f;
@@ -6508,7 +6502,7 @@
 {
 	mood_name = map_world_cf_r1_1a;
 	transition_time = 2f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 26.0f;
@@ -6517,7 +6511,6 @@
 		fog_lowdetail_far_dist = 45.0f;
 		fog_color = 0xFFCF9F5F;
 		fog_density = 0.5f;
-		room_type = rt_generic;
 	}
 	[music]
 	{
@@ -6531,7 +6524,7 @@
 {
 	mood_name = map_world_cf_r1_1b;
 	transition_time = 2.5f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -6540,7 +6533,6 @@
 		fog_lowdetail_far_dist = 50.0f;
 		fog_color = 0xFFC19151;
 		fog_density = 0.5f;
-		room_type = rt_generic;
 	}
 	[music]
 	{
@@ -6554,7 +6546,7 @@
 {
 	mood_name = map_world_cf_r1_1_1;
 	transition_time = 0.5f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 20.0f;
@@ -6563,7 +6555,6 @@
 		fog_lowdetail_far_dist = 45.0f;
 		fog_color = 0xFFB49363;
 		fog_density = 0.5f;
-		room_type = rt_generic;
 	}
 	[music]
 	{
@@ -6577,7 +6568,7 @@
 {
 	mood_name = map_world_cf_r1_2;
 	transition_time = 2.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 20.0f;
@@ -6599,7 +6590,7 @@
 {
 	mood_name = map_world_cf_r1_3;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -6621,7 +6612,7 @@
 {
 	mood_name = map_world_cf_r1a;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 40.0f;
@@ -6643,7 +6634,7 @@
 {
 	mood_name = map_world_path2dc_1;
 	transition_time = 0.7f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -6665,7 +6656,7 @@
 {
 	mood_name = map_world_hs_r1_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -6687,7 +6678,7 @@
 {
 	mood_name = map_world_dc_r0_1;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -6714,7 +6705,7 @@
 {
 	mood_name = map_world_dc_r0_2;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -6741,7 +6732,7 @@
 {
 	mood_name = map_world_dc_r1_1;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -6768,7 +6759,7 @@
 {
 	mood_name = map_world_dc_r1a_1;
 	transition_time = 1.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -6790,7 +6781,7 @@
 {
 	mood_name = map_world_dc_r1_2;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -6812,7 +6803,7 @@
 {
 	mood_name = map_world_dc_r1_3;
 	transition_time = 0.5f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -6834,7 +6825,7 @@
 {
 	mood_name = map_world_dc_r2_1;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -6856,7 +6847,7 @@
 {
 	mood_name = map_world_dc_r2_2;
 	transition_time = 3.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -6878,7 +6869,7 @@
 {
 	mood_name = map_world_dc_r2_3;
 	transition_time = 3.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 25.0f;
@@ -6900,7 +6891,7 @@
 {
 	mood_name = map_world_path2ce_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 40.0f;
@@ -6922,7 +6913,7 @@
 {
 	mood_name = map_world_dl_r1_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -6944,7 +6935,7 @@
 {
 	mood_name = map_world_dl_r1_2;
 	transition_time = 3.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 45.0f;
@@ -6966,7 +6957,7 @@
 {
 	mood_name = map_world_dl_r1_3;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 45.0f;
@@ -6988,7 +6979,7 @@
 {
 	mood_name = map_world_ce_r1_1;
 	transition_time = 4.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -7009,7 +7000,7 @@
 {
 	mood_name = map_world_ce_r1a_1;
 	transition_time = 1.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -7030,7 +7021,7 @@
 {
 	mood_name = map_world_ce_r2_1;
 	transition_time = 2.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -7052,7 +7043,7 @@
 {
 	mood_name = map_world_ce_r2_1_1;
 	transition_time = 1.5f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -7074,7 +7065,7 @@
 {
 	mood_name = map_world_ce_r2_2;
 	transition_time = 2.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -7096,7 +7087,7 @@
 {
 	mood_name = map_world_ce_r2_3;
 	transition_time = 2.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -7118,7 +7109,7 @@
 {
 	mood_name = map_world_ce_r2_4;
 	transition_time = 2.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -7140,7 +7131,7 @@
 {
 	mood_name = map_world_ce_r2a_1;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 2.0f;
@@ -7162,7 +7153,7 @@
 {
 	mood_name = map_world_ce_r2a_2;
 	transition_time = 5.0f;
-	interior = false;
+  b interior = false;
 	[fog]
 	{
 		fog_near_dist = 10.0f;
@@ -7184,7 +7175,7 @@
 {
 	mood_name = map_world_cd_r1_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -7206,7 +7197,7 @@
 {
 	mood_name = map_world_cd_r1_2;
 	transition_time = 5.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -7228,7 +7219,7 @@
 {
 	mood_name = map_world_cd_r1_3;
 	transition_time = 0.5f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -7250,7 +7241,7 @@
 {
 	mood_name = map_world_gd_a_r1_1;
 	transition_time = 5.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -7272,7 +7263,7 @@
 {
 	mood_name = map_world_gd_a_r1_1_1;
 	transition_time = 0.5f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -7294,7 +7285,7 @@
 {
 	mood_name = map_world_gd_a_r1_2;
 	transition_time = 0.5f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -7316,7 +7307,7 @@
 {
 	mood_name = map_world_gd_a_r1_3;
 	transition_time = 0.5f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -7338,7 +7329,7 @@
 {
 	mood_name = map_world_gd_a_r1_3a;
 	transition_time = 50.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 50.0f;
@@ -7360,7 +7351,7 @@
 {
 	mood_name = map_world_gd_a_r1_3_1;
 	transition_time = 0.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 0.1f;
@@ -7382,7 +7373,7 @@
 {
 	mood_name = map_world_gd_a_r1_3_2;
 	transition_time = 0.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 0.1f;
@@ -7404,7 +7395,7 @@
 {
 	mood_name = map_world_gd_a_r1_3_3;
 	transition_time = 0.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 50.0f;
@@ -7426,7 +7417,7 @@
 {
 	mood_name = map_world_gd_a_r1_4;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 50.0f;
@@ -7448,7 +7439,7 @@
 {
 	mood_name = map_world_gd_a_r1_5;
 	transition_time = 0.5f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 30.0f;
@@ -7470,7 +7461,7 @@
 {
 	mood_name = map_world_lc_r1a_1;
 	transition_time = 10.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 20.0f;
@@ -7492,7 +7483,7 @@
 {
 	mood_name = map_world_lc_r1a_2;
 	transition_time = 10.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 20.0f;
@@ -7514,7 +7505,7 @@
 {
 	mood_name = map_world_lc_r1a_3;
 	transition_time = 5.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 20.0f;
@@ -7536,7 +7527,7 @@
 {
 	mood_name = map_world_gl_r1_1;
 	transition_time = 1.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 45.0f;
@@ -7558,7 +7549,7 @@
 {
 	mood_name = map_world_gl_r1_2;
 	transition_time = 10.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 45.0f;
@@ -7580,7 +7571,7 @@
 {
 	mood_name = map_world_gl_r1_3;
 	transition_time = 10.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 10.0f;
@@ -7602,7 +7593,7 @@
 {
 	mood_name = map_world_gl_r1_4;
 	transition_time = 5.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 10.0f;
@@ -7624,7 +7615,7 @@
 {
 	mood_name = map_world_gom2_1;
 	transition_time = 10.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -7646,7 +7637,7 @@
 {
 	mood_name = map_world_gom2_2;
 	transition_time = 2.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -7668,7 +7659,7 @@
 {
 	mood_name = map_world_gom2_3;
 	transition_time = 2.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 60.0f;
@@ -7690,7 +7681,7 @@
 {
 	mood_name = map_world_gom2_4;
 	transition_time = 2.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -7711,7 +7702,7 @@
 {
 	mood_name = map_world_gom2_5;
 	transition_time = 0.5f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 35.0f;
@@ -7733,7 +7724,7 @@
 {
 	mood_name = map_world_gom2_6;
 	transition_time = 2.0f;
-	interior = true;
+  b interior = true;
 	[fog]
 	{
 		fog_near_dist = 35.0f;

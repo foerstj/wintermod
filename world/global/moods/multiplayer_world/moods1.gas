@@ -14,7 +14,7 @@
 		fog_far_dist = 30.0f;
 		fog_lowdetail_near_dist = 20.0f;
 		fog_lowdetail_far_dist = 25.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -43,7 +43,7 @@
 		fog_far_dist = 30.0f;
 		fog_lowdetail_near_dist = 20.0f;
 		fog_lowdetail_far_dist = 25.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -72,7 +72,7 @@
 		fog_far_dist = 30.0f;
 		fog_lowdetail_near_dist = 20.0f;
 		fog_lowdetail_far_dist = 25.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -102,7 +102,7 @@
 		fog_far_dist = 30.0f;
 		fog_lowdetail_near_dist = 20.0f;
 		fog_lowdetail_far_dist = 25.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -132,7 +132,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF505050;
+	  x fog_color = 0xFF505050;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -166,7 +166,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF404040;
+	  x fog_color = 0xFF404040;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -204,7 +204,7 @@
 		fog_far_dist = 30.0f;
 		fog_lowdetail_near_dist = 20.0f;
 		fog_lowdetail_far_dist = 25.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -234,7 +234,7 @@
 		fog_far_dist = 30.0f;
 		fog_lowdetail_near_dist = 20.0f;
 		fog_lowdetail_far_dist = 25.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -264,7 +264,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -294,7 +294,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -324,7 +324,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -354,7 +354,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -384,7 +384,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF646464;
+	  x fog_color = 0xFF646464;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -413,7 +413,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 20.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF646464;
+	  x fog_color = 0xFF646464;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -442,7 +442,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF545464;
+	  x fog_color = 0xFF545464;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -475,7 +475,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF1e1e28;
+	  x fog_color = 0xFF1E1E28;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -504,7 +504,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF646464;
+	  x fog_color = 0xFF646464;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -533,7 +533,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF646464;
+	  x fog_color = 0xFF646464;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -557,7 +557,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 21.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFFB49363;
+	  x fog_color = 0xFFB49363;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -582,7 +582,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 35.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFFB49363;
+	  x fog_color = 0xFFB49363;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -607,7 +607,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 35.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFFB49363;
+	  x fog_color = 0xFFB49363;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -632,7 +632,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 35.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFFB49363;
+	  x fog_color = 0xFFB49363;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -662,7 +662,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF65656d;
+	  x fog_color = 0xFF65656D;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -692,7 +692,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF191921;
+	  x fog_color = 0xFF191921;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -722,7 +722,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF191921;
+	  x fog_color = 0xFF191921;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -752,7 +752,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF272731;
+	  x fog_color = 0xFF272731;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -791,7 +791,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -819,7 +819,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF111119;
+	  x fog_color = 0xFF111119;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -849,7 +849,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF111119;
+	  x fog_color = 0xFF111119;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -879,7 +879,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF847864;
+	  x fog_color = 0xFF847864;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -909,7 +909,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF748094;
+	  x fog_color = 0xFF748094;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -939,7 +939,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF949DB2;
+	  x fog_color = 0xFF949DB2;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -969,7 +969,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF949DB2;
+	  x fog_color = 0xFF949DB2;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -999,7 +999,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF748094;
+	  x fog_color = 0xFF748094;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -1029,7 +1029,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF847864;
+	  x fog_color = 0xFF847864;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -1059,7 +1059,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF948478;
+	  x fog_color = 0xFF948478;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -1089,7 +1089,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFF949DB2;
+	  x fog_color = 0xFF949DB2;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -1119,7 +1119,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFFb09070;
+	  x fog_color = 0xFFB09070;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -1149,7 +1149,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFFb09070;
+	  x fog_color = 0xFFB09070;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -1179,7 +1179,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xffa0a0b0;
+	  x fog_color = 0xFFA0A0B0;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -1209,7 +1209,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF949DB2;
+	  x fog_color = 0xFF949DB2;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -1239,7 +1239,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF949DB2;
+	  x fog_color = 0xFF949DB2;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -1269,7 +1269,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF32323b;
+	  x fog_color = 0xFF32323B;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -1308,7 +1308,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF32323b;
+	  x fog_color = 0xFF32323B;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -1347,7 +1347,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF32323b;
+	  x fog_color = 0xFF32323B;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -1382,7 +1382,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF363636;
+	  x fog_color = 0xFF363636;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -1416,7 +1416,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[music]
@@ -1438,7 +1438,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[music]
@@ -1516,7 +1516,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 5.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFFc0c0c8;
+	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -1606,7 +1606,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 5.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFFc0c0c8;
+	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -1696,7 +1696,7 @@
 		fog_far_dist = 55.0f;
 		fog_lowdetail_near_dist = 5.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFFc0c0c8;
+	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -1735,7 +1735,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 35.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -1765,7 +1765,7 @@
 		fog_far_dist = 55.0f;
 		fog_lowdetail_near_dist = 45.0f;
 		fog_lowdetail_far_dist = 50.0f;
-		fog_color = 0xFF200000;
+	  x fog_color = 0xFF200000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -1795,7 +1795,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 35.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -1825,7 +1825,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 35.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -1855,7 +1855,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 35.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -1885,7 +1885,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 10.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xff1e1e28;
+	  x fog_color = 0xFF1E1E28;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -1915,7 +1915,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 10.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xff1e1e28;
+	  x fog_color = 0xFF1E1E28;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -1945,7 +1945,7 @@
 		fog_far_dist = 55.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 50.0f;
-		fog_color = 0xff886850;
+	  x fog_color = 0xFF886850;
 		fog_density = 0.5f;
 	}
 	[music]
@@ -1971,7 +1971,7 @@
 		fog_far_dist = 55.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 50.0f;
-		fog_color = 0xff886850;
+	  x fog_color = 0xFF886850;
 		fog_density = 0.5f;
 	}
 	[wind]
@@ -2003,7 +2003,7 @@
 		fog_far_dist = 55.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 50.0f;
-		fog_color = 0xff886850;
+	  x fog_color = 0xFF886850;
 		fog_density = 0.5f;
 	}
 	[wind]
@@ -2035,7 +2035,7 @@
 		fog_far_dist = 55.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 50.0f;
-		fog_color = 0xff886850;
+	  x fog_color = 0xFF886850;
 		fog_density = 0.5f;
 	}
 	[wind]
@@ -2066,7 +2066,7 @@
 		fog_far_dist = 30.0f;
 		fog_lowdetail_near_dist = 20.0f;
 		fog_lowdetail_far_dist = 25.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[music]
@@ -2092,7 +2092,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[music]
@@ -2118,7 +2118,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 35.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -2148,7 +2148,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 35.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -2178,7 +2178,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF646464;
+	  x fog_color = 0xFF646464;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -2213,7 +2213,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF646464;
+	  x fog_color = 0xFF646464;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -2247,7 +2247,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 15.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF3e3e48;
+	  x fog_color = 0xFF3E3E48;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -2277,7 +2277,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 10.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xff1e1e28;
+	  x fog_color = 0xFF1E1E28;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -2307,7 +2307,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 35.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -2337,7 +2337,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 35.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -2367,7 +2367,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -2397,7 +2397,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -2427,7 +2427,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -2457,7 +2457,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -2487,7 +2487,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -2568,7 +2568,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -2598,7 +2598,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -2628,7 +2628,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -2658,7 +2658,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -2688,7 +2688,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -2718,7 +2718,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -2748,7 +2748,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -2778,7 +2778,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xff454545;
+	  x fog_color = 0xFF454545;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -2807,7 +2807,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xff454545;
+	  x fog_color = 0xFF454545;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -2836,7 +2836,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF454545;
+	  x fog_color = 0xFF454545;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -2865,7 +2865,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF3f3f3f;
+	  x fog_color = 0xFF3F3F3F;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -2894,7 +2894,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -2923,7 +2923,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF949DB2;
+	  x fog_color = 0xFF949DB2;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -2958,7 +2958,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF949DB2;
+	  x fog_color = 0xFF949DB2;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -2993,7 +2993,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xffa0a0b0;
+	  x fog_color = 0xFFA0A0B0;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -3028,7 +3028,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xffa3a3a8;
+	  x fog_color = 0xFFA3A3A8;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -3063,7 +3063,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xffa0a0b0;
+	  x fog_color = 0xFFA0A0B0;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -3098,7 +3098,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 20.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xffafaba5;
+	  x fog_color = 0xFFAFABA5;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -3133,7 +3133,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 20.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xffafaba5;
+	  x fog_color = 0xFFAFABA5;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -3168,7 +3168,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 20.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xffafaba5;
+	  x fog_color = 0xFFAFABA5;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -3203,7 +3203,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 20.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xffafaba5;
+	  x fog_color = 0xFFAFABA5;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -3238,7 +3238,7 @@
 		fog_far_dist = 55.0f;
 		fog_lowdetail_near_dist = 20.0f;
 		fog_lowdetail_far_dist = 50.0f;
-		fog_color = 0xFF3F1800;
+	  x fog_color = 0xFF3F1800;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -3268,7 +3268,7 @@
 		fog_far_dist = 55.0f;
 		fog_lowdetail_near_dist = 20.0f;
 		fog_lowdetail_far_dist = 50.0f;
-		fog_color = 0xFF4F2000;
+	  x fog_color = 0xFF4F2000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -3298,7 +3298,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 3.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFF2B1000;
+	  x fog_color = 0xFF2B1000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -3328,7 +3328,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -3358,7 +3358,7 @@
 		fog_far_dist = 30.0f;
 		fog_lowdetail_near_dist = 20.0f;
 		fog_lowdetail_far_dist = 25.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -3388,7 +3388,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 2.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF5F2800;
+	  x fog_color = 0xFF5F2800;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -3418,7 +3418,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 2.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF5F2800;
+	  x fog_color = 0xFF5F2800;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -3443,7 +3443,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[music]
@@ -3465,7 +3465,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[music]
@@ -3487,7 +3487,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[music]
@@ -3508,7 +3508,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[music]
@@ -3585,7 +3585,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF202028;
+	  x fog_color = 0xFF202028;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -3666,7 +3666,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF202028;
+	  x fog_color = 0xFF202028;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -3747,7 +3747,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF202028;
+	  x fog_color = 0xFF202028;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -3828,7 +3828,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF202028;
+	  x fog_color = 0xFF202028;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -3904,7 +3904,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -3979,7 +3979,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -4009,7 +4009,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 35.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF757585;
+	  x fog_color = 0xFF757585;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -4039,7 +4039,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF757585;
+	  x fog_color = 0xFF757585;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -4069,7 +4069,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 35.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF757585;
+	  x fog_color = 0xFF757585;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -4099,7 +4099,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 20.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF707080;
+	  x fog_color = 0xFF707080;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -4133,7 +4133,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 2.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF606063;
+	  x fog_color = 0xFF606063;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -4172,7 +4172,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 40.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF757584;
+	  x fog_color = 0xFF757584;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -4207,7 +4207,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -4237,7 +4237,7 @@
 		fog_far_dist = 21.0f;
 		fog_lowdetail_near_dist = 17.0f;
 		fog_lowdetail_far_dist = 21.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -4267,7 +4267,7 @@
 		fog_far_dist = 55.0f;
 		fog_lowdetail_near_dist = 40.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -4297,7 +4297,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 15.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xff32323f;
+	  x fog_color = 0xFF32323F;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -4336,7 +4336,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 15.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xff32323f;
+	  x fog_color = 0xFF32323F;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -4371,7 +4371,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 15.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xff393939;
+	  x fog_color = 0xFF393939;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -4406,7 +4406,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 15.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xff42424b;
+	  x fog_color = 0xFF42424B;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -4440,7 +4440,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 15.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xff3b3b3f;
+	  x fog_color = 0xFF3B3B3F;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -4479,7 +4479,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 15.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xff32323f;
+	  x fog_color = 0xFF32323F;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -4518,7 +4518,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 15.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xff24242b;
+	  x fog_color = 0xFF24242B;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -4557,7 +4557,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 15.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xff32323f;
+	  x fog_color = 0xFF32323F;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -4592,7 +4592,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 35.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -4622,7 +4622,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 35.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -4652,7 +4652,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 35.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -4682,7 +4682,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 35.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -4712,7 +4712,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 35.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -4742,7 +4742,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 35.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -4772,7 +4772,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 35.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -4802,7 +4802,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 35.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -4832,7 +4832,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 35.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -4862,7 +4862,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF436378;
+	  x fog_color = 0xFF436378;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -4892,7 +4892,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF586368;
+	  x fog_color = 0xFF586368;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -4922,7 +4922,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF436378;
+	  x fog_color = 0xFF436378;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -4952,7 +4952,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF436378;
+	  x fog_color = 0xFF436378;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -4982,7 +4982,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF586368;
+	  x fog_color = 0xFF586368;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -5012,7 +5012,7 @@
 		fog_far_dist = 60.0f;
 		fog_lowdetail_near_dist = 50.0f;
 		fog_lowdetail_far_dist = 55.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -5041,7 +5041,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -5070,7 +5070,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 20.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -5099,7 +5099,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xff886850;
+	  x fog_color = 0xFF886850;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -5129,7 +5129,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xff886850;
+	  x fog_color = 0xFF886850;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -5159,7 +5159,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 35.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -5189,7 +5189,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 5.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF646484;
+	  x fog_color = 0xFF646484;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -5224,7 +5224,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 20.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFF747484;
+	  x fog_color = 0xFF747484;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -5263,7 +5263,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 20.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFF505255;
+	  x fog_color = 0xFF505255;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -5302,7 +5302,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 20.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFF505255;
+	  x fog_color = 0xFF505255;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -5341,7 +5341,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 15.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFF303038;
+	  x fog_color = 0xFF303038;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -5380,7 +5380,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 15.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF646484;
+	  x fog_color = 0xFF646484;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -5415,7 +5415,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 5.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF646484;
+	  x fog_color = 0xFF646484;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -5450,7 +5450,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 15.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF646484;
+	  x fog_color = 0xFF646484;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -5485,7 +5485,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 5.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF646484;
+	  x fog_color = 0xFF646484;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -5520,7 +5520,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 20.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFF505255;
+	  x fog_color = 0xFF505255;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -5559,7 +5559,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xff262632;
+	  x fog_color = 0xFF262632;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -5594,7 +5594,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF242432;
+	  x fog_color = 0xFF242432;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -5629,7 +5629,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF343434;
+	  x fog_color = 0xFF343434;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -5659,7 +5659,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF303038;
+	  x fog_color = 0xFF303038;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -5689,7 +5689,7 @@
 		fog_far_dist = 58.0f;
 		fog_lowdetail_near_dist = 15.0f;
 		fog_lowdetail_far_dist = 53.0f;
-		fog_color = 0xFF34343b;
+	  x fog_color = 0xFF34343B;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -5719,7 +5719,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 35.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xff000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -5749,7 +5749,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFF202026;
+	  x fog_color = 0xFF202026;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -5779,7 +5779,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -5809,7 +5809,7 @@
 		fog_far_dist = 58.0f;
 		fog_lowdetail_near_dist = 15.0f;
 		fog_lowdetail_far_dist = 53.0f;
-		fog_color = 0xFF34343b;
+	  x fog_color = 0xFF34343B;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -5839,7 +5839,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 35.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -5869,7 +5869,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF646464;
+	  x fog_color = 0xFF646464;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -5898,7 +5898,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF545454;
+	  x fog_color = 0xFF545454;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -5937,7 +5937,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF646464;
+	  x fog_color = 0xFF646464;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -6017,7 +6017,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFFc0c0c8;
+	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -6107,7 +6107,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFFc0c0c8;
+	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -6193,7 +6193,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFFc0c0c8;
+	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -6283,7 +6283,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFFc0c0c8;
+	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -6373,7 +6373,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFFc0c0c8;
+	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -6463,7 +6463,7 @@
 		fog_far_dist = 30.0f;
 		fog_lowdetail_near_dist = 5.0f;
 		fog_lowdetail_far_dist = 25.0f;
-		fog_color = 0xFFc0c0c8;
+	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -6553,7 +6553,7 @@
 		fog_far_dist = 30.0f;
 		fog_lowdetail_near_dist = 5.0f;
 		fog_lowdetail_far_dist = 25.0f;
-		fog_color = 0xFFc0c0c8;
+	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -6592,7 +6592,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF685863;
+	  x fog_color = 0xFF685863;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -6626,7 +6626,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 20.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF686868;
+	  x fog_color = 0xFF686868;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -6665,7 +6665,7 @@
 		fog_far_dist = 30.0f;
 		fog_lowdetail_near_dist = 10.0f;
 		fog_lowdetail_far_dist = 25.0f;
-		fog_color = 0xFF434348;
+	  x fog_color = 0xFF434348;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -6704,7 +6704,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 20.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF646464;
+	  x fog_color = 0xFF646464;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -6734,7 +6734,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF685863;
+	  x fog_color = 0xFF685863;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -6819,7 +6819,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 20.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFFa8a8b8;
+	  x fog_color = 0xFFA8A8B8;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -6905,7 +6905,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 20.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFFa8a8b8;
+	  x fog_color = 0xFFA8A8B8;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -6995,7 +6995,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 20.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFFa8a8b8;
+	  x fog_color = 0xFFA8A8B8;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -7085,7 +7085,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 20.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFFa8a8b8;
+	  x fog_color = 0xFFA8A8B8;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -7124,7 +7124,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xff646464;
+	  x fog_color = 0xFF646464;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -7159,7 +7159,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF646870;
+	  x fog_color = 0xFF646870;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -7188,7 +7188,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF626262;
+	  x fog_color = 0xFF626262;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -7218,7 +7218,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF606064;
+	  x fog_color = 0xFF606064;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -7248,7 +7248,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 16.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF585860;
+	  x fog_color = 0xFF585860;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -7278,7 +7278,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 17.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF56565d;
+	  x fog_color = 0xFF56565D;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -7312,7 +7312,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 17.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF585860;
+	  x fog_color = 0xFF585860;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -7342,7 +7342,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF646464;
+	  x fog_color = 0xFF646464;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -7372,7 +7372,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -7402,7 +7402,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -7431,7 +7431,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -7511,7 +7511,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFFc0c0c8;
+	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -7596,7 +7596,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFFa8a8b0;
+	  x fog_color = 0xFFA8A8B0;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -7686,7 +7686,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFFa8a8b0;
+	  x fog_color = 0xFFA8A8B0;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -7771,7 +7771,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFFc0c0c8;
+	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -7856,7 +7856,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFFc0c0c8;
+	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -7941,7 +7941,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFFc0c0c8;
+	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -7975,7 +7975,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 10.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xff121926;
+	  x fog_color = 0xFF121926;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -8005,7 +8005,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 10.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xff122619;
+	  x fog_color = 0xFF122619;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -8035,7 +8035,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 10.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xff122619;
+	  x fog_color = 0xFF122619;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -8065,7 +8065,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 10.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xff122619;
+	  x fog_color = 0xFF122619;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -8146,7 +8146,7 @@
 		fog_far_dist = 30.0f;
 		fog_lowdetail_near_dist = 3.0f;
 		fog_lowdetail_far_dist = 25.0f;
-		fog_color = 0xFFc0c0c8;
+	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -8230,7 +8230,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFFc0c0c8;
+	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -8310,7 +8310,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 10.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFFc0c0c8;
+	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -8394,7 +8394,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 10.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFFc0c0c8;
+	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -8478,7 +8478,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 10.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFFc0c0c8;
+	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -8562,7 +8562,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFFc0c0c8;
+	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -8642,7 +8642,7 @@
 		fog_far_dist = 30.0f;
 		fog_lowdetail_near_dist = 3.0f;
 		fog_lowdetail_far_dist = 25.0f;
-		fog_color = 0xFFc0c0c8;
+	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -8726,7 +8726,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 10.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFFc0c0c8;
+	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -8810,7 +8810,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 10.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFFc0c0c8;
+	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -8894,7 +8894,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 10.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFFc0c0c8;
+	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -8974,7 +8974,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 10.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFFc0c0c8;
+	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -9058,7 +9058,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 10.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFFc0c0c8;
+	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -9142,7 +9142,7 @@
 		fog_far_dist = 30.0f;
 		fog_lowdetail_near_dist = 3.0f;
 		fog_lowdetail_far_dist = 25.0f;
-		fog_color = 0xFFc0c0c8;
+	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -9175,7 +9175,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 3.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFF202020;
+	  x fog_color = 0xFF202020;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -9205,7 +9205,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 3.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFF202020;
+	  x fog_color = 0xFF202020;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -9235,7 +9235,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 3.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFF202020;
+	  x fog_color = 0xFF202020;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -9265,7 +9265,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -9295,7 +9295,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -9325,7 +9325,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 10.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xff000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -9355,7 +9355,7 @@
 		fog_far_dist = 40.0f;
 		fog_lowdetail_near_dist = 10.0f;
 		fog_lowdetail_far_dist = 35.0f;
-		fog_color = 0xff121926;
+	  x fog_color = 0xFF121926;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -9385,7 +9385,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 5.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xFF00182F;
+	  x fog_color = 0xFF00182F;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -9415,7 +9415,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 10.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF121828;
+	  x fog_color = 0xFF121828;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -9445,7 +9445,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -9475,7 +9475,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -9505,7 +9505,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 10.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xff1e1e28;
+	  x fog_color = 0xFF1E1E28;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -9535,7 +9535,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 10.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xff1e1e28;
+	  x fog_color = 0xFF1E1E28;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -9565,7 +9565,7 @@
 		fog_far_dist = 45.0f;
 		fog_lowdetail_near_dist = 10.0f;
 		fog_lowdetail_far_dist = 40.0f;
-		fog_color = 0xff1e1e28;
+	  x fog_color = 0xFF1E1E28;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -9595,7 +9595,7 @@
 		fog_far_dist = 25.0f;
 		fog_lowdetail_near_dist = 15.0f;
 		fog_lowdetail_far_dist = 20.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -9623,7 +9623,7 @@
 		fog_far_dist = 25.0f;
 		fog_lowdetail_near_dist = 15.0f;
 		fog_lowdetail_far_dist = 20.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -9651,7 +9651,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF646464;
+	  x fog_color = 0xFF646464;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -9681,7 +9681,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF646464;
+	  x fog_color = 0xFF646464;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -9715,7 +9715,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF646464;
+	  x fog_color = 0xFF646464;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -9745,7 +9745,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-		fog_color = 0xFF646464;
+	  x fog_color = 0xFF646464;
 		fog_density = 0.5f;
 	}
 	[rain]
@@ -9775,7 +9775,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[music]
@@ -9797,7 +9797,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[music]
@@ -9819,7 +9819,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[music]
@@ -9841,7 +9841,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[music]
@@ -9863,7 +9863,7 @@
 		fog_far_dist = 35.0f;
 		fog_lowdetail_near_dist = 25.0f;
 		fog_lowdetail_far_dist = 30.0f;
-		fog_color = 0xFF000000;
+	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[music]

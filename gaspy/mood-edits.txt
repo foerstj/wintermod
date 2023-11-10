@@ -1,0 +1,5 @@
+fog:color:cold-outside
+rain2snow
+music:replace-ambience:s_e_ambient_rain1:
+music:standard-repeat-delay:s_m_BesiegedTown_02:10.0f
+music:standard-repeat-delay:s_m_CastleEhb_01:

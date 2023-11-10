@@ -8782,10 +8782,6 @@
 	  b lightning = false;
 	  f snow_density = 257.000000;
 	}
-	[snow]
-	{
-	  f snow_density = 243.000000;
-	}
 	[wind]
 	{
 	  f wind_direction = 0.500000;
@@ -9247,10 +9243,6 @@
 	[snow]
 	{
 	  b lightning = true;
-	  f snow_density = 100.000000;
-	}
-	[snow]
-	{
 	  f snow_density = 100.000000;
 	}
 	[wind]

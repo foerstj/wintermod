@@ -14,7 +14,7 @@
 	  f fog_far_dist = 50.000000;
 	  f fog_lowdetail_near_dist = 30.000000;
 	  f fog_lowdetail_far_dist = 45.000000;
-	  x fog_color = 0xFF80A080;
+	  x fog_color = 0xFF8080A0;
 	  f fog_density = 1.000000;
 	}
 	[wind]
@@ -87,10 +87,9 @@
 	  x fog_color = 0xFF86A496;
 	  f fog_density = 1.000000;
 	}
-	[rain]
+	[snow]
 	{
-	  f rain_density = 350.000000;
-	  b lightning = false;
+	  f snow_density = 350.000000;
 	}
 	[wind]
 	{
@@ -299,13 +298,12 @@
 	  f fog_far_dist = 45.000000;
 	  f fog_lowdetail_near_dist = 20.500000;
 	  f fog_lowdetail_far_dist = 40.000000;
-	  x fog_color = 0xFF000D00;
+	  x fog_color = 0xFF00000D;
 	  f fog_density = 50.000000;
 	}
-	[rain]
+	[snow]
 	{
-	  f rain_density = 400.000000;
-	  b lightning = true;
+	  f snow_density = 400.000000;
 	}
 	[music]
 	{
@@ -334,13 +332,12 @@
 	  f fog_far_dist = 45.000000;
 	  f fog_lowdetail_near_dist = 20.500000;
 	  f fog_lowdetail_far_dist = 40.000000;
-	  x fog_color = 0xFF000D00;
+	  x fog_color = 0xFF00000D;
 	  f fog_density = 50.000000;
 	}
-	[rain]
+	[snow]
 	{
-	  f rain_density = 400.000000;
-	  b lightning = true;
+	  f snow_density = 400.000000;
 	}
 	[music]
 	{
@@ -369,13 +366,12 @@
 	  f fog_far_dist = 50.000000;
 	  f fog_lowdetail_near_dist = 30.000000;
 	  f fog_lowdetail_far_dist = 45.000000;
-	  x fog_color = 0xFF1D2520;
+	  x fog_color = 0xFF1D2025;
 	  f fog_density = 1.000000;
 	}
-	[rain]
+	[snow]
 	{
-	  f rain_density = 600.000000;
-	  b lightning = true;
+	  f snow_density = 600.000000;
 	}
 	[music]
 	{
@@ -404,13 +400,12 @@
 	  f fog_far_dist = 50.000000;
 	  f fog_lowdetail_near_dist = 20.000000;
 	  f fog_lowdetail_far_dist = 45.000000;
-	  x fog_color = 0xFF002200;
+	  x fog_color = 0xFF000022;
 	  f fog_density = 1.000000;
 	}
-	[rain]
+	[snow]
 	{
-	  f rain_density = 500.000000;
-	  b lightning = false;
+	  f snow_density = 500.000000;
 	}
 	[wind]
 	{
@@ -447,10 +442,9 @@
 	  x fog_color = 0xFF515151;
 	  f fog_density = 0.000000;
 	}
-	[rain]
+	[snow]
 	{
-	  f rain_density = 600.000000;
-	  b lightning = false;
+	  f snow_density = 600.000000;
 	}
 	[music]
 	{

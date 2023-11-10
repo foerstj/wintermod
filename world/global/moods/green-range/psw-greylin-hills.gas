@@ -12,10 +12,9 @@
 	  x fog_color = 0xFF808080;
 	  f fog_density = 0.500000;
 	}
-	[rain]
+	[snow]
 	{
-	  f rain_density = 500.000000;
-	  b lightning = false;
+	  f snow_density = 500.000000;
 	}
 	[wind]
 	{
@@ -68,10 +67,9 @@
 	  x fog_color = 0xFF808080;
 	  f fog_density = 0.500000;
 	}
-	[rain]
+	[snow]
 	{
-	  f rain_density = 500.000000;
-	  b lightning = false;
+	  f snow_density = 500.000000;
 	}
 	[wind]
 	{
@@ -101,10 +99,9 @@
 	  x fog_color = 0xFF808080;
 	  f fog_density = 0.500000;
 	}
-	[rain]
+	[snow]
 	{
-	  f rain_density = 500.000000;
-	  b lightning = false;
+	  f snow_density = 500.000000;
 	}
 	[wind]
 	{
@@ -134,10 +131,9 @@
 	  x fog_color = 0xFF808080;
 	  f fog_density = 0.500000;
 	}
-	[rain]
+	[snow]
 	{
-	  f rain_density = 1000.000000;
-	  b lightning = false;
+	  f snow_density = 1000.000000;
 	}
 	[wind]
 	{
@@ -146,7 +142,7 @@
 	}
 	[music]
 	{
-		ambient_track = s_e_ambient_rain1;
+		ambient_track = ;
 	  f standard_intro_delay = 8.000000;
 	  f standard_repeat_delay = 16.000000;
 		standard_track = s_m_BesiegedTown_03;
@@ -167,10 +163,9 @@
 	  x fog_color = 0xFFA0A0A0;
 	  f fog_density = 0.500000;
 	}
-	[rain]
+	[snow]
 	{
-	  f rain_density = 1000.000000;
-	  b lightning = false;
+	  f snow_density = 1000.000000;
 	}
 	[wind]
 	{
@@ -179,7 +174,7 @@
 	}
 	[music]
 	{
-		ambient_track = s_e_ambient_rain1;
+		ambient_track = ;
 	  f standard_intro_delay = 8.000000;
 	  f standard_repeat_delay = 16.000000;
 		standard_track = s_m_BesiegedTown_03;
@@ -202,7 +197,7 @@
 	}
 	[music]
 	{
-		ambient_track = s_e_ambient_rain1;
+		ambient_track = ;
 	  f standard_intro_delay = 8.000000;
 	  f standard_repeat_delay = 16.000000;
 		standard_track = s_m_BesiegedTown_03;
@@ -223,10 +218,9 @@
 	  x fog_color = 0xFF808080;
 	  f fog_density = 0.500000;
 	}
-	[rain]
+	[snow]
 	{
-	  f rain_density = 500.000000;
-	  b lightning = false;
+	  f snow_density = 500.000000;
 	}
 	[wind]
 	{
@@ -256,10 +250,9 @@
 	  x fog_color = 0xFF808080;
 	  f fog_density = 0.500000;
 	}
-	[rain]
+	[snow]
 	{
-	  f rain_density = 500.000000;
-	  b lightning = false;
+	  f snow_density = 500.000000;
 	}
 	[wind]
 	{

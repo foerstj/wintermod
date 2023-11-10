@@ -44,7 +44,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-	  x fog_color = 0xFF786343;
+	  x fog_color = 0xFF436378;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -74,7 +74,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-	  x fog_color = 0xFF786343;
+	  x fog_color = 0xFF436378;
 		fog_density = 0.6f;
 	}
 	[rain]
@@ -104,7 +104,7 @@
 		fog_far_dist = 50.0f;
 		fog_lowdetail_near_dist = 30.0f;
 		fog_lowdetail_far_dist = 45.0f;
-	  x fog_color = 0xFF686358;
+	  x fog_color = 0xFF586368;
 		fog_density = 0.6f;
 	}
 	[rain]

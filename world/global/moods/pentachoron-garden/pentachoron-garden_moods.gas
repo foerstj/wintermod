@@ -89,7 +89,7 @@
 	  f ambient_repeat_delay = 0.000000;
 		ambient_track = s_e_ambient_bird2;
 	  f standard_intro_delay = 10.000000;
-	  f standard_repeat_delay = 20.000000;
+		standard_repeat_delay = 10.0f;
 		standard_track = s_m_besiegedtown_02;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
@@ -122,7 +122,7 @@
 	  f ambient_repeat_delay = 0.000000;
 		ambient_track = ;
 	  f standard_intro_delay = 10.000000;
-	  f standard_repeat_delay = 20.000000;
+		standard_repeat_delay = 10.0f;
 		standard_track = s_m_besiegedtown_02;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
@@ -204,7 +204,7 @@
 	  f fog_far_dist = 60.000000;
 	  f fog_lowdetail_near_dist = 20.000000;
 	  f fog_lowdetail_far_dist = 40.000000;
-	  x fog_color = 0xFF4F5944;
+	  x fog_color = 0xFF444F59;
 	  f fog_density = 1.000000;
 	}
 	[wind]
@@ -336,13 +336,12 @@
 	  f fog_far_dist = 60.000000;
 	  f fog_lowdetail_near_dist = 20.000000;
 	  f fog_lowdetail_far_dist = 40.000000;
-	  x fog_color = 0xFF4F5944;
+	  x fog_color = 0xFF444F59;
 	  f fog_density = 1.000000;
 	}
-	[rain]
+	[snow]
 	{
-	  f rain_density = 500.000000;
-	  b lightning = true;
+	  f snow_density = 500.000000;
 	}
 	[wind]
 	{
@@ -440,7 +439,7 @@
 	  f fog_far_dist = 60.000000;
 	  f fog_lowdetail_near_dist = 20.000000;
 	  f fog_lowdetail_far_dist = 40.000000;
-	  x fog_color = 0xFF4F5944;
+	  x fog_color = 0xFF444F59;
 	  f fog_density = 1.000000;
 	}
 	[wind]
@@ -473,13 +472,12 @@
 	  f fog_far_dist = 60.000000;
 	  f fog_lowdetail_near_dist = 20.000000;
 	  f fog_lowdetail_far_dist = 40.000000;
-	  x fog_color = 0xFF4F5944;
+	  x fog_color = 0xFF444F59;
 	  f fog_density = 1.000000;
 	}
-	[rain]
+	[snow]
 	{
-	  f rain_density = 100.000000;
-	  b lightning = false;
+	  f snow_density = 100.000000;
 	}
 	[wind]
 	{
@@ -511,7 +509,7 @@
 	  f fog_far_dist = 60.000000;
 	  f fog_lowdetail_near_dist = 20.000000;
 	  f fog_lowdetail_far_dist = 40.000000;
-	  x fog_color = 0xFF4F5944;
+	  x fog_color = 0xFF444F59;
 	  f fog_density = 1.000000;
 	}
 	[wind]
@@ -544,13 +542,12 @@
 	  f fog_far_dist = 60.000000;
 	  f fog_lowdetail_near_dist = 20.000000;
 	  f fog_lowdetail_far_dist = 40.000000;
-	  x fog_color = 0xFF4F5944;
+	  x fog_color = 0xFF444F59;
 	  f fog_density = 1.000000;
 	}
-	[rain]
+	[snow]
 	{
-	  f rain_density = 100.000000;
-	  b lightning = false;
+	  f snow_density = 100.000000;
 	}
 	[wind]
 	{
@@ -582,7 +579,7 @@
 	  f fog_far_dist = 60.000000;
 	  f fog_lowdetail_near_dist = 20.000000;
 	  f fog_lowdetail_far_dist = 40.000000;
-	  x fog_color = 0xFF4F5944;
+	  x fog_color = 0xFF444F59;
 	  f fog_density = 1.000000;
 	}
 	[wind]
@@ -615,13 +612,12 @@
 	  f fog_far_dist = 60.000000;
 	  f fog_lowdetail_near_dist = 20.000000;
 	  f fog_lowdetail_far_dist = 40.000000;
-	  x fog_color = 0xFF4F5944;
+	  x fog_color = 0xFF444F59;
 	  f fog_density = 1.000000;
 	}
-	[rain]
+	[snow]
 	{
-	  f rain_density = 100.000000;
-	  b lightning = false;
+	  f snow_density = 100.000000;
 	}
 	[wind]
 	{
@@ -756,7 +752,7 @@
 	  f fog_far_dist = 60.000000;
 	  f fog_lowdetail_near_dist = 20.000000;
 	  f fog_lowdetail_far_dist = 40.000000;
-	  x fog_color = 0xFF4F5944;
+	  x fog_color = 0xFF444F59;
 	  f fog_density = 1.000000;
 	}
 	[wind]
@@ -822,7 +818,7 @@
 	  f fog_far_dist = 60.000000;
 	  f fog_lowdetail_near_dist = 20.000000;
 	  f fog_lowdetail_far_dist = 40.000000;
-	  x fog_color = 0xFF4F5944;
+	  x fog_color = 0xFF444F59;
 	  f fog_density = 1.000000;
 	}
 	[wind]
@@ -888,7 +884,7 @@
 	  f fog_far_dist = 60.000000;
 	  f fog_lowdetail_near_dist = 20.000000;
 	  f fog_lowdetail_far_dist = 40.000000;
-	  x fog_color = 0xFF4F5944;
+	  x fog_color = 0xFF444F59;
 	  f fog_density = 1.000000;
 	}
 	[wind]
@@ -991,13 +987,12 @@
 	  f fog_far_dist = 60.000000;
 	  f fog_lowdetail_near_dist = 20.000000;
 	  f fog_lowdetail_far_dist = 40.000000;
-	  x fog_color = 0xFF4F5944;
+	  x fog_color = 0xFF444F59;
 	  f fog_density = 1.000000;
 	}
-	[rain]
+	[snow]
 	{
-	  f rain_density = 100.000000;
-	  b lightning = false;
+	  f snow_density = 100.000000;
 	}
 	[wind]
 	{

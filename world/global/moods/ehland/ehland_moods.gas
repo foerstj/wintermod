@@ -88,10 +88,9 @@
 	  x fog_color = 0xFF96A5B4;
 	  f fog_density = 1.000000;
 	}
-	[rain]
+	[snow]
 	{
-	  f rain_density = 50.000000;
-	  b lightning = false;
+	  f snow_density = 50.000000;
 	}
 	[wind]
 	{
@@ -126,10 +125,9 @@
 	  x fog_color = 0xFF3C3C3C;
 	  f fog_density = 1.000000;
 	}
-	[rain]
+	[snow]
 	{
-	  f rain_density = 100.000000;
-	  b lightning = false;
+	  f snow_density = 100.000000;
 	}
 	[wind]
 	{
@@ -164,10 +162,9 @@
 	  x fog_color = 0xFF96A5B4;
 	  f fog_density = 1.000000;
 	}
-	[rain]
+	[snow]
 	{
-	  f rain_density = 50.000000;
-	  b lightning = false;
+	  f snow_density = 50.000000;
 	}
 	[wind]
 	{
@@ -263,10 +260,9 @@
 	  x fog_color = 0xFFC8E6FF;
 	  f fog_density = 1.000000;
 	}
-	[rain]
+	[snow]
 	{
-	  f rain_density = 25.000000;
-	  b lightning = true;
+	  f snow_density = 25.000000;
 	}
 	[wind]
 	{

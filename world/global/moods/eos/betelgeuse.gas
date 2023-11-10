@@ -65,7 +65,7 @@
 	  f fog_far_dist = 60.000000;
 	  f fog_lowdetail_near_dist = 20.000000;
 	  f fog_lowdetail_far_dist = 40.000000;
-	  x fog_color = 0xFFE0A0E0;
+	  x fog_color = 0xFFA0E0E0;
 	  f fog_density = 0.500000;
 	}
 	[music]
@@ -146,7 +146,7 @@
 	  f fog_far_dist = 60.000000;
 	  f fog_lowdetail_near_dist = 20.000000;
 	  f fog_lowdetail_far_dist = 40.000000;
-	  x fog_color = 0xFFE0A0E0;
+	  x fog_color = 0xFFA0E0E0;
 	  f fog_density = 0.500000;
 	}
 	[music]
@@ -227,7 +227,7 @@
 	  f fog_far_dist = 60.000000;
 	  f fog_lowdetail_near_dist = 20.000000;
 	  f fog_lowdetail_far_dist = 40.000000;
-	  x fog_color = 0xFFE0A0E0;
+	  x fog_color = 0xFFA0E0E0;
 	  f fog_density = 0.500000;
 	}
 	[music]
@@ -308,7 +308,7 @@
 	  f fog_far_dist = 60.000000;
 	  f fog_lowdetail_near_dist = 20.000000;
 	  f fog_lowdetail_far_dist = 40.000000;
-	  x fog_color = 0xFFE0A0E0;
+	  x fog_color = 0xFFA0E0E0;
 	  f fog_density = 0.500000;
 	}
 	[wind]
@@ -394,7 +394,7 @@
 	  f fog_far_dist = 60.000000;
 	  f fog_lowdetail_near_dist = 20.000000;
 	  f fog_lowdetail_far_dist = 40.000000;
-	  x fog_color = 0xFFE0A0E0;
+	  x fog_color = 0xFFA0E0E0;
 	  f fog_density = 0.500000;
 	}
 	[wind]
@@ -559,7 +559,7 @@
 	  f fog_far_dist = 60.000000;
 	  f fog_lowdetail_near_dist = 20.000000;
 	  f fog_lowdetail_far_dist = 40.000000;
-	  x fog_color = 0xFFE0A0E0;
+	  x fog_color = 0xFFA0E0E0;
 	  f fog_density = 0.600000;
 	}
 	[wind]
@@ -645,7 +645,7 @@
 	  f fog_far_dist = 60.000000;
 	  f fog_lowdetail_near_dist = 20.000000;
 	  f fog_lowdetail_far_dist = 40.000000;
-	  x fog_color = 0xFFE0A0E0;
+	  x fog_color = 0xFFA0E0E0;
 	  f fog_density = 0.500000;
 	}
 	[music]
@@ -726,7 +726,7 @@
 	  f fog_far_dist = 60.000000;
 	  f fog_lowdetail_near_dist = 20.000000;
 	  f fog_lowdetail_far_dist = 40.000000;
-	  x fog_color = 0xFFE0A0E0;
+	  x fog_color = 0xFFA0E0E0;
 	  f fog_density = 0.500000;
 	}
 	[music]
@@ -807,7 +807,7 @@
 	  f fog_far_dist = 60.000000;
 	  f fog_lowdetail_near_dist = 20.000000;
 	  f fog_lowdetail_far_dist = 40.000000;
-	  x fog_color = 0xFFD090D0;
+	  x fog_color = 0xFF90D0D0;
 	  f fog_density = 0.500000;
 	}
 	[music]
@@ -888,7 +888,7 @@
 	  f fog_far_dist = 60.000000;
 	  f fog_lowdetail_near_dist = 20.000000;
 	  f fog_lowdetail_far_dist = 40.000000;
-	  x fog_color = 0xFFD090D0;
+	  x fog_color = 0xFF90D0D0;
 	  f fog_density = 0.500000;
 	}
 	[music]
@@ -969,13 +969,12 @@
 	  f fog_far_dist = 60.000000;
 	  f fog_lowdetail_near_dist = 20.000000;
 	  f fog_lowdetail_far_dist = 40.000000;
-	  x fog_color = 0xFFD090D0;
+	  x fog_color = 0xFF90D0D0;
 	  f fog_density = 0.500000;
 	}
-	[rain]
+	[snow]
 	{
-	  f rain_density = 100.000000;
-	  b lightning = false;
+	  f snow_density = 100.000000;
 	}
 	[music]
 	{
@@ -1055,13 +1054,12 @@
 	  f fog_far_dist = 60.000000;
 	  f fog_lowdetail_near_dist = 20.000000;
 	  f fog_lowdetail_far_dist = 40.000000;
-	  x fog_color = 0xFFD090D0;
+	  x fog_color = 0xFF90D0D0;
 	  f fog_density = 0.500000;
 	}
-	[rain]
+	[snow]
 	{
-	  f rain_density = 100.000000;
-	  b lightning = false;
+	  f snow_density = 100.000000;
 	}
 	[music]
 	{
@@ -1141,13 +1139,12 @@
 	  f fog_far_dist = 60.000000;
 	  f fog_lowdetail_near_dist = 20.000000;
 	  f fog_lowdetail_far_dist = 40.000000;
-	  x fog_color = 0xFFD090D0;
+	  x fog_color = 0xFF90D0D0;
 	  f fog_density = 0.500000;
 	}
-	[rain]
+	[snow]
 	{
-	  f rain_density = 200.000000;
-	  b lightning = false;
+	  f snow_density = 200.000000;
 	}
 	[music]
 	{
@@ -1227,13 +1224,12 @@
 	  f fog_far_dist = 60.000000;
 	  f fog_lowdetail_near_dist = 20.000000;
 	  f fog_lowdetail_far_dist = 40.000000;
-	  x fog_color = 0xFFD090D0;
+	  x fog_color = 0xFF90D0D0;
 	  f fog_density = 0.500000;
 	}
-	[rain]
+	[snow]
 	{
-	  f rain_density = 100.000000;
-	  b lightning = false;
+	  f snow_density = 100.000000;
 	}
 	[music]
 	{
@@ -1313,19 +1309,18 @@
 	  f fog_far_dist = 60.000000;
 	  f fog_lowdetail_near_dist = 20.000000;
 	  f fog_lowdetail_far_dist = 40.000000;
-	  x fog_color = 0xFFD090D0;
+	  x fog_color = 0xFF90D0D0;
 	  f fog_density = 0.500000;
 	}
-	[rain]
+	[snow]
 	{
-	  f rain_density = 500.000000;
-	  b lightning = true;
+	  f snow_density = 500.000000;
 	}
 	[music]
 	{
 	  f ambient_intro_delay = 0.000000;
 	  f ambient_repeat_delay = 0.000000;
-		ambient_track = "s_e_ambient_rain1";
+		ambient_track = ;
 	  f standard_intro_delay = 10.000000;
 	  f standard_repeat_delay = 10.000000;
 		standard_track = "s_m_waterdungeon_02";

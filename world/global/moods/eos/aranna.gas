@@ -45,10 +45,9 @@
 	  x fog_color = 0xFF606063;
 		fog_density = 0.5f;
 	}
-	[rain]
+	[snow]
 	{
-	  f rain_density = 400.000000;
-	  b lightning = true;
+	  f snow_density = 400.000000;
 	}
 	[wind]
 	{
@@ -111,10 +110,9 @@
 	  x fog_color = 0xFF707080;
 		fog_density = 0.5f;
 	}
-	[rain]
+	[snow]
 	{
-	  f rain_density = 75.000000;
-	  b lightning = false;
+	  f snow_density = 75.000000;
 	}
 	[music]
 	{
@@ -144,10 +142,9 @@
 	  x fog_color = 0xFF606063;
 		fog_density = 0.5f;
 	}
-	[rain]
+	[snow]
 	{
-	  f rain_density = 400.000000;
-	  b lightning = true;
+	  f snow_density = 400.000000;
 	}
 	[wind]
 	{

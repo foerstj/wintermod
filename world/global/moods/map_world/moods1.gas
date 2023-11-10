@@ -6992,6 +6992,7 @@
 	[music]
 	{
 		ambient_track = "";
+		standard_repeat_delay = ;
 		standard_track = "s_m_CastleEhb_01";
 		room_type = rt_generic;
 	}
@@ -7013,6 +7014,7 @@
 	[music]
 	{
 		ambient_track = "";
+		standard_repeat_delay = ;
 		standard_track = "s_m_CastleEhb_01";
 		room_type = rt_cave;
 	}

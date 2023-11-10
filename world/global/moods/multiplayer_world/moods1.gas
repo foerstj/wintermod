@@ -5203,7 +5203,7 @@
 	[music]
 	{
 		ambient_track = "";
-		standard_repeat_delay = 5.0f;
+		standard_repeat_delay = 10.0f;
 		standard_track = "s_m_BesiegedTown_02";
 		room_type = rt_generic;
 	}
@@ -5394,7 +5394,7 @@
 	[music]
 	{
 		ambient_track = "s_e_env_tavern";
-		standard_repeat_delay = 5.0f;
+		standard_repeat_delay = 10.0f;
 		standard_track = "s_m_BesiegedTown_02";
 		room_type = rt_generic;
 	}
@@ -5429,7 +5429,7 @@
 	[music]
 	{
 		ambient_track = "";
-		standard_repeat_delay = 5.0f;
+		standard_repeat_delay = 10.0f;
 		standard_track = "s_m_BesiegedTown_02";
 		room_type = rt_generic;
 	}
@@ -5464,7 +5464,7 @@
 	[music]
 	{
 		ambient_track = "";
-		standard_repeat_delay = 5.0f;
+		standard_repeat_delay = 10.0f;
 		standard_track = "s_m_BesiegedTown_02";
 		room_type = rt_generic;
 	}

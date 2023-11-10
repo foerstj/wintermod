@@ -8714,6 +8714,11 @@
 	  x fog_color = 0xFF666666;
 	  f fog_density = 1.000000;
 	}
+	[rain]
+	{
+	  f rain_density = 243.000000;
+	  b lightning = false;
+	}
 	[snow]
 	{
 	  f snow_density = 257.000000;
@@ -9173,6 +9178,11 @@
 	  f fog_lowdetail_far_dist = 35.000000;
 	  x fog_color = 0xFF000000;
 	  f fog_density = 1.000000;
+	}
+	[rain]
+	{
+	  f rain_density = 100.000000;
+	  b lightning = true;
 	}
 	[snow]
 	{

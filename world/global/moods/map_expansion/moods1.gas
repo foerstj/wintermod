@@ -3045,7 +3045,7 @@
 	{
 	  f ambient_intro_delay = 3.000000;
 	  f ambient_repeat_delay = 0.000000;
-		ambient_track = s_e_ambient_rain1;
+		ambient_track = ;
 	  f standard_intro_delay = 0.000000;
 	  f standard_repeat_delay = 0.000000;
 		standard_track = s_m_tropicalbeach_01;
@@ -4053,7 +4053,7 @@
 	{
 	  f ambient_intro_delay = 0.000000;
 	  f ambient_repeat_delay = 0.000000;
-		ambient_track = s_e_ambient_rain1;
+		ambient_track = ;
 	  f standard_intro_delay = 0.000000;
 	  f standard_repeat_delay = 12.000000;
 		standard_track = s_m_light_jungle_theme;

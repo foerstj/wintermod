@@ -90,7 +90,7 @@
 	}
 	[snow]
 	{
-	  f snow_density = 50.000000;
+	  f snow_density = 100.000000;
 	}
 	[wind]
 	{
@@ -127,7 +127,7 @@
 	}
 	[snow]
 	{
-	  f snow_density = 100.000000;
+	  f snow_density = 200.000000;
 	}
 	[wind]
 	{
@@ -164,7 +164,7 @@
 	}
 	[snow]
 	{
-	  f snow_density = 50.000000;
+	  f snow_density = 100.000000;
 	}
 	[wind]
 	{
@@ -262,7 +262,7 @@
 	}
 	[snow]
 	{
-	  f snow_density = 25.000000;
+	  f snow_density = 50.000000;
 	}
 	[wind]
 	{

@@ -12,8 +12,10 @@ Wintermod works by:
 
 This mod is build to work together with my Christmas mod. If you use both mods, Christmas trees will stand in various locations such as the Farmhouse, Stonebridge, Glacern, or around Castle Ehb.
 
-## Compatibility
-This mod is NOT compatible with SeeFar (mood definition conflict) or Hi-Res Textures (textures conflict). Other mods were not tested.
+## Installation & Compatibility
+- This mod is NOT compatible with SeeFar (mood definition conflict) or Hi-Res Textures (textures conflict). Other mods were not tested.
+- Wintermod supports the maps of all original DS1 releases (to a certain degree). It also supports my own maps (to a lesser degree; e.g. rain is replaced with snow also here).
+- Since custom maps (including my own) are created with "user" priority, and DS reads dsres files alphabetically, the modifications done by "Wintermod.dsres" can be overwritten by earlier resource files like "Green Range.dsres". I recommend renaming to e.g. "Da Wintermod.dsres" to fit neatly between "Christmas.dsres" and custom map resource files.
 
 ## Attribution
 - Polar Ursae texture from Eksevis / Halloween Mod.

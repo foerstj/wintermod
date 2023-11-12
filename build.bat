@@ -16,7 +16,7 @@ rmdir /S /Q "%tmp%\Bits"
 robocopy "%doc_dsloa%\Bits\art" "%tmp%\Bits\art" /E /xf .gitignore /xf *.psd /xf dir.lqd20
 robocopy "%doc_dsloa%\Bits\world\contentdb" "%tmp%\Bits\world\contentdb" /E
 robocopy "%doc_dsloa%\Bits\world\global\moods" "%tmp%\Bits\world\global\moods" /E
-%tc%\RTC.exe -source "%tmp%\Bits" -out "%ds%\Resources\%mod%.dsres" -copyright "CC-BY-SA 2023" -title "Wintermod" -author "Johannes Förstner"
+%tc%\RTC.exe -source "%tmp%\Bits" -out "%ds%\DSLOA\%mod%.dsres" -copyright "CC-BY-SA 2023" -title "Wintermod" -author "Johannes Förstner"
 if %errorlevel% neq 0 pause
 
 :: Cleanup

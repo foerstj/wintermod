@@ -1,8 +1,9 @@
 # Wintermod
 A mod that brings winter to the world of Dungeon Siege.
 
+## About
 Aim is to convert resources of grass and pine forest environments to snow.\
-Focus is on (the beginning of) the Kingdom of Ehb campaign. Utraean Peninsula has less prio, LoA/R2A/Yesterhaven maps even less. Certain biomes like the dry-grass and jungle regions were given up on.
+First priority is on (the beginning of) the Kingdom of Ehb campaign. Utraean Peninsula has less prio, LoA/R2A/Yesterhaven maps even less. Certain biomes like the dry-grass and jungle regions were given up on.
 
 Wintermod works by:
 - Overriding terrain textures, e.g. grass -> snow, pine/sequoia-forest -> ice-caves. Some textures only had to be copied, others had to be GIMPed.
@@ -13,6 +14,7 @@ Wintermod works by:
 This mod is build to work together with my Christmas mod. If you use both mods, Christmas trees will stand in various locations such as the Farmhouse, Stonebridge, Glacern, or around Castle Ehb.
 
 ## Installation & Compatibility
+- This mod is made for LoA, but should work fine with Vanilla as well.
 - This mod is NOT compatible with SeeFar (mood definition conflict) or Hi-Res Textures (textures conflict). Other mods were not tested.
 - Wintermod supports the maps of all original DS1 releases (to a certain degree). It also supports my own maps (to a lesser degree; e.g. rain is replaced with snow also here).
 - Since custom maps (including my own) are created with "user" priority, and DS reads dsres files alphabetically, the modifications done by "Wintermod.dsres" can be overwritten by earlier resource files like "Green Range.dsres". I recommend renaming to e.g. "Da Wintermod.dsres" to fit neatly between "Christmas.dsres" and custom map resource files.

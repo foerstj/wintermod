@@ -1,6 +1,8 @@
 *.psd
-/world/maps
+
 *.exe
 **/*.bat
+
 dir.lqd20
+
 git-ignore

@@ -1,0 +1,36 @@
+[node_mesh_index]
+{
+	0x00400148 = t_cry01_cave-exit-front-top;
+	0x00400149 = t_cry01_cave-exit-front;
+	0x0040014c = t_cry01_portal-ground-a;
+	0x0040018c = t_dc01_dunes-32x32-water-a;
+	0x00400448 = t_dm01_front-gate-a-top;
+	0x00400449 = t_dm01_front-gate-a;
+	0x0040044a = t_dm01_front-gate-b-top;
+	0x0040044b = t_dm01_front-gate-b;
+	0x0040044e = t_dm01_mine-entry-a;
+	0x00400453 = t_dm01_mine-entry-front-base;
+	0x00400454 = t_dm01_mine-entry-front-sides;
+	0x00400455 = t_dm01_mine-entry-front-top;
+	0x00400478 = t_for01_flr-tx-grs01-04x04-b;
+	0x00400479 = t_for01_flr-tx-grs01-04x04-c;
+	0x0040047a = t_for01_flr-tx-grs01-04x04-e;
+	0x0040047b = t_for01_flr-tx-grs01-08x04-c;
+	0x0040047c = t_for01_flr-tx-grs01-08x04-d;
+	0x0040047d = t_for01_flr-tx-grs01-08x04-e;
+	0x0040047e = t_for01_flr-tx-grs01-08x04-f;
+	0x00400493 = t_for01_stump-a;
+	0x004004a8 = t_fd01_entrance-7;
+	0x004006a5 = t_xxx_flr_04x04-v0;
+	0x004006a6 = t_xxx_flr_04x04-v1;
+	0x004006a7 = t_xxx_flr_04x04-v2;
+	0x004006a8 = t_xxx_flr_04x04-v3;
+	0x004006a9 = t_xxx_flr_04x08-v0;
+	0x004006aa = t_xxx_flr_08x08-v0;
+	0x004006ab = t_xxx_flr_08x08-v1;
+	0x004006ac = t_xxx_flr_08x08-v2;
+	0x004006ad = t_xxx_flr_08x08-v3;
+	0x00400702 = t_xxx_for_tx-wal-12-l;
+	0x00400703 = t_xxx_for_tx-wal-12-r;
+	0x00400707 = t_xxx_for_wal-cnr-convex-a;
+}

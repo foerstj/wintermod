@@ -1,0 +1,175 @@
+[t:bush_grs_rhod_01,n:0x00300000]
+{
+	[placement]
+	{
+	  p position = -2.00721,0,-2.70825,0x6f4b6d86;
+	}
+}
+[t:bush_grs_button_02,n:0x00300001]
+{
+	[placement]
+	{
+	  p position = 1.17216,0,-2.47537,0x6f4b6d86;
+	}
+}
+[t:mushroom_glb_01,n:0x00300003]
+{
+	[placement]
+	{
+	  p position = -2.22651,0,0.897043,0x6f4b6d86;
+	}
+}
+[t:mushroom_glb_02,n:0x00300004]
+{
+	[placement]
+	{
+	  p position = -1.96164,4.76837e-007,0.815942,0x6f4b6d86;
+	}
+}
+[t:mushroom_glb_03,n:0x00300005]
+{
+	[placement]
+	{
+	  p position = -1.613,0,0.854353,0x6f4b6d86;
+	}
+}
+[t:mushroom_glb_04,n:0x00300006]
+{
+	[placement]
+	{
+	  p position = -1.29321,0,0.754828,0x6f4b6d86;
+	}
+}
+[t:mushroom_glb_05,n:0x00300007]
+{
+	[placement]
+	{
+	  p position = -1.0243,0,0.852885,0x6f4b6d86;
+	}
+}
+[t:mushroom_glb_06,n:0x00300008]
+{
+	[placement]
+	{
+	  p position = -0.589302,-4.76837e-007,0.766572,0x6f4b6d86;
+	}
+}
+[t:mushroom_glb_07,n:0x00300009]
+{
+	[placement]
+	{
+	  p position = 0.0881604,0,0.738043,0x6f4b6d86;
+	}
+}
+[t:mushroom_glb_08,n:0x0030000a]
+{
+	[placement]
+	{
+	  p position = 0.669021,0,0.687697,0x6f4b6d86;
+	}
+}
+[t:mushroom_glb_09,n:0x0030000b]
+{
+	[placement]
+	{
+	  p position = 1.2957,-4.76837e-007,0.734531,0x6f4b6d86;
+	}
+}
+[t:mushroom_glb_10,n:0x0030000c]
+{
+	[placement]
+	{
+	  p position = 1.92858,0,0.860487,0x6f4b6d86;
+	}
+}
+[t:tree_glb_pine_sequoia_01,n:0x0030000d]
+{
+	[placement]
+	{
+	  p position = 3.01617,0,0.811528,0x6e62f772;
+	}
+}
+[t:tree_glb_sway_03,n:0x0030000e]
+{
+	[placement]
+	{
+	  p position = -3.78826,0,2.67517,0x6719444f;
+	}
+}
+[t:tree_grs_deciduous_sway_01,n:0x00300014]
+{
+	[placement]
+	{
+	  p position = 1.9695,0,-0.95461,0x3d40ab32;
+	}
+}
+[t:tree_grs_limb,n:0x00300015]
+{
+	[placement]
+	{
+	  p position = 0.931817,0,2.8186,0xae1d3f33;
+	}
+}
+[t:tree_grs_oldgrowth_01,n:0x00300016]
+{
+	[placement]
+	{
+	  p position = -3.65805,0,2.73825,0x6f4b6d86;
+	}
+}
+[t:tree_grs_oldgrowth_02,n:0x00300017]
+{
+	[placement]
+	{
+	  p position = 0.555837,0,3.99541,0x6f4b6d86;
+	}
+}
+[t:tree_grs_apple_01,n:0x00300018]
+{
+	[placement]
+	{
+	  p position = -1.84567,0,-0.572444,0xae1d3f33;
+	}
+}
+[t:tree_grs_pine_group_01,n:0x00300019]
+{
+	[placement]
+	{
+	  p position = 0.95592,-1.90735e-006,-2.77651,0xa4d5e006;
+	}
+}
+[t:tree_grs_pine_trunk_03,n:0x0030001a]
+{
+	[placement]
+	{
+	  p position = -1.13122,1.90735e-006,-2.00871,0x5fc54076;
+	}
+}
+[t:bush_grs_03,n:0x0030001b]
+{
+	[placement]
+	{
+	  p position = -3.8594,0,-0.968649,0x1fd87fb7;
+	}
+}
+[t:foliage_grs_01,n:0x0030001c]
+{
+	[placement]
+	{
+	  p position = 1.59212,1.90735e-006,1.33814,0x5fc54076;
+	}
+}
+[t:tree_grs_deciduous_13,n:0x0030001d]
+{
+	[placement]
+	{
+	  p position = 1.48299,0,2.13752,0xa4d5e006;
+	}
+}
+[t:tree_grs_maple_burgandy_05,n:0x0030001e]
+{
+	[placement]
+	{
+	  p position = -1.58632,1.90735e-006,2.95469,0xa4d5e006;
+	}
+}

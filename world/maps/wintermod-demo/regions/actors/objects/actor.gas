@@ -1,0 +1,25 @@
+[t:dsx_ursae_demonic,n:0x00100000]
+{
+	[placement]
+	{
+	  p position = -2.65627,9.53674e-007,-2.62596,0x69e4a2a6;
+	}
+}
+[t:moth,n:0x00100001]
+{
+	[placement]
+	{
+	  p position = -0.630952,0,-2.85513,0x69e4a2a6;
+	}
+}
+[t:butterfly,n:0x00100002]
+{
+	[mind]
+	{
+	  b on_enemy_entered_weapon_engage_range_attack = true;
+	}
+	[placement]
+	{
+	  p position = 1.32922,0,-2.99548,0x69e4a2a6;
+	}
+}

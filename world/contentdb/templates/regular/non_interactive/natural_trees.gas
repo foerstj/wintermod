@@ -322,30 +322,30 @@
     specializes = tree_ice_dead_01_base;
     [aspect] { scale_base = 0.7; }
 }
-[t:template,n:tree_grs_deciduous_01] { specializes = bush_grs_rhod_02_base; }
-[t:template,n:tree_grs_deciduous_02] { specializes = bush_grs_rhod_02_base; }
-[t:template,n:tree_grs_deciduous_03] { specializes = bush_grs_rhod_02_base; }
-[t:template,n:tree_grs_deciduous_04] { specializes = bush_grs_rhod_02_base; }
-[t:template,n:tree_grs_deciduous_05] { specializes = bush_grs_rhod_01_base; }
-[t:template,n:tree_grs_deciduous_06] { specializes = bush_grs_rhod_01_base; }
-[t:template,n:tree_grs_deciduous_07] { specializes = bush_grs_rhod_01_base; }
-[t:template,n:tree_grs_deciduous_08] { specializes = bush_grs_rhod_01_base; }
-[t:template,n:tree_grs_deciduous_09] { specializes = bush_grs_rhod_03_base; }
-[t:template,n:tree_grs_deciduous_10] { specializes = bush_grs_rhod_03_base; }
-[t:template,n:tree_grs_deciduous_11] { specializes = bush_grs_rhod_03_base; }
-[t:template,n:tree_grs_deciduous_12] { specializes = bush_grs_rhod_03_base; }
-[t:template,n:tree_grs_deciduous_13] { specializes = tree_ice_dead_01_base; }
-[t:template,n:tree_grs_deciduous_14] { specializes = tree_ice_dead_01_base; }
-[t:template,n:tree_grs_deciduous_15] { specializes = tree_ice_dead_01_base; }
-[t:template,n:tree_grs_deciduous_16] { specializes = tree_ice_dead_01_base; }
-[t:template,n:tree_grs_deciduous_17] { specializes = tree_ice_dead_01_sm_base; }
-[t:template,n:tree_grs_deciduous_18] { specializes = tree_ice_dead_01_sm_base; }
-[t:template,n:tree_grs_deciduous_19] { specializes = tree_ice_dead_01_sm_base; }
-[t:template,n:tree_grs_deciduous_20] { specializes = tree_ice_dead_01_sm_base; }
-[t:template,n:tree_grs_deciduous_21] { specializes = bush_grs_rhod_01_base; }
-[t:template,n:tree_grs_deciduous_22] { specializes = bush_grs_rhod_01_base; }
-[t:template,n:tree_grs_deciduous_23] { specializes = bush_grs_rhod_01_base; }
-[t:template,n:tree_grs_deciduous_24] { specializes = bush_grs_rhod_01_base; }
+[t:template,n:tree_grs_deciduous_01] { specializes = tree_ice_ash_lg_bushy_snowy_base; }
+[t:template,n:tree_grs_deciduous_02] { specializes = tree_ice_ash_lg_bushy_snowy_base; }
+[t:template,n:tree_grs_deciduous_03] { specializes = tree_ice_ash_lg_bushy_snowy_base; }
+[t:template,n:tree_grs_deciduous_04] { specializes = tree_ice_ash_lg_bushy_snowy_base; }
+[t:template,n:tree_grs_deciduous_05] { specializes = tree_ice_ash_med_bushy_snowy_base; }
+[t:template,n:tree_grs_deciduous_06] { specializes = tree_ice_ash_med_bushy_snowy_base; }
+[t:template,n:tree_grs_deciduous_07] { specializes = tree_ice_ash_med_bushy_snowy_base; }
+[t:template,n:tree_grs_deciduous_08] { specializes = tree_ice_ash_med_bushy_snowy_base; }
+[t:template,n:tree_grs_deciduous_09] { specializes = tree_ice_ash_sm_bushy_snowy_base; }
+[t:template,n:tree_grs_deciduous_10] { specializes = tree_ice_ash_sm_bushy_snowy_base; }
+[t:template,n:tree_grs_deciduous_11] { specializes = tree_ice_ash_sm_bushy_snowy_base; }
+[t:template,n:tree_grs_deciduous_12] { specializes = tree_ice_ash_sm_bushy_snowy_base; }
+[t:template,n:tree_grs_deciduous_13] { specializes = tree_ice_ash_lg_snowy_base; }
+[t:template,n:tree_grs_deciduous_14] { specializes = tree_ice_ash_lg_snowy_base; }
+[t:template,n:tree_grs_deciduous_15] { specializes = tree_ice_ash_lg_snowy_base; }
+[t:template,n:tree_grs_deciduous_16] { specializes = tree_ice_ash_lg_snowy_base; }
+[t:template,n:tree_grs_deciduous_17] { specializes = tree_ice_ash_med_snowy_base; }
+[t:template,n:tree_grs_deciduous_18] { specializes = tree_ice_ash_med_snowy_base; }
+[t:template,n:tree_grs_deciduous_19] { specializes = tree_ice_ash_med_snowy_base; }
+[t:template,n:tree_grs_deciduous_20] { specializes = tree_ice_ash_med_snowy_base; }
+[t:template,n:tree_grs_deciduous_21] { specializes = tree_ice_ash_sm_snowy_base; }
+[t:template,n:tree_grs_deciduous_22] { specializes = tree_ice_ash_sm_snowy_base; }
+[t:template,n:tree_grs_deciduous_23] { specializes = tree_ice_ash_sm_snowy_base; }
+[t:template,n:tree_grs_deciduous_24] { specializes = tree_ice_ash_sm_snowy_base; }
 [t:template,n:tree_grs_deciduous_sway_01] { specializes = tree_ice_xmas_lg_base; }
 [t:template,n:tree_grs_deciduous_sway_02] { specializes = tree_ice_xmas_lg_base; }
 [t:template,n:tree_grs_deciduous_sway_03] { specializes = tree_ice_xmas_lg_base; }
@@ -643,12 +643,12 @@
 }
 
 // EDITED
-[t:template,n:tree_grs_maple_burgandy_01] { specializes = bush_grs_rhod_02_base; }
-[t:template,n:tree_grs_maple_burgandy_02] { specializes = bush_grs_rhod_01_base; }
-[t:template,n:tree_grs_maple_burgandy_03] { specializes = bush_grs_rhod_03_base; }
-[t:template,n:tree_grs_maple_burgandy_04] { specializes = tree_ice_dead_01_base; }
-[t:template,n:tree_grs_maple_burgandy_05] { specializes = tree_ice_dead_01_sm_base; }
-[t:template,n:tree_grs_maple_burgandy_06] { specializes = bush_grs_rhod_01_base; }
+[t:template,n:tree_grs_maple_burgandy_01] { specializes = tree_ice_ash_lg_bushy_snowy_base; }
+[t:template,n:tree_grs_maple_burgandy_02] { specializes = tree_ice_ash_med_bushy_snowy_base; }
+[t:template,n:tree_grs_maple_burgandy_03] { specializes = tree_ice_ash_sm_bushy_snowy_base; }
+[t:template,n:tree_grs_maple_burgandy_04] { specializes = tree_ice_ash_lg_snowy_base; }
+[t:template,n:tree_grs_maple_burgandy_05] { specializes = tree_ice_ash_med_snowy_base; }
+[t:template,n:tree_grs_maple_burgandy_06] { specializes = tree_ice_ash_sm_snowy_base; }
 // /EDITED
 
 [t:template,n:tree_grs_maple_red_group_01]
@@ -709,12 +709,12 @@
 }
 
 // EDITED
-[t:template,n:tree_grs_maple_yellow_01] { specializes = bush_grs_rhod_02_base; }
-[t:template,n:tree_grs_maple_yellow_02] { specializes = bush_grs_rhod_01_base; }
-[t:template,n:tree_grs_maple_yellow_03] { specializes = bush_grs_rhod_03_base; }
-[t:template,n:tree_grs_maple_yellow_04] { specializes = tree_ice_dead_01_base; }
-[t:template,n:tree_grs_maple_yellow_05] { specializes = tree_ice_dead_01_sm_base; }
-[t:template,n:tree_grs_maple_yellow_06] { specializes = bush_grs_rhod_01_base; }
+[t:template,n:tree_grs_maple_yellow_01] { specializes = tree_ice_ash_lg_bushy_snowy_base; }
+[t:template,n:tree_grs_maple_yellow_02] { specializes = tree_ice_ash_med_bushy_snowy_base; }
+[t:template,n:tree_grs_maple_yellow_03] { specializes = tree_ice_ash_sm_bushy_snowy_base; }
+[t:template,n:tree_grs_maple_yellow_04] { specializes = tree_ice_ash_lg_snowy_base; }
+[t:template,n:tree_grs_maple_yellow_05] { specializes = tree_ice_ash_med_snowy_base; }
+[t:template,n:tree_grs_maple_yellow_06] { specializes = tree_ice_ash_sm_snowy_base; }
 // /EDITED
 
 [t:template,n:tree_grs_maple_ylw_group_01]

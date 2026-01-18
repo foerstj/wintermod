@@ -1,5 +1,5 @@
 :: name of mod
-set mod=Wintermod
+set mod=A Wintermod
 :: name of demo map
 set map=wintermod-demo
 

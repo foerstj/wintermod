@@ -27,7 +27,7 @@
 		standard_track = s_m_credits;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_place_1_mill;
 		room_type = rt_plain;
 	}
 }
@@ -60,7 +60,7 @@
 		standard_track = s_m_credits;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_place_1_mill;
 		room_type = rt_livingroom;
 	}
 }
@@ -93,7 +93,7 @@
 		standard_track = s_m_besiegedtown_02;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_place_2_farm;
 		room_type = rt_plain;
 	}
 }
@@ -126,7 +126,7 @@
 		standard_track = s_m_besiegedtown_02;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_place_2_farm;
 		room_type = rt_livingroom;
 	}
 }
@@ -159,7 +159,7 @@
 		standard_track = s_m_maintheme;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_way_12_park;
 		room_type = rt_plain;
 	}
 }
@@ -222,7 +222,7 @@
 		standard_track = s_m_besiegedtown_04;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_place_3_inn;
 		room_type = rt_forest;
 	}
 }
@@ -237,7 +237,7 @@
 	  f fog_far_dist = 60.000000;
 	  f fog_lowdetail_near_dist = 20.000000;
 	  f fog_lowdetail_far_dist = 40.000000;
-	  x fog_color = 0xFF444F59;
+	  x fog_color = 0xFF4F5944;
 	  f fog_density = 1.000000;
 	}
 	[wind]
@@ -255,7 +255,7 @@
 		standard_track = s_m_besiegedtown_01;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_place_3_inn_inside;
 		room_type = rt_livingroom;
 	}
 }
@@ -288,7 +288,7 @@
 		standard_track = s_m_path2crypts_01;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_way_23_orchard;
 		room_type = rt_plain;
 	}
 }
@@ -321,7 +321,7 @@
 		standard_track = s_m_subriver_05;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_way_13_snapper_pond;
 		room_type = rt_plain;
 	}
 }
@@ -358,7 +358,7 @@
 		standard_track = s_m_fortkroth_02;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_place_4_witch_cottage;
 		room_type = rt_plain;
 	}
 }
@@ -391,7 +391,7 @@
 		standard_track = s_m_fortkroth_02;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_place_4_witch_cottage;
 		room_type = rt_livingroom;
 	}
 }
@@ -424,7 +424,7 @@
 		standard_track = s_m_fortkroth_02;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_place_4_witch_cottage;
 		room_type = rt_livingroom;
 	}
 }
@@ -457,7 +457,7 @@
 		standard_track = s_m_templeruins_05;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_way_14_spookeywood;
 		room_type = rt_forest;
 	}
 }
@@ -494,7 +494,7 @@
 		standard_track = s_m_templeruins_05;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_way_14_spookeywood;
 		room_type = rt_forest;
 	}
 }
@@ -527,7 +527,7 @@
 		standard_track = s_m_lavacaverns_01;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_way_24_graveyard;
 		room_type = rt_forest;
 	}
 }
@@ -564,7 +564,7 @@
 		standard_track = s_m_lavacaverns_01;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_way_24_graveyard;
 		room_type = rt_forest;
 	}
 }
@@ -597,7 +597,7 @@
 		standard_track = s_m_goblininventor_08;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_way_34_krugwood;
 		room_type = rt_forest;
 	}
 }
@@ -634,7 +634,7 @@
 		standard_track = s_m_goblininventor_08;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_way_34_krugwood;
 		room_type = rt_forest;
 	}
 }
@@ -671,7 +671,7 @@
 		standard_track = s_m_king_intro;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_place_5_dwarven_smithy;
 		room_type = rt_plain;
 	}
 }
@@ -704,7 +704,7 @@
 		standard_track = s_m_king_intro;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_place_5_dwarven_smithy;
 		room_type = rt_livingroom;
 	}
 }
@@ -737,7 +737,7 @@
 		standard_track = s_m_dwarvenmines_07;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_way_15_spider_hole;
 		room_type = rt_plain;
 	}
 }
@@ -770,7 +770,7 @@
 		standard_track = s_m_dwarvenmines_07;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_way_15_spider_hole;
 		room_type = rt_forest;
 	}
 }
@@ -803,7 +803,7 @@
 		standard_track = s_m_dwarvenmines_07;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_way_15_spider_hole;
 		room_type = rt_plain;
 	}
 }
@@ -836,7 +836,7 @@
 		standard_track = s_m_lavacaverns_02;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_way_25_rats_den;
 		room_type = rt_forest;
 	}
 }
@@ -869,7 +869,7 @@
 		standard_track = s_m_lavacaverns_02;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_way_25_rats_den;
 		room_type = rt_plain;
 	}
 }
@@ -902,7 +902,7 @@
 		standard_track = s_m_subriver_05;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_way_35_winterwood;
 		room_type = rt_forest;
 	}
 }
@@ -935,7 +935,7 @@
 		standard_track = s_m_subriver_05;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_way_35_winterwood;
 		room_type = rt_plain;
 	}
 }
@@ -972,7 +972,7 @@
 		standard_track = s_m_subriver_05;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_way_35_winterwood;
 		room_type = rt_plain;
 	}
 }
@@ -1009,7 +1009,7 @@
 		standard_track = s_m_arcticcaverns_06;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_way_45_peak_mount;
 		room_type = rt_plain;
 	}
 }
@@ -1042,7 +1042,7 @@
 		standard_track = s_m_arcticcaverns_06;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_way_45_peak_mount;
 		room_type = rt_plain;
 	}
 }
@@ -1075,7 +1075,7 @@
 		standard_track = s_m_arcticcaverns_06;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_way_45_peak_mount;
 		room_type = rt_plain;
 	}
 }
@@ -1112,7 +1112,7 @@
 		standard_track = s_m_arcticcaverns_06;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_way_45_peak_mount;
 		room_type = rt_plain;
 	}
 }
@@ -1149,7 +1149,7 @@
 		standard_track = s_m_arcticcaverns_06;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_way_45_peak_mount;
 		room_type = rt_plain;
 	}
 }
@@ -1186,7 +1186,7 @@
 		standard_track = s_m_arcticcaverns_06;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_way_45_peak_mount;
 		room_type = rt_plain;
 	}
 }
@@ -1219,7 +1219,7 @@
 		standard_track = s_m_arcticcaverns_01;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_way_45_peak_mount_top;
 		room_type = rt_plain;
 	}
 }
@@ -1252,7 +1252,7 @@
 		standard_track = s_m_arcticcaverns_01;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_way_45_peak_mount_top;
 		room_type = rt_plain;
 	}
 }
@@ -1285,7 +1285,7 @@
 		standard_track = s_m_arcticcaverns_06;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_way_45_peak_mount;
 		room_type = rt_plain;
 	}
 }
@@ -1322,7 +1322,7 @@
 		standard_track = s_m_arcticcaverns_06;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_way_45_peak_mount;
 		room_type = rt_plain;
 	}
 }
@@ -1355,7 +1355,7 @@
 		standard_track = s_m_arcticcaverns_06;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_way_45_peak_mount;
 		room_type = rt_plain;
 	}
 }
@@ -1392,7 +1392,7 @@
 		standard_track = s_m_arcticcaverns_06;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_way_45_peak_mount;
 		room_type = rt_plain;
 	}
 }
@@ -1429,7 +1429,7 @@
 		standard_track = s_m_arcticcaverns_06;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
-		battle_track = ;
+		battle_track = s_m_way_45_peak_mount;
 		room_type = rt_plain;
 	}
 }

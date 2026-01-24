@@ -1146,7 +1146,7 @@
 {
 	mood_name = eos_altair_wnw_shrine_indoor;
   f transition_time = 1.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 60.000000;
@@ -1225,7 +1225,7 @@
 {
 	mood_name = eos_altair_wnw_cave;
   f transition_time = 1.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 60.000000;
@@ -1308,7 +1308,7 @@
 	[frustum]
 	{
 	  f frustum_width = 60.000000;
-	  f frustum_height = 60.000000;
+	  f frustum_height = 100.000000;
 	}
 	[sun]
 	{
@@ -1386,7 +1386,7 @@
 	[frustum]
 	{
 	  f frustum_width = 60.000000;
-	  f frustum_height = 60.000000;
+	  f frustum_height = 100.000000;
 	}
 	[sun]
 	{
@@ -1636,7 +1636,7 @@
 	[frustum]
 	{
 	  f frustum_width = 60.000000;
-	  f frustum_height = 60.000000;
+	  f frustum_height = 100.000000;
 	}
 	[fog]
 	{
@@ -2143,7 +2143,7 @@
 {
 	mood_name = eos_altair_moon_haunted;
   f transition_time = 2.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 60.000000;
@@ -2228,7 +2228,7 @@
 {
 	mood_name = eos_altair_moon_snow_heavy;
   f transition_time = 5.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 60.000000;
@@ -2318,7 +2318,7 @@
 {
 	mood_name = eos_altair_moon_cave;
   f transition_time = 2.000000;
-  b interior = false;
+  b interior = true;
 	[frustum]
 	{
 	  f frustum_width = 60.000000;

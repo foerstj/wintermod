@@ -137,7 +137,7 @@
 {
 	mood_name = eos_sirius_banditmoon_3;
   f transition_time = 1.000000;
-  b interior = false;
+  b interior = true;
 	[frustum]
 	{
 	  f frustum_width = 60.000000;
@@ -164,7 +164,7 @@
 {
 	mood_name = eos_sirius_banditmoon_4;
   f transition_time = 4.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 60.000000;
@@ -200,7 +200,7 @@
 {
 	mood_name = eos_sirius_banditmoon_5;
   f transition_time = 4.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 60.000000;
@@ -236,7 +236,7 @@
 {
 	mood_name = eos_sirius_banditmoon_6;
   f transition_time = 0.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 60.000000;
@@ -263,7 +263,7 @@
 {
 	mood_name = eos_sirius_banditmoon_7;
   f transition_time = 0.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 60.000000;
@@ -464,7 +464,7 @@
 {
 	mood_name = eos_sirius_deathmoon_teleport;
   f transition_time = 20.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 60.000000;
@@ -501,7 +501,7 @@
 {
 	mood_name = eos_sirius_deathmoon_1;
   f transition_time = 4.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 60.000000;
@@ -532,7 +532,7 @@
 {
 	mood_name = eos_sirius_deathmoon_2;
   f transition_time = 5.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 60.000000;
@@ -568,7 +568,7 @@
 {
 	mood_name = eos_sirius_deathmoon_3;
   f transition_time = 4.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 60.000000;
@@ -604,7 +604,7 @@
 {
 	mood_name = eos_sirius_deathmoon_4;
   f transition_time = 4.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 60.000000;
@@ -686,7 +686,7 @@
 {
 	mood_name = eos_sirius_planet_r1a_1;
   f transition_time = 1.000000;
-  b interior = false;
+  b interior = true;
 	[frustum]
 	{
 	  f frustum_width = 60.000000;

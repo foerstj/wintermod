@@ -37,7 +37,7 @@
 {
 	mood_name = eos_vega_forest_1;
   f transition_time = 4.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 60.000000;
@@ -49,7 +49,7 @@
 	  f fog_far_dist = 50.000000;
 	  f fog_lowdetail_near_dist = 30.000000;
 	  f fog_lowdetail_far_dist = 45.000000;
-	  x fog_color = 0xFF80A080;
+	  x fog_color = 0xFF8080A0;
 	  f fog_density = 1.000000;
 	}
 	[wind]
@@ -72,7 +72,7 @@
 {
 	mood_name = eos_vega_forest_2;
   f transition_time = 4.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 60.000000;
@@ -84,7 +84,7 @@
 	  f fog_far_dist = 50.000000;
 	  f fog_lowdetail_near_dist = 30.000000;
 	  f fog_lowdetail_far_dist = 45.000000;
-	  x fog_color = 0xFF86A496;
+	  x fog_color = 0xFF8696A4;
 	  f fog_density = 1.000000;
 	}
 	[snow]
@@ -111,7 +111,7 @@
 {
 	mood_name = eos_vega_forest_3;
   f transition_time = 4.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 60.000000;
@@ -123,7 +123,7 @@
 	  f fog_far_dist = 50.000000;
 	  f fog_lowdetail_near_dist = 30.000000;
 	  f fog_lowdetail_far_dist = 45.000000;
-	  x fog_color = 0xFF86A496;
+	  x fog_color = 0xFF8696A4;
 	  f fog_density = 1.000000;
 	}
 	[wind]
@@ -146,7 +146,7 @@
 {
 	mood_name = eos_vega_forest_4;
   f transition_time = 4.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 60.000000;
@@ -158,7 +158,7 @@
 	  f fog_far_dist = 50.000000;
 	  f fog_lowdetail_near_dist = 30.000000;
 	  f fog_lowdetail_far_dist = 45.000000;
-	  x fog_color = 0xFF86A496;
+	  x fog_color = 0xFF8696A4;
 	  f fog_density = 1.000000;
 	}
 	[wind]
@@ -181,7 +181,7 @@
 {
 	mood_name = eos_vega_forest_5;
   f transition_time = 4.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 60.000000;
@@ -193,7 +193,7 @@
 	  f fog_far_dist = 50.000000;
 	  f fog_lowdetail_near_dist = 30.000000;
 	  f fog_lowdetail_far_dist = 45.000000;
-	  x fog_color = 0xFF86A496;
+	  x fog_color = 0xFF8696A4;
 	  f fog_density = 1.000000;
 	}
 	[wind]
@@ -216,7 +216,7 @@
 {
 	mood_name = eos_vega_forest_6;
   f transition_time = 4.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 60.000000;
@@ -228,7 +228,7 @@
 	  f fog_far_dist = 50.000000;
 	  f fog_lowdetail_near_dist = 30.000000;
 	  f fog_lowdetail_far_dist = 45.000000;
-	  x fog_color = 0xFF86A496;
+	  x fog_color = 0xFF8696A4;
 	  f fog_density = 1.000000;
 	}
 	[wind]
@@ -251,7 +251,7 @@
 {
 	mood_name = eos_vega_forest_braak;
   f transition_time = 4.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 60.000000;
@@ -263,7 +263,7 @@
 	  f fog_far_dist = 50.000000;
 	  f fog_lowdetail_near_dist = 30.000000;
 	  f fog_lowdetail_far_dist = 45.000000;
-	  x fog_color = 0xFF86A496;
+	  x fog_color = 0xFF8696A4;
 	  f fog_density = 1.000000;
 	}
 	[wind]

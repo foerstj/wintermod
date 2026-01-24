@@ -68,7 +68,7 @@
 {
 	mood_name = eos_alphacentauri_eddiloo_indoor;
   f transition_time = 0.200000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 60.000000;

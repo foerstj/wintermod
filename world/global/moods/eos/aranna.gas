@@ -511,7 +511,7 @@
 {
 	mood_name = eos_aranna_moon_tavern;
   f transition_time = 1.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 60.000000;

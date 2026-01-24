@@ -35,7 +35,7 @@
 {
 	mood_name = mill-indoor;
   f transition_time = 1.000000;
-  b interior = true;
+  b interior = false;
 	[fog]
 	{
 	  f fog_near_dist = 30.000000;
@@ -101,7 +101,7 @@
 {
 	mood_name = farm-indoor;
   f transition_time = 1.000000;
-  b interior = true;
+  b interior = false;
 	[fog]
 	{
 	  f fog_near_dist = 30.000000;
@@ -230,14 +230,14 @@
 {
 	mood_name = inn-indoor;
   f transition_time = 1.000000;
-  b interior = true;
+  b interior = false;
 	[fog]
 	{
 	  f fog_near_dist = 30.000000;
 	  f fog_far_dist = 60.000000;
 	  f fog_lowdetail_near_dist = 20.000000;
 	  f fog_lowdetail_far_dist = 40.000000;
-	  x fog_color = 0xFF4F5944;
+	  x fog_color = 0xFF444F59;
 	  f fog_density = 1.000000;
 	}
 	[wind]
@@ -366,14 +366,14 @@
 {
 	mood_name = witch-cottage-indoor;
   f transition_time = 1.000000;
-  b interior = true;
+  b interior = false;
 	[fog]
 	{
 	  f fog_near_dist = 30.000000;
 	  f fog_far_dist = 60.000000;
 	  f fog_lowdetail_near_dist = 20.000000;
 	  f fog_lowdetail_far_dist = 40.000000;
-	  x fog_color = 0xFF4F5944;
+	  x fog_color = 0xFF444F59;
 	  f fog_density = 1.000000;
 	}
 	[wind]
@@ -679,7 +679,7 @@
 {
 	mood_name = dwarven-smithy-indoor;
   f transition_time = 1.000000;
-  b interior = true;
+  b interior = false;
 	[fog]
 	{
 	  f fog_near_dist = 20.000000;

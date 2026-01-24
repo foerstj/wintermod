@@ -1,19 +1,19 @@
 [mood_setting*]
 {
 	mood_name = upza_mine_town_1;
-	transition_time = 4.0f;
+  f transition_time = 4.000000;
   b interior = true;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 60.000000;
 	}
 	[fog]
 	{
-		fog_near_dist = 30.0f;
-		fog_far_dist = 50.0f;
-		fog_lowdetail_near_dist = 30.0f;
-		fog_lowdetail_far_dist = 45.0f;
+	  f fog_near_dist = 30.000000;
+	  f fog_far_dist = 50.000000;
+	  f fog_lowdetail_near_dist = 30.000000;
+	  f fog_lowdetail_far_dist = 45.000000;
 	  x fog_color = 0xFF786343;
 		fog_density = 0.6f;
 	}
@@ -22,28 +22,28 @@
 	}
 	[music]
 	{
-		ambient_track = "";
+		ambient_track = ;
 		standard_repeat_delay = 10.0f;
-		standard_track = "s_m_DwarvenMines_01";
+		standard_track = s_m_DwarvenMines_01;
 		room_type = rt_generic;
 	}
 }
 [mood_setting*]
 {
 	mood_name = upza_mine_town_tavern;
-	transition_time = 4.0f;
+  f transition_time = 4.000000;
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 60.000000;
 	}
 	[fog]
 	{
-		fog_near_dist = 30.0f;
-		fog_far_dist = 50.0f;
-		fog_lowdetail_near_dist = 30.0f;
-		fog_lowdetail_far_dist = 45.0f;
+	  f fog_near_dist = 30.000000;
+	  f fog_far_dist = 50.000000;
+	  f fog_lowdetail_near_dist = 30.000000;
+	  f fog_lowdetail_far_dist = 45.000000;
 	  x fog_color = 0xFF436378;
 		fog_density = 0.6f;
 	}
@@ -52,28 +52,28 @@
 	}
 	[music]
 	{
-		ambient_track = "";
+		ambient_track = ;
 		standard_repeat_delay = 10.0f;
-		standard_track = "s_m_DwarvenMines_01";
+		standard_track = s_m_DwarvenMines_01;
 		room_type = rt_generic;
 	}
 }
 [mood_setting*]
 {
 	mood_name = upza_mine_town_teleport;
-	transition_time = 22.0f;
+  f transition_time = 22.000000;
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 60.000000;
 	}
 	[fog]
 	{
-		fog_near_dist = 30.0f;
-		fog_far_dist = 50.0f;
-		fog_lowdetail_near_dist = 30.0f;
-		fog_lowdetail_far_dist = 45.0f;
+	  f fog_near_dist = 30.000000;
+	  f fog_far_dist = 50.000000;
+	  f fog_lowdetail_near_dist = 30.000000;
+	  f fog_lowdetail_far_dist = 45.000000;
 	  x fog_color = 0xFF436378;
 		fog_density = 0.6f;
 	}
@@ -82,28 +82,28 @@
 	}
 	[music]
 	{
-		ambient_track = "";
+		ambient_track = ;
 		standard_repeat_delay = 10.0f;
-		standard_track = "s_m_DwarvenMines_01";
+		standard_track = s_m_DwarvenMines_01;
 		room_type = rt_generic;
 	}
 }
 [mood_setting*]
 {
 	mood_name = upza_mine_town_teleport_2;
-	transition_time = 20.0f;
+  f transition_time = 20.000000;
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 60.000000;
 	}
 	[fog]
 	{
-		fog_near_dist = 30.0f;
-		fog_far_dist = 50.0f;
-		fog_lowdetail_near_dist = 30.0f;
-		fog_lowdetail_far_dist = 45.0f;
+	  f fog_near_dist = 30.000000;
+	  f fog_far_dist = 50.000000;
+	  f fog_lowdetail_near_dist = 30.000000;
+	  f fog_lowdetail_far_dist = 45.000000;
 	  x fog_color = 0xFF586368;
 		fog_density = 0.6f;
 	}
@@ -112,9 +112,9 @@
 	}
 	[music]
 	{
-		ambient_track = "";
+		ambient_track = ;
 		standard_repeat_delay = 10.0f;
-		standard_track = "s_m_DwarvenMines_01";
+		standard_track = s_m_DwarvenMines_01;
 		room_type = rt_generic;
 	}
 }

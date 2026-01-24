@@ -119,8 +119,8 @@
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 60.000000;
 	}
 	[fog]
 	{
@@ -156,8 +156,8 @@
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 60.000000;
 	}
 	[fog]
 	{
@@ -193,8 +193,8 @@
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 60.000000;
 	}
 	[fog]
 	{
@@ -230,8 +230,8 @@
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 75.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 75.000000;
+	  f frustum_height = 60.000000;
 	}
 	[fog]
 	{

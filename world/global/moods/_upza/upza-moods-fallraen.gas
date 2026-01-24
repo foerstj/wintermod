@@ -1,12 +1,12 @@
 [mood_setting*]
 {
 	mood_name = upza_snow_town_north;
-	transition_time = 2.0f;
+  f transition_time = 2.000000;
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 60.000000;
 	}
 	[sun]
 	{
@@ -61,10 +61,10 @@
 	}
 	[fog]
 	{
-		fog_near_dist = 3.0f;
-		fog_far_dist = 30.0f;
-		fog_lowdetail_near_dist = 3.0f;
-		fog_lowdetail_far_dist = 25.0f;
+	  f fog_near_dist = 3.000000;
+	  f fog_far_dist = 30.000000;
+	  f fog_lowdetail_near_dist = 3.000000;
+	  f fog_lowdetail_far_dist = 25.000000;
 	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.5f;
 	}
@@ -77,20 +77,20 @@
 	}
 	[music]
 	{
-		ambient_track = "";
-		standard_track = "s_m_Glacern_01";
+		ambient_track = ;
+		standard_track = s_m_Glacern_01;
 		room_type = rt_generic;
 	}
 }
 [mood_setting*]
 {
 	mood_name = upza_snow_town_indoor;
-	transition_time = 0.0f;
+  f transition_time = 0.000000;
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 60.000000;
 	}
 	[sun]
 	{
@@ -145,10 +145,10 @@
 	}
 	[fog]
 	{
-		fog_near_dist = 25.0f;
-		fog_far_dist = 40.0f;
-		fog_lowdetail_near_dist = 25.0f;
-		fog_lowdetail_far_dist = 35.0f;
+	  f fog_near_dist = 25.000000;
+	  f fog_far_dist = 40.000000;
+	  f fog_lowdetail_near_dist = 25.000000;
+	  f fog_lowdetail_far_dist = 35.000000;
 	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.5f;
 	}
@@ -157,20 +157,20 @@
 	}
 	[music]
 	{
-		ambient_track = "";
-		standard_track = "s_m_Glacern_07";
+		ambient_track = ;
+		standard_track = s_m_Glacern_07;
 		room_type = rt_generic;
 	}
 }
 [mood_setting*]
 {
 	mood_name = upza_snow_town_south;
-	transition_time = 5.0f;
+  f transition_time = 5.000000;
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 60.000000;
 	}
 	[sun]
 	{
@@ -225,10 +225,10 @@
 	}
 	[fog]
 	{
-		fog_near_dist = 10.0f;
-		fog_far_dist = 40.0f;
-		fog_lowdetail_near_dist = 10.0f;
-		fog_lowdetail_far_dist = 35.0f;
+	  f fog_near_dist = 10.000000;
+	  f fog_far_dist = 40.000000;
+	  f fog_lowdetail_near_dist = 10.000000;
+	  f fog_lowdetail_far_dist = 35.000000;
 	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.5f;
 	}
@@ -241,20 +241,20 @@
 	}
 	[music]
 	{
-		ambient_track = "";
-		standard_track = "s_m_Glacern_06";
+		ambient_track = ;
+		standard_track = s_m_Glacern_06;
 		room_type = rt_generic;
 	}
 }
 [mood_setting*]
 {
 	mood_name = upza_snow_town_south_dgn;
-	transition_time = 4.0f;
+  f transition_time = 4.000000;
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 60.000000;
 	}
 	[sun]
 	{
@@ -309,10 +309,10 @@
 	}
 	[fog]
 	{
-		fog_near_dist = 20.0f;
-		fog_far_dist = 40.0f;
-		fog_lowdetail_near_dist = 10.0f;
-		fog_lowdetail_far_dist = 35.0f;
+	  f fog_near_dist = 20.000000;
+	  f fog_far_dist = 40.000000;
+	  f fog_lowdetail_near_dist = 10.000000;
+	  f fog_lowdetail_far_dist = 35.000000;
 	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.5f;
 	}
@@ -325,20 +325,20 @@
 	}
 	[music]
 	{
-		ambient_track = "";
-		standard_track = "s_m_Glacern_06";
+		ambient_track = ;
+		standard_track = s_m_Glacern_06;
 		room_type = rt_generic;
 	}
 }
 [mood_setting*]
 {
 	mood_name = upza_snow_town_entry;
-	transition_time = 5.0f;
+  f transition_time = 5.000000;
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 60.000000;
 	}
 	[sun]
 	{
@@ -393,10 +393,10 @@
 	}
 	[fog]
 	{
-		fog_near_dist = 10.0f;
-		fog_far_dist = 40.0f;
-		fog_lowdetail_near_dist = 10.0f;
-		fog_lowdetail_far_dist = 35.0f;
+	  f fog_near_dist = 10.000000;
+	  f fog_far_dist = 40.000000;
+	  f fog_lowdetail_near_dist = 10.000000;
+	  f fog_lowdetail_far_dist = 35.000000;
 	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.5f;
 	}
@@ -409,20 +409,20 @@
 	}
 	[music]
 	{
-		ambient_track = "";
-		standard_track = "s_m_Glacern_07";
+		ambient_track = ;
+		standard_track = s_m_Glacern_07;
 		room_type = rt_generic;
 	}
 }
 [mood_setting*]
 {
 	mood_name = upza_snow_town_tavern;
-	transition_time = 0.0f;
+  f transition_time = 0.000000;
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 60.000000;
 	}
 	[sun]
 	{
@@ -477,10 +477,10 @@
 	}
 	[fog]
 	{
-		fog_near_dist = 25.0f;
-		fog_far_dist = 40.0f;
-		fog_lowdetail_near_dist = 25.0f;
-		fog_lowdetail_far_dist = 35.0f;
+	  f fog_near_dist = 25.000000;
+	  f fog_far_dist = 40.000000;
+	  f fog_lowdetail_near_dist = 25.000000;
+	  f fog_lowdetail_far_dist = 35.000000;
 	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.5f;
 	}
@@ -489,20 +489,20 @@
 	}
 	[music]
 	{
-		ambient_track = "";
-		standard_track = "s_m_Glacern_07";
+		ambient_track = ;
+		standard_track = s_m_Glacern_07;
 		room_type = rt_generic;
 	}
 }
 [mood_setting*]
 {
 	mood_name = upza_snow_town_exit_tx;
-	transition_time = 15.0f;
+  f transition_time = 15.000000;
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 60.000000;
 	}
 	[sun]
 	{
@@ -557,10 +557,10 @@
 	}
 	[fog]
 	{
-		fog_near_dist = 3.0f;
-		fog_far_dist = 30.0f;
-		fog_lowdetail_near_dist = 3.0f;
-		fog_lowdetail_far_dist = 25.0f;
+	  f fog_near_dist = 3.000000;
+	  f fog_far_dist = 30.000000;
+	  f fog_lowdetail_near_dist = 3.000000;
+	  f fog_lowdetail_far_dist = 25.000000;
 	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.5f;
 	}
@@ -573,20 +573,20 @@
 	}
 	[music]
 	{
-		ambient_track = "";
-		standard_track = "s_m_Glacern_01";
+		ambient_track = ;
+		standard_track = s_m_Glacern_01;
 		room_type = rt_generic;
 	}
 }
 [mood_setting*]
 {
 	mood_name = upza_snow_town_5;
-	transition_time = 15.0f;
+  f transition_time = 15.000000;
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 60.000000;
 	}
 	[sun]
 	{
@@ -641,10 +641,10 @@
 	}
 	[fog]
 	{
-		fog_near_dist = 10.0f;
-		fog_far_dist = 35.0f;
-		fog_lowdetail_near_dist = 10.0f;
-		fog_lowdetail_far_dist = 30.0f;
+	  f fog_near_dist = 10.000000;
+	  f fog_far_dist = 35.000000;
+	  f fog_lowdetail_near_dist = 10.000000;
+	  f fog_lowdetail_far_dist = 30.000000;
 	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.5f;
 	}
@@ -657,20 +657,20 @@
 	}
 	[music]
 	{
-		ambient_track = "";
-		standard_track = "s_m_Glacern_07";
+		ambient_track = ;
+		standard_track = s_m_Glacern_07;
 		room_type = rt_generic;
 	}
 }
 [mood_setting*]
 {
 	mood_name = upza_snow_town_6;
-	transition_time = 2.0f;
+  f transition_time = 2.000000;
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 60.000000;
 	}
 	[sun]
 	{
@@ -725,10 +725,10 @@
 	}
 	[fog]
 	{
-		fog_near_dist = 10.0f;
-		fog_far_dist = 35.0f;
-		fog_lowdetail_near_dist = 10.0f;
-		fog_lowdetail_far_dist = 30.0f;
+	  f fog_near_dist = 10.000000;
+	  f fog_far_dist = 35.000000;
+	  f fog_lowdetail_near_dist = 10.000000;
+	  f fog_lowdetail_far_dist = 30.000000;
 	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.5f;
 	}
@@ -741,20 +741,20 @@
 	}
 	[music]
 	{
-		ambient_track = "";
-		standard_track = "s_m_Glacern_01";
+		ambient_track = ;
+		standard_track = s_m_Glacern_01;
 		room_type = rt_generic;
 	}
 }
 [mood_setting*]
 {
 	mood_name = upza_snow_town_7;
-	transition_time = 1.0f;
+  f transition_time = 1.000000;
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 60.000000;
 	}
 	[sun]
 	{
@@ -809,10 +809,10 @@
 	}
 	[fog]
 	{
-		fog_near_dist = 10.0f;
-		fog_far_dist = 35.0f;
-		fog_lowdetail_near_dist = 10.0f;
-		fog_lowdetail_far_dist = 30.0f;
+	  f fog_near_dist = 10.000000;
+	  f fog_far_dist = 35.000000;
+	  f fog_lowdetail_near_dist = 10.000000;
+	  f fog_lowdetail_far_dist = 30.000000;
 	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.5f;
 	}
@@ -821,20 +821,20 @@
 	}
 	[music]
 	{
-		ambient_track = "";
-		standard_track = "s_m_Glacern_01";
+		ambient_track = ;
+		standard_track = s_m_Glacern_01;
 		room_type = rt_generic;
 	}
 }
 [mood_setting*]
 {
 	mood_name = upza_snow_town_8;
-	transition_time = 1.0f;
+  f transition_time = 1.000000;
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 60.000000;
 	}
 	[sun]
 	{
@@ -889,10 +889,10 @@
 	}
 	[fog]
 	{
-		fog_near_dist = 10.0f;
-		fog_far_dist = 35.0f;
-		fog_lowdetail_near_dist = 10.0f;
-		fog_lowdetail_far_dist = 30.0f;
+	  f fog_near_dist = 10.000000;
+	  f fog_far_dist = 35.000000;
+	  f fog_lowdetail_near_dist = 10.000000;
+	  f fog_lowdetail_far_dist = 30.000000;
 	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.5f;
 	}
@@ -905,20 +905,20 @@
 	}
 	[music]
 	{
-		ambient_track = "";
-		standard_track = "s_m_Glacern_01";
+		ambient_track = ;
+		standard_track = s_m_Glacern_01;
 		room_type = rt_generic;
 	}
 }
 [mood_setting*]
 {
 	mood_name = upza_snow_town_teleport;
-	transition_time = 22.0f;
+  f transition_time = 22.000000;
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 60.000000;
 	}
 	[sun]
 	{
@@ -973,10 +973,10 @@
 	}
 	[fog]
 	{
-		fog_near_dist = 10.0f;
-		fog_far_dist = 40.0f;
-		fog_lowdetail_near_dist = 10.0f;
-		fog_lowdetail_far_dist = 35.0f;
+	  f fog_near_dist = 10.000000;
+	  f fog_far_dist = 40.000000;
+	  f fog_lowdetail_near_dist = 10.000000;
+	  f fog_lowdetail_far_dist = 35.000000;
 	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.5f;
 	}
@@ -989,20 +989,20 @@
 	}
 	[music]
 	{
-		ambient_track = "";
-		standard_track = "s_m_Glacern_07";
+		ambient_track = ;
+		standard_track = s_m_Glacern_07;
 		room_type = rt_generic;
 	}
 }
 [mood_setting*]
 {
 	mood_name = upza_snow_town_teleport_2;
-	transition_time = 20.0f;
+  f transition_time = 20.000000;
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 60.000000;
 	}
 	[sun]
 	{
@@ -1057,10 +1057,10 @@
 	}
 	[fog]
 	{
-		fog_near_dist = 3.0f;
-		fog_far_dist = 30.0f;
-		fog_lowdetail_near_dist = 3.0f;
-		fog_lowdetail_far_dist = 25.0f;
+	  f fog_near_dist = 3.000000;
+	  f fog_far_dist = 30.000000;
+	  f fog_lowdetail_near_dist = 3.000000;
+	  f fog_lowdetail_far_dist = 25.000000;
 	  x fog_color = 0xFFC0C0C8;
 		fog_density = 0.5f;
 	}
@@ -1073,8 +1073,8 @@
 	}
 	[music]
 	{
-		ambient_track = "";
-		standard_track = "s_m_Glacern_01";
+		ambient_track = ;
+		standard_track = s_m_Glacern_01;
 		room_type = rt_generic;
 	}
 }

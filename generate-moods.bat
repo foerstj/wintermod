@@ -2,6 +2,6 @@
 set bits=%~dp0.
 
 pushd %gaspy%
-venv\Scripts\python -m landscaping.edit_moods --src world/global/git-ignore/moods --edit-from-file mood-edits.txt --bits "%bits%"
+venv\Scripts\python -m landscaping.edit_moods --bits "%bits%"
 if %errorlevel% neq 0 pause
 popd

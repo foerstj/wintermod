@@ -167,8 +167,8 @@
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 60.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 60.000000;
+	  f frustum_height = 60.000000;
 	}
 	[sun]
 	{
@@ -248,8 +248,8 @@
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 60.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 60.000000;
+	  f frustum_height = 60.000000;
 	}
 	[sun]
 	{
@@ -329,8 +329,8 @@
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 60.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 60.000000;
+	  f frustum_height = 60.000000;
 	}
 	[sun]
 	{
@@ -410,8 +410,8 @@
   b interior = true;
 	[frustum]
 	{
-		frustum_width = 60.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 60.000000;
+	  f frustum_height = 60.000000;
 	}
 	[sun]
 	{
@@ -487,54 +487,54 @@
 [mood_setting*]
 {
 	mood_name = eos_rigel_dry_pyramid_dungeon_1;
-	transition_time = 4.0f;
+  f transition_time = 4.000000;
   b interior = true;
 	[frustum]
 	{
-		frustum_width = 60.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 60.000000;
+	  f frustum_height = 60.000000;
 	}
 	[fog]
 	{
-		fog_near_dist = 35.0f;
-		fog_far_dist = 45.0f;
-		fog_lowdetail_near_dist = 35.0f;
-		fog_lowdetail_far_dist = 40.0f;
+	  f fog_near_dist = 35.000000;
+	  f fog_far_dist = 45.000000;
+	  f fog_lowdetail_near_dist = 35.000000;
+	  f fog_lowdetail_far_dist = 40.000000;
 	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[music]
 	{
-		ambient_track = "";
+		ambient_track = ;
 		standard_repeat_delay = 5.0f;
-		standard_track = "s_m_drums_03";
+		standard_track = s_m_drums_03;
 		room_type = rt_stonecorridor;
 	}
 }
 [mood_setting*]
 {
 	mood_name = eos_rigel_dry_pyramid_dungeon_2;
-	transition_time = 4.0f;
+  f transition_time = 4.000000;
   b interior = true;
 	[frustum]
 	{
-		frustum_width = 60.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 60.000000;
+	  f frustum_height = 60.000000;
 	}
 	[fog]
 	{
-		fog_near_dist = 35.0f;
-		fog_far_dist = 45.0f;
-		fog_lowdetail_near_dist = 35.0f;
-		fog_lowdetail_far_dist = 40.0f;
+	  f fog_near_dist = 35.000000;
+	  f fog_far_dist = 45.000000;
+	  f fog_lowdetail_near_dist = 35.000000;
+	  f fog_lowdetail_far_dist = 40.000000;
 	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[music]
 	{
-		ambient_track = "";
+		ambient_track = ;
 		standard_repeat_delay = 0.0f;
-		standard_track = "s_m_drums_03";
+		standard_track = s_m_drums_03;
 		room_type = rt_stonecorridor;
 	}
 }
@@ -1085,8 +1085,8 @@
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 60.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 60.000000;
+	  f frustum_height = 60.000000;
 	}
 	[sun]
 	{
@@ -1170,8 +1170,8 @@
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 60.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 60.000000;
+	  f frustum_height = 60.000000;
 	}
 	[sun]
 	{
@@ -1255,8 +1255,8 @@
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 60.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 60.000000;
+	  f frustum_height = 60.000000;
 	}
 	[sun]
 	{
@@ -1340,8 +1340,8 @@
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 60.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 60.000000;
+	  f frustum_height = 60.000000;
 	}
 	[sun]
 	{
@@ -1421,12 +1421,12 @@
 [mood_setting*]
 {
 	mood_name = eos_rigel_wet_wetlands_r2_1_1;
-	transition_time = 0.5f;
+  f transition_time = 0.500000;
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 60.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 60.000000;
+	  f frustum_height = 60.000000;
 	}
 	[sun]
 	{
@@ -1507,8 +1507,8 @@
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 60.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 60.000000;
+	  f frustum_height = 60.000000;
 	}
 	[sun]
 	{
@@ -1588,54 +1588,54 @@
 [mood_setting*]
 {
 	mood_name = eos_rigel_wet_drystorage_1;
-	transition_time = 2.0f;
+  f transition_time = 2.000000;
   b interior = true;
 	[frustum]
 	{
-		frustum_width = 60.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 60.000000;
+	  f frustum_height = 60.000000;
 	}
 	[fog]
 	{
-		fog_near_dist = 35.0f;
-		fog_far_dist = 45.0f;
-		fog_lowdetail_near_dist = 35.0f;
-		fog_lowdetail_far_dist = 40.0f;
+	  f fog_near_dist = 35.000000;
+	  f fog_far_dist = 45.000000;
+	  f fog_lowdetail_near_dist = 35.000000;
+	  f fog_lowdetail_far_dist = 40.000000;
 	  x fog_color = 0xFF000000;
 		fog_density = 0.4f;
 	}
 	[music]
 	{
-		ambient_track = "";
+		ambient_track = ;
 		standard_repeat_delay = 10.0f;
-		standard_track = "s_m_swanny";
+		standard_track = s_m_swanny;
 		room_type = rt_stonecorridor;
 	}
 }
 [mood_setting*]
 {
 	mood_name = eos_rigel_wet_drystorage_2;
-	transition_time = .5f;
+  f transition_time = 0.500000;
   b interior = true;
 	[frustum]
 	{
-		frustum_width = 60.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 60.000000;
+	  f frustum_height = 60.000000;
 	}
 	[fog]
 	{
-		fog_near_dist = 35.0f;
-		fog_far_dist = 45.0f;
-		fog_lowdetail_near_dist = 35.0f;
-		fog_lowdetail_far_dist = 40.0f;
+	  f fog_near_dist = 35.000000;
+	  f fog_far_dist = 45.000000;
+	  f fog_lowdetail_near_dist = 35.000000;
+	  f fog_lowdetail_far_dist = 40.000000;
 	  x fog_color = 0xFF000000;
 		fog_density = 0.4f;
 	}
 	[music]
 	{
-		ambient_track = "";
+		ambient_track = ;
 		standard_repeat_delay = 10.0f;
-		standard_track = "s_m_swanny";
+		standard_track = s_m_swanny;
 		room_type = rt_stonecorridor;
 	}
 }

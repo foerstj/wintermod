@@ -6422,10 +6422,10 @@
 	{
 	  f ambient_intro_delay = 0.000000;
 	  f ambient_repeat_delay = 0.000000;
-		ambient_track = "";
+		ambient_track = ;
 	  f standard_intro_delay = 0.000000;
 	  f standard_repeat_delay = 10.000000;
-		standard_track = "";
+		standard_track = ;
 	  f battle_intro_delay = 10.000000;
 	  f battle_repeat_delay = 10.000000;
 		battle_track = 10.000000;
@@ -6460,10 +6460,10 @@
 	{
 	  f ambient_intro_delay = 0.000000;
 	  f ambient_repeat_delay = 0.000000;
-		ambient_track = "";
+		ambient_track = ;
 	  f standard_intro_delay = 0.000000;
 	  f standard_repeat_delay = 10.000000;
-		standard_track = "";
+		standard_track = ;
 	  f battle_intro_delay = 10.000000;
 	  f battle_repeat_delay = 10.000000;
 		battle_track = 10.000000;
@@ -6787,10 +6787,10 @@
 	{
 	  f ambient_intro_delay = 0.000000;
 	  f ambient_repeat_delay = 0.000000;
-		ambient_track = "";
+		ambient_track = ;
 	  f standard_intro_delay = 0.000000;
 	  f standard_repeat_delay = 10.000000;
-		standard_track = "";
+		standard_track = ;
 	  f battle_intro_delay = 10.000000;
 	  f battle_repeat_delay = 10.000000;
 		battle_track = 10.000000;

@@ -1,7 +1,7 @@
 [mood_setting*]
 {
 	mood_name = eos_vega_teleport;
-	transition_time = 20.0f;
+  f transition_time = 20.000000;
   b interior = false;
 	[frustum]
 	{
@@ -285,7 +285,7 @@
 [mood_setting*]
 {
 	mood_name = eos_vega_moon_teleport;
-	transition_time = 20.0f;
+  f transition_time = 20.000000;
   b interior = false;
 	[frustum]
 	{
@@ -460,25 +460,25 @@
 [mood_setting*]
 {
 	mood_name = eos_vega_moon_cave;
-	transition_time = 1.0f;
+  f transition_time = 1.000000;
   b interior = true;
 	[frustum]
 	{
-		frustum_width = 60.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 60.000000;
+	  f frustum_height = 60.000000;
 	}
 	[fog]
 	{
-		fog_near_dist = 25.0f;
-		fog_far_dist = 40.0f;
-		fog_lowdetail_near_dist = 25.0f;
-		fog_lowdetail_far_dist = 35.0f;
+	  f fog_near_dist = 25.000000;
+	  f fog_far_dist = 40.000000;
+	  f fog_lowdetail_near_dist = 25.000000;
+	  f fog_lowdetail_far_dist = 35.000000;
 	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[music]
 	{
-		ambient_track = "";
-		standard_track = "s_m_drums_01";
+		ambient_track = ;
+		standard_track = s_m_drums_01;
 	}
 }

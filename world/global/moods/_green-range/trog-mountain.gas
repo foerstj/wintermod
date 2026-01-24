@@ -1,19 +1,19 @@
 [mood_setting*]
 {
 	mood_name = gr-dsc-west-1;
-	transition_time = 2.0f;
+  f transition_time = 2.000000;
   b interior = true;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 60.000000;
 	}
 	[fog]
 	{
-		fog_near_dist = 10.0f;
-		fog_far_dist = 40.0f;
-		fog_lowdetail_near_dist = 10.0f;
-		fog_lowdetail_far_dist = 35.0f;
+	  f fog_near_dist = 10.000000;
+	  f fog_far_dist = 40.000000;
+	  f fog_lowdetail_near_dist = 10.000000;
+	  f fog_lowdetail_far_dist = 35.000000;
 	  x fog_color = 0xFF121926;
 		fog_density = 0.5f;
 	}
@@ -22,7 +22,7 @@
 	}
 	[music]
 	{
-		ambient_track = "";
+		ambient_track = ;
 		standard_intro_delay = 8.0f;
 		standard_repeat_delay = 24.0f;
 		standard_track = s_m_SubRiver_05;
@@ -33,19 +33,19 @@
 [mood_setting*]
 {
 	mood_name = gr-dsc-west-2;
-	transition_time = 8.0f;
+  f transition_time = 8.000000;
   b interior = true;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 60.000000;
 	}
 	[fog]
 	{
-		fog_near_dist = 10.0f;
-		fog_far_dist = 40.0f;
-		fog_lowdetail_near_dist = 10.0f;
-		fog_lowdetail_far_dist = 35.0f;
+	  f fog_near_dist = 10.000000;
+	  f fog_far_dist = 40.000000;
+	  f fog_lowdetail_near_dist = 10.000000;
+	  f fog_lowdetail_far_dist = 35.000000;
 	  x fog_color = 0xFF121926;
 		fog_density = 0.5f;
 	}
@@ -54,7 +54,7 @@
 	}
 	[music]
 	{
-		ambient_track = "";
+		ambient_track = ;
 		standard_intro_delay = 8.0f;
 		standard_repeat_delay = 24.0f;
 		standard_track = s_m_SubRiver_01;
@@ -65,19 +65,19 @@
 [mood_setting*]
 {
 	mood_name = gr-dsc-west-3;
-	transition_time = 2.0f;
+  f transition_time = 2.000000;
   b interior = true;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 60.000000;
 	}
 	[fog]
 	{
-		fog_near_dist = 10.0f;
-		fog_far_dist = 40.0f;
-		fog_lowdetail_near_dist = 10.0f;
-		fog_lowdetail_far_dist = 35.0f;
+	  f fog_near_dist = 10.000000;
+	  f fog_far_dist = 40.000000;
+	  f fog_lowdetail_near_dist = 10.000000;
+	  f fog_lowdetail_far_dist = 35.000000;
 	  x fog_color = 0xFF122619;
 		fog_density = 0.5f;
 	}
@@ -86,7 +86,7 @@
 	}
 	[music]
 	{
-		ambient_track = "";
+		ambient_track = ;
 		standard_intro_delay = 8.0f;
 		standard_repeat_delay = 24.0f;
 		standard_track = s_m_SubRiver_02;
@@ -97,19 +97,19 @@
 [mood_setting*]
 {
 	mood_name = gr-dsc-east-1;
-	transition_time = 1.0f;
+  f transition_time = 1.000000;
   b interior = true;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 60.000000;
 	}
 	[fog]
 	{
-		fog_near_dist = 10.0f;
-		fog_far_dist = 40.0f;
-		fog_lowdetail_near_dist = 10.0f;
-		fog_lowdetail_far_dist = 35.0f;
+	  f fog_near_dist = 10.000000;
+	  f fog_far_dist = 40.000000;
+	  f fog_lowdetail_near_dist = 10.000000;
+	  f fog_lowdetail_far_dist = 35.000000;
 	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
@@ -118,28 +118,28 @@
 	}
 	[music]
 	{
-		ambient_track = "";
+		ambient_track = ;
 		standard_repeat_delay = 10.0f;
-		standard_track = "s_m_SubRiver_04";
+		standard_track = s_m_SubRiver_04;
 		room_type = rt_cave;
 	}
 }
 [mood_setting*]
 {
 	mood_name = gr-dsc-east-2;
-	transition_time = 5.0f;
+  f transition_time = 5.000000;
   b interior = true;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 60.000000;
 	}
 	[fog]
 	{
-		fog_near_dist = 10.0f;
-		fog_far_dist = 40.0f;
-		fog_lowdetail_near_dist = 10.0f;
-		fog_lowdetail_far_dist = 35.0f;
+	  f fog_near_dist = 10.000000;
+	  f fog_far_dist = 40.000000;
+	  f fog_lowdetail_near_dist = 10.000000;
+	  f fog_lowdetail_far_dist = 35.000000;
 	  x fog_color = 0xFF121926;
 		fog_density = 0.5f;
 	}
@@ -148,28 +148,28 @@
 	}
 	[music]
 	{
-		ambient_track = "";
+		ambient_track = ;
 		standard_repeat_delay = 10.0f;
-		standard_track = "s_m_SubRiver_01";
+		standard_track = s_m_SubRiver_01;
 		room_type = rt_cave;
 	}
 }
 [mood_setting*]
 {
 	mood_name = gr-dsc-east-3;
-	transition_time = 5.0f;
+  f transition_time = 5.000000;
   b interior = true;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 60.000000;
 	}
 	[fog]
 	{
-		fog_near_dist = 5.0f;
-		fog_far_dist = 45.0f;
-		fog_lowdetail_near_dist = 5.0f;
-		fog_lowdetail_far_dist = 40.0f;
+	  f fog_near_dist = 5.000000;
+	  f fog_far_dist = 45.000000;
+	  f fog_lowdetail_near_dist = 5.000000;
+	  f fog_lowdetail_far_dist = 40.000000;
 	  x fog_color = 0xFF00182F;
 		fog_density = 0.5f;
 	}
@@ -178,28 +178,28 @@
 	}
 	[music]
 	{
-		ambient_track = "";
+		ambient_track = ;
 		standard_repeat_delay = 0.0f;
-		standard_track = "s_m_SubRiver_05";
+		standard_track = s_m_SubRiver_05;
 		room_type = rt_cave;
 	}
 }
 [mood_setting*]
 {
 	mood_name = gr-dsc-east-4;
-	transition_time = 3.0f;
+  f transition_time = 3.000000;
   b interior = true;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 60.000000;
 	}
 	[fog]
 	{
-		fog_near_dist = 10.0f;
-		fog_far_dist = 50.0f;
-		fog_lowdetail_near_dist = 10.0f;
-		fog_lowdetail_far_dist = 45.0f;
+	  f fog_near_dist = 10.000000;
+	  f fog_far_dist = 50.000000;
+	  f fog_lowdetail_near_dist = 10.000000;
+	  f fog_lowdetail_far_dist = 45.000000;
 	  x fog_color = 0xFF121828;
 		fog_density = 0.5f;
 	}
@@ -208,21 +208,21 @@
 	}
 	[music]
 	{
-		ambient_track = "";
+		ambient_track = ;
 		standard_repeat_delay = 10.0f;
-		standard_track = "s_m_SubRiver_02";
+		standard_track = s_m_SubRiver_02;
 		room_type = rt_arena;
 	}
 }
 [mood_setting*]
 {
 	mood_name = gr-tm-stairs;
-	transition_time = 8.0f;
+  f transition_time = 8.000000;
   b interior = true;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 60.000000;
 	}
 	[sun]
 	{
@@ -277,10 +277,10 @@
 	}
 	[fog]
 	{
-		fog_near_dist = 10.0f;
-		fog_far_dist = 40.0f;
-		fog_lowdetail_near_dist = 10.0f;
-		fog_lowdetail_far_dist = 35.0f;
+	  f fog_near_dist = 10.000000;
+	  f fog_far_dist = 40.000000;
+	  f fog_lowdetail_near_dist = 10.000000;
+	  f fog_lowdetail_far_dist = 35.000000;
 	  x fog_color = 0xFF1B1B23;
 		fog_density = 0.5f;
 	}
@@ -300,12 +300,12 @@
 [mood_setting*]
 {
 	mood_name = gr-tm-stairs-quick;
-	transition_time = 1.0f;
+  f transition_time = 1.000000;
   b interior = true;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 60.000000;
 	}
 	[sun]
 	{
@@ -360,10 +360,10 @@
 	}
 	[fog]
 	{
-		fog_near_dist = 10.0f;
-		fog_far_dist = 40.0f;
-		fog_lowdetail_near_dist = 10.0f;
-		fog_lowdetail_far_dist = 35.0f;
+	  f fog_near_dist = 10.000000;
+	  f fog_far_dist = 40.000000;
+	  f fog_lowdetail_near_dist = 10.000000;
+	  f fog_lowdetail_far_dist = 35.000000;
 	  x fog_color = 0xFF1B1B23;
 		fog_density = 0.5f;
 	}
@@ -383,12 +383,12 @@
 [mood_setting*]
 {
 	mood_name = gr-tm-shelter-outside;
-	transition_time = 1.0f;
+  f transition_time = 1.000000;
   b interior = true;
 	[frustum]
 	{
-		frustum_width = 60.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 60.000000;
+	  f frustum_height = 60.000000;
 	}
 	[sun]
 	{
@@ -456,12 +456,12 @@
 	}
 	[wind]
 	{
-		wind_velocity = 2.0f;
-		wind_direction = 3.14f;
+	  f wind_velocity = 2.000000;
+	  f wind_direction = 3.140000;
 	}
 	[music]
 	{
-		ambient_track = "";
+		ambient_track = ;
 	  f standard_intro_delay = 8.000000;
 	  f standard_repeat_delay = 24.000000;
 		standard_track = s_m_SubRiver_03;
@@ -472,7 +472,7 @@
 [mood_setting*]
 {
 	mood_name = gr-tm-shelter-inside;
-	transition_time = 0.5f;
+  f transition_time = 0.500000;
   b interior = false;
 	[sun]
 	{
@@ -536,7 +536,7 @@
 	}
 	[music]
 	{
-		ambient_track = "";
+		ambient_track = ;
 	  f standard_intro_delay = 8.000000;
 	  f standard_repeat_delay = 24.000000;
 		standard_track = s_m_SubRiver_03;
@@ -547,14 +547,14 @@
 [mood_setting*]
 {
 	mood_name = gr-gc-north;
-	transition_time = 1.0f;
+  f transition_time = 1.000000;
   b interior = true;
 	[fog]
 	{
-		fog_near_dist = 25.0f;
-		fog_far_dist = 50.0f;
-		fog_lowdetail_near_dist = 25.0f;
-		fog_lowdetail_far_dist = 45.0f;
+	  f fog_near_dist = 25.000000;
+	  f fog_far_dist = 50.000000;
+	  f fog_lowdetail_near_dist = 25.000000;
+	  f fog_lowdetail_far_dist = 45.000000;
 	  x fog_color = 0xFF202028;
 		fog_density = 0.5f;
 	}
@@ -571,14 +571,14 @@
 [mood_setting*]
 {
 	mood_name = gr-gc-river-north;
-	transition_time = 8.0f;
+  f transition_time = 8.000000;
   b interior = true;
 	[fog]
 	{
-		fog_near_dist = 10.0f;
-		fog_far_dist = 40.0f;
-		fog_lowdetail_near_dist = 10.0f;
-		fog_lowdetail_far_dist = 35.0f;
+	  f fog_near_dist = 10.000000;
+	  f fog_far_dist = 40.000000;
+	  f fog_lowdetail_near_dist = 10.000000;
+	  f fog_lowdetail_far_dist = 35.000000;
 	  x fog_color = 0xFF1B1B23;
 		fog_density = 0.5f;
 	}
@@ -595,14 +595,14 @@
 [mood_setting*]
 {
 	mood_name = gr-gc-river-south;
-	transition_time = 4.0f;
+  f transition_time = 4.000000;
   b interior = true;
 	[fog]
 	{
-		fog_near_dist = 10.0f;
-		fog_far_dist = 40.0f;
-		fog_lowdetail_near_dist = 10.0f;
-		fog_lowdetail_far_dist = 35.0f;
+	  f fog_near_dist = 10.000000;
+	  f fog_far_dist = 40.000000;
+	  f fog_lowdetail_near_dist = 10.000000;
+	  f fog_lowdetail_far_dist = 35.000000;
 	  x fog_color = 0xFF202028;
 		fog_density = 0.5f;
 	}
@@ -617,14 +617,14 @@
 [mood_setting*]
 {
 	mood_name = gr-gc-bridge;
-	transition_time = 4.0f;
+  f transition_time = 4.000000;
   b interior = true;
 	[fog]
 	{
-		fog_near_dist = 10.0f;
-		fog_far_dist = 40.0f;
-		fog_lowdetail_near_dist = 10.0f;
-		fog_lowdetail_far_dist = 35.0f;
+	  f fog_near_dist = 10.000000;
+	  f fog_far_dist = 40.000000;
+	  f fog_lowdetail_near_dist = 10.000000;
+	  f fog_lowdetail_far_dist = 35.000000;
 	  x fog_color = 0xFF282830;
 		fog_density = 0.5f;
 	}
@@ -639,14 +639,14 @@
 [mood_setting*]
 {
 	mood_name = gr-gc-south;
-	transition_time = 1.0f;
+  f transition_time = 1.000000;
   b interior = true;
 	[fog]
 	{
-		fog_near_dist = 10.0f;
-		fog_far_dist = 40.0f;
-		fog_lowdetail_near_dist = 10.0f;
-		fog_lowdetail_far_dist = 35.0f;
+	  f fog_near_dist = 10.000000;
+	  f fog_far_dist = 40.000000;
+	  f fog_lowdetail_near_dist = 10.000000;
+	  f fog_lowdetail_far_dist = 35.000000;
 	  x fog_color = 0xFF121926;
 		fog_density = 0.5f;
 	}

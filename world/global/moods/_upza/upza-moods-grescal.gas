@@ -1,19 +1,19 @@
 [mood_setting*]
 {
 	mood_name = upza_oasis_1;
-	transition_time = 5.0f;
+  f transition_time = 5.000000;
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 60.000000;
 	}
 	[fog]
 	{
-		fog_near_dist = 30.0f;
-		fog_far_dist = 40.0f;
-		fog_lowdetail_near_dist = 30.0f;
-		fog_lowdetail_far_dist = 35.0f;
+	  f fog_near_dist = 30.000000;
+	  f fog_far_dist = 40.000000;
+	  f fog_lowdetail_near_dist = 30.000000;
+	  f fog_lowdetail_far_dist = 35.000000;
 	  x fog_color = 0xFF506888;
 		fog_density = 0.5f;
 	}
@@ -22,28 +22,28 @@
 	}
 	[music]
 	{
-		ambient_track = "";
+		ambient_track = ;
 		standard_repeat_delay = 5.0f;
-		standard_track = "s_m_FortKroth_01";
+		standard_track = s_m_FortKroth_01;
 		room_type = rt_generic;
 	}
 }
 [mood_setting*]
 {
 	mood_name = upza_oasis_teleport;
-	transition_time = 22.0f;
+  f transition_time = 22.000000;
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 60.000000;
 	}
 	[fog]
 	{
-		fog_near_dist = 30.0f;
-		fog_far_dist = 40.0f;
-		fog_lowdetail_near_dist = 30.0f;
-		fog_lowdetail_far_dist = 35.0f;
+	  f fog_near_dist = 30.000000;
+	  f fog_far_dist = 40.000000;
+	  f fog_lowdetail_near_dist = 30.000000;
+	  f fog_lowdetail_far_dist = 35.000000;
 	  x fog_color = 0xFF506888;
 		fog_density = 0.5f;
 	}
@@ -52,9 +52,9 @@
 	}
 	[music]
 	{
-		ambient_track = "";
+		ambient_track = ;
 		standard_repeat_delay = 5.0f;
-		standard_track = "s_m_FortKroth_03";
+		standard_track = s_m_FortKroth_03;
 		room_type = rt_generic;
 	}
 }

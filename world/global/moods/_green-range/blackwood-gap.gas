@@ -113,7 +113,7 @@
 	}
 	[music]
 	{
-		ambient_track = "";
+		ambient_track = ;
 	  f standard_intro_delay = 8.000000;
 	  f standard_repeat_delay = 24.000000;
 		standard_track = s_m_darkforest_03;
@@ -170,7 +170,7 @@
 	}
 	[music]
 	{
-		ambient_track = "";
+		ambient_track = ;
 	  f standard_intro_delay = 8.000000;
 	  f standard_repeat_delay = 24.000000;
 		standard_track = s_m_darkforest_01;
@@ -223,7 +223,7 @@
 	}
 	[music]
 	{
-		ambient_track = "";
+		ambient_track = ;
 	  f standard_intro_delay = 8.000000;
 	  f standard_repeat_delay = 24.000000;
 		standard_track = s_m_darkforest_02;
@@ -247,7 +247,7 @@
 	}
 	[music]
 	{
-		ambient_track = "";
+		ambient_track = ;
 	  f standard_intro_delay = 8.000000;
 	  f standard_repeat_delay = 24.000000;
 		standard_track = s_m_darkforest_02;

@@ -72,10 +72,10 @@
 	{
 	  f ambient_intro_delay = 0.000000;
 	  f ambient_repeat_delay = 0.000000;
-		ambient_track = "s_e_ambient_bird2";
+		ambient_track = s_e_ambient_bird2;
 	  f standard_intro_delay = 2.000000;
 	  f standard_repeat_delay = 20.000000;
-		standard_track = "s_m_subriver_05";
+		standard_track = s_m_subriver_05;
 		room_type = rt_generic;
 	}
 }
@@ -153,10 +153,10 @@
 	{
 	  f ambient_intro_delay = 0.000000;
 	  f ambient_repeat_delay = 0.000000;
-		ambient_track = "s_e_ambient_bird2";
+		ambient_track = s_e_ambient_bird2;
 	  f standard_intro_delay = 5.000000;
 	  f standard_repeat_delay = 10.000000;
-		standard_track = "s_m_subriver_03";
+		standard_track = s_m_subriver_03;
 		room_type = rt_generic;
 	}
 }
@@ -234,22 +234,22 @@
 	{
 	  f ambient_intro_delay = 0.000000;
 	  f ambient_repeat_delay = 0.000000;
-		ambient_track = "s_e_ambient_bird2";
+		ambient_track = s_e_ambient_bird2;
 	  f standard_intro_delay = 2.000000;
 	  f standard_repeat_delay = 10.000000;
-		standard_track = "s_m_d_k_theme";
+		standard_track = s_m_d_k_theme;
 		room_type = rt_generic;
 	}
 }
 [mood_setting*]
 {
 	mood_name = eos_betelgeuse_1;
-	transition_time = 5.0f;
+  f transition_time = 5.000000;
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 60.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 60.000000;
+	  f frustum_height = 60.000000;
 	}
 	[sun]
 	{
@@ -313,29 +313,29 @@
 	}
 	[wind]
 	{
-		wind_velocity = 1.0f;
-		wind_direction = 0.0f;
+	  f wind_velocity = 1.000000;
+	  f wind_direction = 0.000000;
 	}
 	[music]
 	{
 	  f ambient_intro_delay = 0.000000;
 	  f ambient_repeat_delay = 0.000000;
-		ambient_track = "s_e_ambient_bird2";
+		ambient_track = s_e_ambient_bird2;
 	  f standard_intro_delay = 10.000000;
 	  f standard_repeat_delay = 20.000000;
-		standard_track = "s_m_subriver_05";
+		standard_track = s_m_subriver_05;
 		room_type = rt_generic;
 	}
 }
 [mood_setting*]
 {
 	mood_name = eos_betelgeuse_2;
-	transition_time = 15.0f;
+  f transition_time = 15.000000;
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 60.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 60.000000;
+	  f frustum_height = 60.000000;
 	}
 	[sun]
 	{
@@ -399,29 +399,29 @@
 	}
 	[wind]
 	{
-		wind_velocity = 1.0f;
-		wind_direction = 0.0f;
+	  f wind_velocity = 1.000000;
+	  f wind_direction = 0.000000;
 	}
 	[music]
 	{
 	  f ambient_intro_delay = 0.000000;
 	  f ambient_repeat_delay = 0.000000;
-		ambient_track = "s_e_ambient_bird1";
+		ambient_track = s_e_ambient_bird1;
 	  f standard_intro_delay = 10.000000;
 	  f standard_repeat_delay = 20.000000;
-		standard_track = "s_m_subriver_05";
+		standard_track = s_m_subriver_05;
 		room_type = rt_generic;
 	}
 }
 [mood_setting*]
 {
 	mood_name = eos_betelgeuse_cave;
-	transition_time = 1.0f;
+  f transition_time = 1.000000;
   b interior = true;
 	[frustum]
 	{
-		frustum_width = 60.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 60.000000;
+	  f frustum_height = 60.000000;
 	}
 	[sun]
 	{
@@ -476,31 +476,31 @@
 	}
 	[fog]
 	{
-		fog_near_dist = 25.0f;
-		fog_far_dist = 50.0f;
-		fog_lowdetail_near_dist = 25.0f;
-		fog_lowdetail_far_dist = 45.0f;
+	  f fog_near_dist = 25.000000;
+	  f fog_far_dist = 50.000000;
+	  f fog_lowdetail_near_dist = 25.000000;
+	  f fog_lowdetail_far_dist = 45.000000;
 	  x fog_color = 0xFF202028;
 		fog_density = 0.5f;
 	}
 	[music]
 	{
-		ambient_track = "";
+		ambient_track = ;
 		standard_intro_delay = 5.0f;
 		standard_repeat_delay = 10.0f;
-		standard_track = "s_m_subriver_01";
+		standard_track = s_m_subriver_01;
 		room_type = rt_cave;
 	}
 }
 [mood_setting*]
 {
 	mood_name = eos_betelgeuse_2_from_cave;
-	transition_time = 3.0f;
+  f transition_time = 3.000000;
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 60.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 60.000000;
+	  f frustum_height = 60.000000;
 	}
 	[sun]
 	{
@@ -564,17 +564,17 @@
 	}
 	[wind]
 	{
-		wind_velocity = 1.0f;
-		wind_direction = 0.0f;
+	  f wind_velocity = 1.000000;
+	  f wind_direction = 0.000000;
 	}
 	[music]
 	{
 	  f ambient_intro_delay = 0.000000;
 	  f ambient_repeat_delay = 0.000000;
-		ambient_track = "s_e_ambient_bird1";
+		ambient_track = s_e_ambient_bird1;
 	  f standard_intro_delay = 10.000000;
 	  f standard_repeat_delay = 20.000000;
-		standard_track = "s_m_subriver_05";
+		standard_track = s_m_subriver_05;
 		room_type = rt_generic;
 	}
 }
@@ -652,10 +652,10 @@
 	{
 	  f ambient_intro_delay = 0.000000;
 	  f ambient_repeat_delay = 0.000000;
-		ambient_track = "s_e_ambient_bird2";
+		ambient_track = s_e_ambient_bird2;
 	  f standard_intro_delay = 5.000000;
 	  f standard_repeat_delay = 10.000000;
-		standard_track = "s_m_subriver_03";
+		standard_track = s_m_subriver_03;
 		room_type = rt_generic;
 	}
 }
@@ -733,10 +733,10 @@
 	{
 	  f ambient_intro_delay = 0.000000;
 	  f ambient_repeat_delay = 0.000000;
-		ambient_track = "s_e_ambient_bird2";
+		ambient_track = s_e_ambient_bird2;
 	  f standard_intro_delay = 5.000000;
 	  f standard_repeat_delay = 10.000000;
-		standard_track = "s_m_subriver_03";
+		standard_track = s_m_subriver_03;
 		room_type = rt_generic;
 	}
 }
@@ -814,10 +814,10 @@
 	{
 	  f ambient_intro_delay = 0.000000;
 	  f ambient_repeat_delay = 0.000000;
-		ambient_track = "s_e_ambient_wind_01";
+		ambient_track = s_e_ambient_wind_01;
 	  f standard_intro_delay = 2.000000;
 	  f standard_repeat_delay = 10.000000;
-		standard_track = "s_m_subriver_02";
+		standard_track = s_m_subriver_02;
 		room_type = rt_generic;
 	}
 }
@@ -895,10 +895,10 @@
 	{
 	  f ambient_intro_delay = 0.000000;
 	  f ambient_repeat_delay = 0.000000;
-		ambient_track = "s_e_ambient_wind_01";
+		ambient_track = s_e_ambient_wind_01;
 	  f standard_intro_delay = 10.000000;
 	  f standard_repeat_delay = 10.000000;
-		standard_track = "s_m_subriver_02";
+		standard_track = s_m_subriver_02;
 		room_type = rt_generic;
 	}
 }
@@ -980,10 +980,10 @@
 	{
 	  f ambient_intro_delay = 0.000000;
 	  f ambient_repeat_delay = 0.000000;
-		ambient_track = "s_e_ambient_wind_01b";
+		ambient_track = s_e_ambient_wind_01b;
 	  f standard_intro_delay = 10.000000;
 	  f standard_repeat_delay = 10.000000;
-		standard_track = "s_m_subriver_02";
+		standard_track = s_m_subriver_02;
 		room_type = rt_generic;
 	}
 }
@@ -1065,10 +1065,10 @@
 	{
 	  f ambient_intro_delay = 0.000000;
 	  f ambient_repeat_delay = 0.000000;
-		ambient_track = "s_e_ambient_wind_01";
+		ambient_track = s_e_ambient_wind_01;
 	  f standard_intro_delay = 10.000000;
 	  f standard_repeat_delay = 10.000000;
-		standard_track = "s_m_waterdungeon_01";
+		standard_track = s_m_waterdungeon_01;
 		room_type = rt_generic;
 	}
 }
@@ -1150,10 +1150,10 @@
 	{
 	  f ambient_intro_delay = 0.000000;
 	  f ambient_repeat_delay = 0.000000;
-		ambient_track = "s_e_ambient_wind_01b";
+		ambient_track = s_e_ambient_wind_01b;
 	  f standard_intro_delay = 10.000000;
 	  f standard_repeat_delay = 10.000000;
-		standard_track = "s_m_waterdungeon_01";
+		standard_track = s_m_waterdungeon_01;
 		room_type = rt_generic;
 	}
 }
@@ -1235,10 +1235,10 @@
 	{
 	  f ambient_intro_delay = 0.000000;
 	  f ambient_repeat_delay = 0.000000;
-		ambient_track = "s_e_ambient_wind_01";
+		ambient_track = s_e_ambient_wind_01;
 	  f standard_intro_delay = 10.000000;
 	  f standard_repeat_delay = 10.000000;
-		standard_track = "s_m_waterdungeon_02";
+		standard_track = s_m_waterdungeon_02;
 		room_type = rt_generic;
 	}
 }
@@ -1323,7 +1323,7 @@
 		ambient_track = ;
 	  f standard_intro_delay = 10.000000;
 	  f standard_repeat_delay = 10.000000;
-		standard_track = "s_m_waterdungeon_02";
+		standard_track = s_m_waterdungeon_02;
 		room_type = rt_generic;
 	}
 }

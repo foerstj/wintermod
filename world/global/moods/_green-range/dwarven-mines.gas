@@ -1,20 +1,20 @@
 [mood_setting*]
 {
 	mood_name = gr-dm-west-1;
-	transition_time = 1.0f;
+  f transition_time = 1.000000;
   b interior = true;
 	[fog]
 	{
-		fog_near_dist = 35.0f;
-		fog_far_dist = 45.0f;
-		fog_lowdetail_near_dist = 35.0f;
-		fog_lowdetail_far_dist = 40.0f;
+	  f fog_near_dist = 35.000000;
+	  f fog_far_dist = 45.000000;
+	  f fog_lowdetail_near_dist = 35.000000;
+	  f fog_lowdetail_far_dist = 40.000000;
 	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[music]
 	{
-		ambient_track = "";
+		ambient_track = ;
 	  f standard_intro_delay = 8.000000;
 	  f standard_repeat_delay = 24.000000;
 		standard_track = s_m_DwarvenMines_04;
@@ -25,20 +25,20 @@
 [mood_setting*]
 {
 	mood_name = gr-dm-west-2;
-	transition_time = 2.0f;
+  f transition_time = 2.000000;
   b interior = true;
 	[fog]
 	{
-		fog_near_dist = 35.0f;
-		fog_far_dist = 45.0f;
-		fog_lowdetail_near_dist = 35.0f;
-		fog_lowdetail_far_dist = 40.0f;
+	  f fog_near_dist = 35.000000;
+	  f fog_far_dist = 45.000000;
+	  f fog_lowdetail_near_dist = 35.000000;
+	  f fog_lowdetail_far_dist = 40.000000;
 	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[music]
 	{
-		ambient_track = "";
+		ambient_track = ;
 	  f standard_intro_delay = 8.000000;
 	  f standard_repeat_delay = 24.000000;
 		standard_track = s_m_DwarvenMines_05;
@@ -49,20 +49,20 @@
 [mood_setting*]
 {
 	mood_name = gr-dm-west-3;
-	transition_time = 0.0f;
+  f transition_time = 0.000000;
   b interior = true;
 	[fog]
 	{
-		fog_near_dist = 35.0f;
-		fog_far_dist = 45.0f;
-		fog_lowdetail_near_dist = 35.0f;
-		fog_lowdetail_far_dist = 40.0f;
+	  f fog_near_dist = 35.000000;
+	  f fog_far_dist = 45.000000;
+	  f fog_lowdetail_near_dist = 35.000000;
+	  f fog_lowdetail_far_dist = 40.000000;
 	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[music]
 	{
-		ambient_track = "";
+		ambient_track = ;
 	  f standard_intro_delay = 8.000000;
 	  f standard_repeat_delay = 24.000000;
 		standard_track = s_m_DwarvenMines_03;
@@ -73,20 +73,20 @@
 [mood_setting*]
 {
 	mood_name = gr-dm-west-4;
-	transition_time = 0.0f;
+  f transition_time = 0.000000;
   b interior = true;
 	[fog]
 	{
-		fog_near_dist = 35.0f;
-		fog_far_dist = 45.0f;
-		fog_lowdetail_near_dist = 35.0f;
-		fog_lowdetail_far_dist = 40.0f;
+	  f fog_near_dist = 35.000000;
+	  f fog_far_dist = 45.000000;
+	  f fog_lowdetail_near_dist = 35.000000;
+	  f fog_lowdetail_far_dist = 40.000000;
 	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[music]
 	{
-		ambient_track = "";
+		ambient_track = ;
 	  f standard_intro_delay = 8.000000;
 	  f standard_repeat_delay = 24.000000;
 		standard_track = s_m_DwarvenMines_05;
@@ -97,25 +97,25 @@
 [mood_setting*]
 {
 	mood_name = gr-dm-town;
-	transition_time = 2.0f;
+  f transition_time = 2.000000;
   b interior = true;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 85.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 85.000000;
 	}
 	[fog]
 	{
-		fog_near_dist = 35.0f;
-		fog_far_dist = 45.0f;
-		fog_lowdetail_near_dist = 35.0f;
-		fog_lowdetail_far_dist = 40.0f;
+	  f fog_near_dist = 35.000000;
+	  f fog_far_dist = 45.000000;
+	  f fog_lowdetail_near_dist = 35.000000;
+	  f fog_lowdetail_far_dist = 40.000000;
 	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[music]
 	{
-		ambient_track = "";
+		ambient_track = ;
 	  f standard_intro_delay = 8.000000;
 	  f standard_repeat_delay = 24.000000;
 		standard_track = s_m_besiegedtown_04;
@@ -126,30 +126,30 @@
 [mood_setting*]
 {
 	mood_name = gr-dm-back;
-	transition_time = 2.0f;
+  f transition_time = 2.000000;
   b interior = true;
 	[fog]
 	{
-		fog_near_dist = 35.0f;
-		fog_far_dist = 45.0f;
-		fog_lowdetail_near_dist = 35.0f;
-		fog_lowdetail_far_dist = 40.0f;
+	  f fog_near_dist = 35.000000;
+	  f fog_far_dist = 45.000000;
+	  f fog_lowdetail_near_dist = 35.000000;
+	  f fog_lowdetail_far_dist = 40.000000;
 	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[music]
 	{
-		ambient_track = "";
+		ambient_track = ;
 	  f standard_intro_delay = 32.000000;
 	  f standard_repeat_delay = 16.000000;
-		standard_track = "s_m_besiegedtown_03";
+		standard_track = s_m_besiegedtown_03;
 		room_type = rt_cave;
 	}
 }
 [mood_setting*]
 {
 	mood_name = gr-dm-ele-up;
-	transition_time = 2.0f;
+  f transition_time = 2.000000;
   b interior = true;
 	[sun]
 	{
@@ -204,25 +204,25 @@
 	}
 	[fog]
 	{
-		fog_near_dist = 35.0f;
-		fog_far_dist = 45.0f;
-		fog_lowdetail_near_dist = 35.0f;
-		fog_lowdetail_far_dist = 40.0f;
+	  f fog_near_dist = 35.000000;
+	  f fog_far_dist = 45.000000;
+	  f fog_lowdetail_near_dist = 35.000000;
+	  f fog_lowdetail_far_dist = 40.000000;
 	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[music]
 	{
-		ambient_track = "s_e_ambient_wind_mines";
+		ambient_track = s_e_ambient_wind_mines;
 		standard_repeat_delay = 10.0f;
-		standard_track = "s_m_DwarvenMines_06";
+		standard_track = s_m_DwarvenMines_06;
 		room_type = rt_cave;
 	}
 }
 [mood_setting*]
 {
 	mood_name = gr-dm-ele-down;
-	transition_time = 0.0f;
+  f transition_time = 0.000000;
   b interior = true;
 	[sun]
 	{
@@ -277,25 +277,25 @@
 	}
 	[fog]
 	{
-		fog_near_dist = 35.0f;
-		fog_far_dist = 45.0f;
-		fog_lowdetail_near_dist = 35.0f;
-		fog_lowdetail_far_dist = 40.0f;
+	  f fog_near_dist = 35.000000;
+	  f fog_far_dist = 45.000000;
+	  f fog_lowdetail_near_dist = 35.000000;
+	  f fog_lowdetail_far_dist = 40.000000;
 	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[music]
 	{
-		ambient_track = "s_e_ambient_wind_mines";
+		ambient_track = s_e_ambient_wind_mines;
 		standard_repeat_delay = 10.0f;
-		standard_track = "s_m_DwarvenMines_06";
+		standard_track = s_m_DwarvenMines_06;
 		room_type = rt_cave;
 	}
 }
 [mood_setting*]
 {
 	mood_name = gr-dm-snowpeak-inside;
-	transition_time = 0.5f;
+  f transition_time = 0.500000;
   b interior = false;
 	[sun]
 	{
@@ -359,7 +359,7 @@
 	}
 	[music]
 	{
-		ambient_track = "";
+		ambient_track = ;
 	  f standard_intro_delay = 4.000000;
 	  f standard_repeat_delay = 24.000000;
 		standard_track = s_m_Glacern_01;
@@ -370,7 +370,7 @@
 [mood_setting*]
 {
 	mood_name = gr-dm-snowpeak-outside;
-	transition_time = 1.0f;
+  f transition_time = 1.000000;
   b interior = false;
 	[sun]
 	{
@@ -438,12 +438,12 @@
 	}
 	[wind]
 	{
-		wind_velocity = 2.0f;
-		wind_direction = 3.14f;
+	  f wind_velocity = 2.000000;
+	  f wind_direction = 3.140000;
 	}
 	[music]
 	{
-		ambient_track = "";
+		ambient_track = ;
 	  f standard_intro_delay = 4.000000;
 	  f standard_repeat_delay = 24.000000;
 		standard_track = s_m_Glacern_01;
@@ -454,7 +454,7 @@
 [mood_setting*]
 {
 	mood_name = gr-dm-snowpeak-inside-tavern;
-	transition_time = 0.5f;
+  f transition_time = 0.500000;
   b interior = true;
 	[sun]
 	{
@@ -518,7 +518,7 @@
 	}
 	[music]
 	{
-		ambient_track = "s_e_env_tavern";
+		ambient_track = s_e_env_tavern;
 	  f standard_intro_delay = 4.000000;
 	  f standard_repeat_delay = 24.000000;
 		standard_track = s_m_Glacern_04;
@@ -529,20 +529,20 @@
 [mood_setting*]
 {
 	mood_name = gr-dm-east-1;
-	transition_time = 2.0f;
+  f transition_time = 2.000000;
   b interior = true;
 	[fog]
 	{
-		fog_near_dist = 35.0f;
-		fog_far_dist = 45.0f;
-		fog_lowdetail_near_dist = 35.0f;
-		fog_lowdetail_far_dist = 40.0f;
+	  f fog_near_dist = 35.000000;
+	  f fog_far_dist = 45.000000;
+	  f fog_lowdetail_near_dist = 35.000000;
+	  f fog_lowdetail_far_dist = 40.000000;
 	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[music]
 	{
-		ambient_track = "s_e_ambient_wind_mines";
+		ambient_track = s_e_ambient_wind_mines;
 	  f standard_intro_delay = 8.000000;
 	  f standard_repeat_delay = 24.000000;
 		standard_track = s_m_DwarvenMines_05;
@@ -553,20 +553,20 @@
 [mood_setting*]
 {
 	mood_name = gr-dm-east-2;
-	transition_time = 2.0f;
+  f transition_time = 2.000000;
   b interior = true;
 	[fog]
 	{
-		fog_near_dist = 35.0f;
-		fog_far_dist = 45.0f;
-		fog_lowdetail_near_dist = 35.0f;
-		fog_lowdetail_far_dist = 40.0f;
+	  f fog_near_dist = 35.000000;
+	  f fog_far_dist = 45.000000;
+	  f fog_lowdetail_near_dist = 35.000000;
+	  f fog_lowdetail_far_dist = 40.000000;
 	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[music]
 	{
-		ambient_track = "s_e_ambient_wind_mines";
+		ambient_track = s_e_ambient_wind_mines;
 	  f standard_intro_delay = 8.000000;
 	  f standard_repeat_delay = 24.000000;
 		standard_track = s_m_DwarvenMines_07;

@@ -5,8 +5,8 @@
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 60.000000;
 	}
 	[fog]
 	{
@@ -39,8 +39,8 @@
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 60.000000;
 	}
 	[fog]
 	{
@@ -77,8 +77,8 @@
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 75.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 75.000000;
+	  f frustum_height = 60.000000;
 	}
 	[fog]
 	{
@@ -111,8 +111,8 @@
   b interior = true;
 	[frustum]
 	{
-		frustum_width = 75.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 75.000000;
+	  f frustum_height = 60.000000;
 	}
 	[fog]
 	{
@@ -350,20 +350,20 @@
 [mood_setting*]
 {
 	mood_name = gr-ps5-dgn;
-	transition_time = 1.0f;
+  f transition_time = 1.000000;
   b interior = true;
 	[fog]
 	{
-		fog_near_dist = 30.0f;
-		fog_far_dist = 40.0f;
-		fog_lowdetail_near_dist = 30.0f;
-		fog_lowdetail_far_dist = 35.0f;
+	  f fog_near_dist = 30.000000;
+	  f fog_far_dist = 40.000000;
+	  f fog_lowdetail_near_dist = 30.000000;
+	  f fog_lowdetail_far_dist = 35.000000;
 	  x fog_color = 0xFF000000;
 		fog_density = 0.5f;
 	}
 	[music]
 	{
-		ambient_track = "";
+		ambient_track = ;
 		standard_intro_delay = 4.0f;
 		standard_repeat_delay = 24.0f;
 		standard_track = s_m_haunted_ruins_battle;
@@ -378,8 +378,8 @@
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 45.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 45.000000;
+	  f frustum_height = 60.000000;
 	}
 	[fog]
 	{
@@ -416,8 +416,8 @@
   b interior = true;
 	[frustum]
 	{
-		frustum_width = 75.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 75.000000;
+	  f frustum_height = 60.000000;
 	}
 	[fog]
 	{
@@ -444,8 +444,8 @@
   b interior = false;
 	[frustum]
 	{
-		frustum_width = 75.0f;
-		frustum_height = 60.0f;
+	  f frustum_width = 75.000000;
+	  f frustum_height = 60.000000;
 	}
 	[fog]
 	{
